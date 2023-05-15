@@ -32,7 +32,16 @@
         "tag": "SuskaBot",
         "patterns": [
           "Apa itu SuskaBot?",
-          "Siapa SuskaBot?"
+          "Siapa SuskaBot?",
+          "SuskaBot",
+          "Suskabot itu apa sih",
+          "Suskabot adalah",
+          "Apa yang dimaksud Suskabot",
+          "Suskabot yaitu",
+          "Suskabot ialah",
+          "jelaskan Suskabot",
+          "Jelaskan apa itu Suskbot",
+          
         ],
         "responses": [
           "SuskaBot adalah aplikasi chatbot informasi tentang Kampus UIN Suska Riau yang dimulai dari pelaksanaan, persyaratan dan program yang berada di kampus UIN Suska Riau!",
@@ -92,7 +101,17 @@
         "tag": "Alamat_UIN_Suska_Riau",
         "patterns": [
           "Alamat UIN Suska Riau?",
-          "dimana alamat UIN Suska Riau?"
+          "Alamat UIN Suska?",
+          "Alamat UIN?",
+          "dimana alamat UIN Suska Riau?",
+          "dimana alamat UIN Suska?",
+          "dimana alamat UIN?",
+          "lokasi UIN suska riau?",
+          "lokasi UIN suska?",
+          "lokasi UIN?",
+          "Letak UIN suska riau?",
+          "Letak UIN suska?",
+          "Letak UIN?"
         ],
         "responses": [
           "Alamat UIN Suska Riau ada di Panam, Jalan. HR. Soebrantas No.Km. 15, RW.15, Simpang Baru, Kota Pekanbaru, Riau"
@@ -112,11 +131,31 @@
         "tag": "rektor",
         "patterns": [
           "Siapa saja nama-nama rektok UIN Suska Riau?",
+          "rektor di uin suska riau",
+          "rektor di uin suska",
+          "rektor uin suska riau",
+          "rektor uin suska",
+          "rektor di uin",
           "Nama-nama rektor UIN Suska Riau siapa saja?",
+          "Nama-nama rektor ?",
+          "Nama-nama rektor UIN Suska Riau ?",
+          "Nama-nama rektor UIN Suska ?",
+          "Nama-nama rektor UIN ?",
+          "Nama rektor UIN Suska Riau siapa saja?",
+          "Nama rektor ?",
+          "Nama rektor UIN Suska Riau ?",
+          "Nama rektor UIN Suska ?",
+          "Nama rektor UIN ?",
           "Semua rektor UIN Suska Riau",
+          "Semua rektor UIN Suska ",
+          "Semua rektor UIN ",
+          "Rektor UIN Suska riau terdahulu",
           "Rektor UIN Suska terdahulu",
+          "Rektor UIN terdahulu",
           "Nama rektor UIN Suska Riau semua",
-          "Semua rektor UIN Suska Riau"
+          "Semua rektor UIN Suska Riau",
+          "Semua rektor UIN Suska ",
+          "Semua rektor UIN "
         ],
         "responses": [
           "Nama-nama rektor UIN Suska Riau adalah sebagai berikut: Prof. H. Ilyas Muh. Ali (1970 – 1975), Drs. H. A. Moerad Oesman (1975 – 1979), Drs. Soewarno Ahmady (1979 – 1987), Drs. H. Yusuf Rahman, MA (1987 – 1996), Prof. Dr. H. Amir Luthfi (1996 – 2005), Prof. Dr. H. M. Nazir (2005 – 2014), Prof. Dr. Munzir Hitami, MA (2014 - 2018), Prof. Dr. KH. Ahmad Mujahidin, S.Ag., M.Ag (2018 - 2020), Prof. Dr. Khairunas Rajab, M.Ag (2021 - 2025)"
