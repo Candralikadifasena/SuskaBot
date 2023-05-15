@@ -109,26 +109,17 @@
         ]
       },
         {
-        “tag”: “rektor”,
-        “patterns”: [
-          “Siapa saja nama-nama rektok UIN Suska Riau?”,
-          “Nama-nama rektor UIN Suska Riau siapa saja?”,
-          “Semua rektor UIN Suska Riau”,
-          “Rektor UIN Suska terdahulu”,
-          “Nama rektor UIN Suska Riau semua”,
-          “Semua rektor UIN Suska Riau”
+        "tag": "rektor",
+        "patterns": [
+          "Siapa saja nama-nama rektok UIN Suska Riau?",
+          "Nama-nama rektor UIN Suska Riau siapa saja?",
+          "Semua rektor UIN Suska Riau",
+          "Rektor UIN Suska terdahulu",
+          "Nama rektor UIN Suska Riau semua",
+          "Semua rektor UIN Suska Riau"
         ]
-        “responses”: [
-          “Nama-nama rektor UIN Suska Riau adalah sebagai berikut:
-          1. Prof. H. Ilyas Muh. Ali (1970 – 1975)
-          2. Drs. H. A. Moerad Oesman (1975 – 1979)
-          3. Drs. Soewarno Ahmady (1979 – 1987)
-          4. Drs. H. Yusuf Rahman, MA (1987 – 1996)
-          5. Prof. Dr. H. Amir Luthfi (1996 – 2005)
-          6. Prof. Dr. H. M. Nazir (2005 – 2014)
-          7. Prof. Dr. Munzir Hitami, MA (2014 - 2018)
-          8. Prof. Dr. KH. Ahmad Mujahidin, S.Ag., M.Ag (2018 - 2020)
-          9. Prof. Dr. Khairunas Rajab, M.Ag (2021 - 2025)”
+        "responses”: [
+          "Nama-nama rektor UIN Suska Riau adalah sebagai berikut: Prof. H. Ilyas Muh. Ali (1970 – 1975), Drs. H. A. Moerad Oesman (1975 – 1979), Drs. Soewarno Ahmady (1979 – 1987), Drs. H. Yusuf Rahman, MA (1987 – 1996), Prof. Dr. H. Amir Luthfi (1996 – 2005), Prof. Dr. H. M. Nazir (2005 – 2014), Prof. Dr. Munzir Hitami, MA (2014 - 2018), Prof. Dr. KH. Ahmad Mujahidin, S.Ag., M.Ag (2018 - 2020), Prof. Dr. Khairunas Rajab, M.Ag (2021 - 2025)"
           ]
       },
         {
