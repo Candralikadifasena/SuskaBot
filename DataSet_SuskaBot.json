@@ -317,6 +317,15 @@
           "Jurusan di fakultas Sains dan Teknologi ada 5, lho! yaitu : Teknik Informatika, Sistem Informasi, Teknik Idustri, Teknik Elektro dan Matematika Terapan"
         ]
       },
+       {
+         "tag": "link",
+         "patterns": [
+           "link google colab"
+           ],
+          "responses": [
+             "https://colab.research.google.com/drive/1rKfY9leHZzLKGTxPvadxhT5ujzfI9CT4#scrollTo=22MVRGBsO9gX"
+              ]
+       },
       {
         "tag": "jurusan_fakultas_Pertanian_dan_Pertenakan",
         "patterns": [
