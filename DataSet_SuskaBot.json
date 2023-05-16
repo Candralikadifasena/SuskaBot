@@ -744,6 +744,423 @@
           ]
       },
       {
+          "tag": "Pengajuan wisuda",
+          "patterns": [
+            "Bagaimana cara mengajukan wisuda?",
+            "Wisuda UIN SUSKA Riau",
+            "Ajukan wisuda UIN SUSKA Riau",
+            "Ajukan wisuda",
+            "Cara ajukan wisuda",
+            "cara pengajuan wisuda",
+            "Mengajukan wisuda",
+            "Pengajuan wisuda"
+          ],
+          "responses": [
+            "Untuk dapat mengajukan wisuda anda dapat melihat dan mengikuti persyaratnnya disini https://peftk.uin-suska.ac.id/syarat-validasi/"
+          ]
+      },
+      {
+          "tag": "Cuti kuliah",
+          "patterns": [
+            "Bagaimana cara mengajukan cuti kuliah?",
+            "Cuti kuliah UIN SUSKA Riau",
+            "Ajukan cuti kuliah UIN SUSKA Riau",
+            "Ajukan cuti kuliah",
+            "Cuti kuliah",
+            "Cuti",
+            "Cara ajukan Cuti kuliah",
+            "cara pengajuan cuti kuliah",
+            "Mengajukan cuti",
+            "Pengajuan cuti kuliah bagaimana"
+          ],
+          "responses": [
+            "Untuk dapat mengajukan cuti kuliah anda dapat melihat dan mengikuti persyaratnnya disini https://feis.uin-suska.ac.id/wp-content/uploads/2021/08/1.png"
+          ]
+      },
+      {
+          "tag": "PMB",
+          "patterns": [
+            "Dimana dapat melihat informasi penerimaan mahasiswa baru?",
+            "Informasi penerimaan mahasiswa baru",
+            "Penerimaan mahasiswa baru",
+            "Melihat cara pendaftaran",
+            "Cara pendaftaran mahasiswa baru"
+          ],
+          "responses": [
+            "Untuk segala informasi penerimaan mahasiswa baru di UIN SUSKA Riau dapat dilihat melalui situs ini https://pmb.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "E-Journal",
+          "patterns": [
+            "Dimana dapat melihat e-journal UIN SUSKA Riau?",
+            "Informasi e-journal UIN SUSKA Riau",
+            "e-journal UIN SUSKA Riau ",
+            "Melihat e-journal UIN SUSKA Riau",
+            "Jurnal yang ada di UIN Suska Riau",
+            "e-journal",
+            "Jurnal di UIN Suska Riau"
+          ],
+          "responses": [
+            "Untuk dapat melihat jurnal yang ada di UIN SUSKA Riau dapat dilihat melalui situs ini https://ejournal.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Struktur organisasi",
+          "patterns": [
+            "Dimana dapat melihat struktur organisasi UIN SUSKA Riau?",
+            "Struktur organisasi UIN SUSKA Riau",
+            "Jelaskan struktur organisasi UIN SUSKA Riau",
+            "Struktur organisasi",
+            "Bagaimana struktur organisasi UIN SUSKA Riau",
+            "Seperti apa struktur organisasi UIN SUSKA Riau",
+            "Sebutan Struktur organisasi UIN SUSKA Riau",
+            "Bagaimana Struktur organisasi UIN SUSKA Riau"
+          ],
+          "responses": [
+            "Untuk dapat melihat struktur organisasi di UIN SUSKA Riau dapat mengunjungi situs ini https://ppid.uin-suska.ac.id/struktur-organisasi/, kemudian pilih menu profil yang ada di halaman situs kemudian pilih struktur organisasi."
+          ]
+      },
+      {
+          "tag": "elearning",
+          "patterns": [
+            "Dimana dapat mengakses elearning UIN SUSKA Riau?",
+            "Akses elearning UIN SUSKA Riau",
+            "Apakah UIN SUSKA Riau memiliki elearning?",
+            "elearning",
+            "elearning UIN SUSKA Riau",
+            "Buka elearning UIN SUSKA Riau",
+            "Buka elearning"
+          ],
+          "responses": [
+            "Untuk dapat melihat elearning UIN SUSKA Riau dapat mengunjungi situs ini https://elearning.uin-suska.ac.id/my/courses.php"
+          ]
+      },
+      {
+          "tag": "Akun youtube",
+          "patterns": [
+            "Dimana dapat mengakses youtube UIN SUSKA Riau?",
+            "Akses youtube UIN SUSKA Riau",
+            "Apakah UIN SUSKA Riau memiliki youtube?",
+            "Youtube",
+            "Youtube UIN SUSKA Riau",
+            "Buka youtube UIN SUSKA Riau",
+            "Buka youtube",
+            "yt UIN",
+            "yt",
+            "Buka yt UIN SUSKA Riau"
+          ],
+          "responses": [
+            "Untuk dapat melihat youtube UIN SUSKA Riau dapat mengunjungi situs ini https://www.youtube.com/c/OfficialUINSuskaRiau"
+          ]
+      },
+      {
+          "tag": "Undangan mandiri",
+          "patterns": [
+            "Dimana dapat mengakses Jalur undangan mandiri UIN SUSKA Riau?",
+            "Jalur undangan mandiri",
+            "Akses jalur undangan mandiri UIN SUSKA Riau",
+            "Apakah UIN SUSKA Riau memiliki jalur undangan mandiri?",
+            "Apakah ada jalur undangan mandiri di UIN SUSKA Riau?",
+            "Jalur undangan mandiri",
+            "Jalur undangan mandiri UIN SUSKA Riau",
+            "Buka jalur undangan mandiri",
+            "undangan mandiri",
+            "Buka jalur undangan mandiri UIN SUSKA Riau"
+          ],
+          "responses": [
+            "Untuk dapat mendapatkan informasi penerimaan mahasiswa baru jalur undangan mandiri dapat mengakses situs ini https://pmb.uin-suska.ac.id/site/menu/id/undanganmandiri"
+          ]
+      },
+      {
+          "tag": "Ujian CAT mandiri",
+          "patterns": [
+            "Dimana dapat mendaftar Jalur ujian CAT mandiri UIN SUSKA Riau?",
+            "Jalur ujian CAT mandiri",
+            "Akses jalur ujian CAT mandiri UIN SUSKA Riau",
+            "Apakah UIN SUSKA Riau memiliki jalur ujian CAT mandiri?",
+            "Apakah ada jalur ujian CAT mandiri di UIN SUSKA Riau?",
+            "Jalur ujian CAT mandiri",
+            "Jalur ujian CAT mandiri UIN SUSKA Riau",
+            "Buka jalur ujian CAT mandiri",
+            "Ujian CAT mandiri ",
+            "Buka jalur ujian CAT mandiri UIN SUSKA Riau"
+          ],
+          "responses": [
+            "Untuk dapat mengetahui informasi pendaftaran ujian CAT mandiri di UIN SUSKA Riau dapat mengakses situs ini https://pmb.uin-suska.ac.id/site/menu/id/jalurujiancbt"
+          ]
+      },
+      {
+          "tag": "Pembayaran Ujian CAT mandiri",
+          "patterns": [
+            "Bagaimana cara pembayaran uang ujian CAT mandiri UIN SUSKA Riau?",
+            "Bayar uang ujian CAT mandiri",
+            "Tutorial pembayaran jalur ujian CAT mandiri UIN SUSKA Riau",
+            "Cara pembayaran uang Jalur ujian CAT mandiri",
+            "Pembayaran uang pendaftaran jalur ujian CAT mandiri UIN SUSKA Riau",
+            "Uang pendaftaran jalur ujian CAT mandiri",
+            "Berapa biaya pendaftaran Ujian CAT mandiri",
+            "Biaya pendaftaran Ujian CAT mandiri"
+          ],
+          "responses": [
+            "Untuk dapat mengetahui tata cara dalam pembayaran uang pendaftaran ujian CAT mandiri UIN SUSKA Riau dapat mengakses situs https://pmb.uin-suska.ac.id/site/menu/id/tatacarapembayaran"
+          ]
+      },
+      {
+          "tag": "Portal KKN",
+          "patterns": [
+            "Dimana dapat mendaftar KKN di UIN SUSKA Riau?",
+            "Portal KKN",
+            "Daftar KKN UIN SUSKA Riau",
+            "Pendaftaran KKN",
+            "Mendaftar KKN",
+            "Cara mendaftar KKN",
+            "KKN UIN SUSKA Riau",
+            "Mendaftar KKN",
+            "Daftar KKN",
+            "Mendaftar UIN SUSKA Riau",
+            "Informasi KKN UIN SUSKA Riau"
+          ],
+          "responses": [
+            "Untuk pendaftaran KKN di UIN SUSKA Riau dapat memebuka portal berikut http://sip-lppm.uin-suska.ac.id/kkn/"
+          ]
+      },
+      {
+          "tag": "Masjid UIN SUSKA",
+          "patterns": [
+            "Apakah UIN SUSKA MEMILIKI MASJID?",
+            "Masjid UIN SUSKA Riau",
+            "Nama masjid UIN SUSKA Riau",
+            "Apa nama masjid UIN SUSKA Riau",
+            "Apakah nama masjid UIN SUSKA Riau",
+            "Masjid UIN",
+            "Masjid",
+            "Masjid UIN namanya apa?"
+          ],
+          "responses": [
+            "UIN SUSKA Riau memiliki satu masjid yang bernama masjid Al-Jami’ah yang terletak di tengah kawasan UIN SUSKA Riau."
+          ]
+      },
+      {
+          "tag": "Pengertian KTM",
+          "patterns": [
+            "Apa itu KTM?",
+            "Apa KTM",
+            "KTM adalah",
+            "Pengertian KTM",
+            "Arti KTM",
+            "Pengertian dari KTM",
+            "Apa yang dimaksud dengan KTM",
+            "KTM artinya apa",
+            "KTM artinya"
+          ],
+          "responses": [
+            "KTM atau Kartu Tanda Mahasiswa yaitu kartu identitas yang diberikan kepada mahasiswa oleh lembaga pendidikan tinggi. KTM berisi informasi penting seperti nama, foto, nomor identitas mahasiswa, dan informasi lainnya yang diperlukan untuk mengidentifikasi status mahasiswa."
+          ]
+      },
+      {
+          "tag": "KIP",
+          "patterns": [
+            "Apa itu KIP?",
+            "Apa KIP",
+            "KIP adalah",
+            "Pengertian KIP",
+            "Arti KIP",
+            "Pengertian dari KIP",
+            "Apa yang dimaksud dengan KIP ",
+            "KIP artinya apa",
+            "KIP artinya",
+            "Kartu Indonesia pintar adalah",
+            "Kartu Indonesia pintar artinya",
+            "Apa itu kartu indonesia pintar adalah",
+            "Kartu Indonesia pintar adalah"
+          ],
+          "responses": [
+            "Kartu Indonesia Pintar (KIP) adalah program pemerintah Indonesia yang bertujuan untuk memberikan bantuan pendidikan kepada siswa dan mahasiswa dari keluarga tidak mampu. Program ini diluncurkan oleh Kementerian Pendidikan dan Kebudayaan Indonesia. KIP awalnya ditujukan untuk siswa sekolah dasar, sekolah menengah pertama, dan sekolah menengah atas yang berasal dari keluarga kurang mampu secara finansial. Namun, seiring waktu, program ini juga diperluas untuk mencakup mahasiswa perguruan tinggi."
+          ]
+      },
+      {
+          "tag": "Info beasiswa",
+          "patterns": [
+            "Dimana dapat melihat informasi beasiswa di UIN SUSKA Riau?",
+            "Informasi beasiswa",
+            "Informasi beasiswa UIN SUSKA Riau",
+            "Info beasiswa",
+            "Berita beasiswa UIN SUSKA Riau"
+          ],
+          "responses": [
+          "Untuk mendapatkan informasi beasiswa yang ada di UIN Suska Riau dapat membuka situs berikut https://beasiswa.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Beasiswa di UIN",
+          "patterns": [
+            "Apa saja beasiswa yang ada di UIN SUSKA Riau?",
+            "Beasiswa UIN SUSKA Riau",
+            "Beasiswa yang tersedia UIN SUSKA Riau",
+            "Beasiswa di UIN SUSKA Riau",
+            "Beasiswa di UIN",
+            "Apa saja beasiswa di UIN SUSKA Riau",
+            "Apa aja beasiswa di UIN SUSKA Riau",
+            "Ada berapa beasiswa di UIN SUSKA Riau",
+            "Beasiswa yang dibuka di UIN SUSKA Riau"
+          ],
+          "responses": [
+            "Terdapat banyak program beasiswa yang di tawarkan di UIN SUSKA Riau diantaranya KIP-K, Bidik Misi, Beasiswa Prestasi, Beasiswa Provinsi, Beasiswa Kabupaten/Kota, Beasiswa Bank Indonesia, Beasiswa YBM PLN, Beasiswa Tahfidz, Beasiswa DIPA(Dana Isian Pelaksana Anggaran), Beasiswa Supersemar, Beasiswa BRI dan Beasiswa Baznas."
+          ]
+      },
+      {
+          "tag": "Pengertian jurnal",
+          "patterns": [
+            "Apa itu jurnal?",
+            "Jurnal adalah",
+            "Pengertian jurnal",
+            "Jurnal itu apa",
+            "Apakah jurnal itu?",
+            "Pengertian jurnal",
+            "Arti jurnal",
+            "Jurnal ialah"
+          ],
+          "responses": [
+            "Jurnal dalam konteks akademik adalah publikasi periodik yang berisi artikel-artikel ilmiah yang ditulis oleh para peneliti, akademisi, atau profesional di bidang tertentu. Jurnal-jurnal ini merupakan sarana untuk menyebarkan penelitian, temuan, dan pemikiran terkini dalam disiplin ilmu tertentu."
+          ]
+      },
+      {
+          "tag": "Pengertian makalah",
+          "patterns": [
+            "Apa itu makalah?",
+            "Makalah adalah",
+            "Pengertian makalah",
+            "Makalah itu apa",
+            "Apakah makalah itu?",
+            "Pengertian makalah",
+            "Arti makalah",
+            "Makalah ialah"
+          ],
+          "responses": [
+            "Makalah adalah sebuah tulisan ilmiah atau akademik yang membahas suatu topik secara mendalam. Makalah biasanya ditulis dalam format yang terstruktur dan berisi analisis, penelitian, argumen, atau paparan fakta yang mendukung topik yang dibahas. Tujuan utama dari makalah adalah untuk menyampaikan informasi, memaparkan gagasan, atau mengajukan pendapat yang didukung oleh bukti atau argumen yang kuat."
+          ]
+      },
+      {
+          "tag": "PKM",
+          "patterns": [
+            "Apa itu PKM?",
+            "PKM adalah",
+            "Pengertian PKM",
+            "PKM itu apa",
+            "Apakah PKM itu?",
+            "Pengertian PKM",
+            "PKM ialah"
+          ],
+          "responses": [
+            "Pusat Kegiatan Mahasiswa (PKM) adalah sebuah lembaga atau unit di perguruan tinggi yang bertanggung jawab dalam mengelola dan menyelenggarakan berbagai kegiatan kemahasiswaan di kampus. PKM merupakan wadah bagi mahasiswa untuk berpartisipasi aktif dalam kegiatan di luar aspek akademik, seperti organisasi, olahraga, seni, budaya, sosial, dan pengembangan kepribadian."
+          ]
+      },
+      {
+          "tag": "Letak PKM",
+          "patterns": [
+            "Dimana letak PKM?",
+            "Letak PKM di UIN SUSKA Riau",
+            "PKM ada di?",
+            "Mana PKM",
+            "Disebelah mana PKM?",
+            "PKM ada dimana?"
+          ],
+          "responses": [
+            "Pusat Kegiatan Mahasiswa (PKM) di UIN SUSKA Riau terletak di sebelah Bank BSI uint UIN SUSKA Riau."
+          ]
+      },
+      {
+          "tag": "Perpustakaan",
+          "patterns": [
+            "Dimana letak Perpustakaan?",
+            "Letak Perpustakaan di UIN SUSKA Riau",
+            "Perpustakaan ada di?",
+            "Mana Perpustakaan",
+            "Disebelah mana Perpustakaan?",
+            "Perpustakaan ada dimana?"
+          ],
+          "responses": [
+            "Perpustakaan di UIN SUSKA Riau terletak di dibagian belakang rektorat UIN SUSKA Riau."
+          ]
+      },
+      {
+          "tag": "Kartu perpustakaan",
+          "patterns": [
+            "Bagaimana membuat kartu anggata perpustakaan?",
+            "Buat kartu anggota perpustakaan",
+            "Kartu anggota perpustakaan?",
+            "kartu perpustakaan",
+            "Anggota pustaka?",
+            "Kartu pustaka?"
+          ],
+          "responses": [
+            "Untuk membuat kartu keanggotaan perpustakaan UIN SUSKA Riau dapat diakses melalui situs ini https://inlislite.uin-suska.ac.id/pendaftaran/anggota"
+          ]
+      },
+      {
+          "tag": "Situs jurnal",
+          "patterns": [
+            "Apa situs jurnal?",
+            "Situs mencari jurnal",
+            "Dimana mencari jurnal?",
+            "Jurnal dicari dimana?",
+            "Pencarian jurnal",
+            "Cara cari jurnal",
+            "Tempat mencari jurnal",
+            "Cari jurnal"
+          ],
+          "responses": [
+            "Situs yang biasa digunakan untuk mencari jurnal diantaranya Microsoft Academic, Directory of Open Access Journals (DOAJ), Google Scholar, ResearchGate, ScienceDirect, Academia.edu, ProQuest, Cambridge Core, Oxford Academic dan International Journal of Education & the Arts."
+          ]
+      },
+      {
+          "tag": "Tri Dharma perguruan tinggi",
+          "patterns": [
+            "Apa Tri Dharma perguruan tinggi?",
+            "Apakah Tri Dharma perguruan tinggi",
+            "Sebutkan Tri Dharma perguruan tinggi",
+            "Apasaja Tri Dharma perguruan tinggi",
+            "Tri Dharma perguruan tinggi adalah",
+            "Pengertian Tri Dharma perguruan tinggi"
+          ],
+          "responses": [
+            "Tri Dharma Perguruan Tinggi adalah konsep dasar yang menjadi tugas dan tanggung jawab utama perguruan tinggi di Indonesia. Konsep ini meliputi tiga elemen penting yang harus dilaksanakan oleh perguruan tinggi, yaitu pendidikan, penelitian dan pengabdian kepada masyarakat."
+          ]
+      },
+      {
+          "tag": "Website Fakultas Sains dan Teknologi",
+          "patterns": [
+            "Apa website Fakultas Sains dan Teknologi?",
+            "Website Fakultas Sains dan Teknologi apa",
+            "Apakah website Fakultas Sains dan Teknologi?",
+            "Web Fakultas Sains dan Teknologi apa",
+            "Web FASTE apa",
+            "Apakah web FASTE",
+            "Web FASTE adalah",
+            "Apa web FASTE?"
+          ],
+          "responses": [
+            "Website dari Fakultas Sains dan Teknologi UIN SUSKA Riau adalah https://fst.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Website Fakultas Tarbiyah dan Keguruan",
+          "patterns": [
+            "Apa website Fakultas Tarbiyah dan Keguruan?",
+            "Website Fakultas Tarbiyah dan Keguruan apa",
+            "Apakah website Fakultas Tarbiyah dan Keguruan?",
+            "Web Fakultas Tarbiyah dan Keguruan apa",
+            "Web FTK apa",
+            "Apakah web FTK",
+            "Web FTK adalah",
+            "Apa web FTK?"
+          ],
+          "responses": [
+            "Website dari Fakultas Tarbiyah dan Keguruan UIN SUSKA Riau adalah https://ftk.uin-suska.ac.id/"
+          ]
+      },
+      {
         "tag": "jurusan_fakultas_Pertanian_dan_Pertenakan",
         "patterns": [
           "di fakultas pertanian dan pertenakan ada jurusan apa aja?",
