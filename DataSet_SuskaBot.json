@@ -316,22 +316,440 @@
           "Jurusan di fakultas Sains dan Teknologi ada 5, lho! yaitu : Teknik Informatika, Sistem Informasi, Teknik Idustri, Teknik Elektro dan Matematika Terapan"
         ]
       },
-       {
-         "tag": "link",
+      { 
+         "tag": "iraise",
          "patterns": [
-           "link google colab"
-           ],
+           "Tempat mengisi krs",
+           "Dimana tempat mengisi krs",
+           "Apa nama tempat mengisi krs",
+           "Dimanakah tempat mengisi krs",
+           "Mengisi krs dimana",
+           "dimana tempat mengisi krs"
+          ],
           "responses": [
-             "https://colab.research.google.com/drive/1rKfY9leHZzLKGTxPvadxhT5ujzfI9CT4#scrollTo=22MVRGBsO9gX"
-              ]
+            "Untuk mengisi sks mahasiswa dapat mengaksesnya melalui iraise dengan membuka website ini https://iraisenew.uin-suska.ac.id/"
+          ]
+      },
+      { 
+          "tag": "Pengertian iraise",
+          "patterns": [
+            "Apa itu iraise?",
+            "Jelaskan apa itu iraise",
+            "Apakah iraise itu?",
+            "iraise?",
+            "iraise adalah",
+            "Pengertian iraise",
+            "Apasih iraise itu?",
+            "Maksud iraise"
+          ],
+          "responses": [
+            "iraise adalah portal akademik UIN SUSKA Riau yang berisi berbagai informasi dibidang akademik seperti layanan pengisian SKS, jadwal perkuliahan, riwayat KRS, riwayat KHS, transkip nilai, cetak KTM, grafik nilai, program MBKM, riwayat pembayaran UKT, layanan aduan, kalender akademik, pengajuan wisuda dan pengajuan cuti kuliah."
+          ]
+      },
+      {
+          "tag": "KRS",
+          "patterns": [
+            "Apa itu KRS?",
+            "KRS?",
+            "Apakah KRS itu?",
+            "KRS adalah",
+            "Pengertian KRS",
+            "Guna KRS?",
+            "Fungsi KRS",
+            "Fungsi KRS adalah"
+          ],
+          "responses": [
+            "KRS adalah singkatan dari Kartu Rencana Studi yang berisi mata kuliah yang akan kamu ambil di semester depan. Jadi, Kartu Rencana Studi ini merupakan lembaran yang didalamnya terdapat informasi seperti mata kuliah beserta jumlah SKS-nya, mata kuliah wajib, dan mata kuliah pilihan."
+          ]
+      },
+      {
+          "tag": "SKS",
+          "patterns": [
+            "Apa itu SKS?",
+            "SKS",
+            "SKS adalah",
+            "Pengertian SKS",
+            "Apasih SKS",
+            "Arti SKS",
+            "Fungsi SKS",
+            "Guna SKS",
+            "Fungsi SKS adalah",
+            "guna SKS adalah"
+          ],
+          "responses": [
+            "SKS atau Satuan Kredit Semester adalah bobot setiap mata kuliah yang ambil, jadi setiap mata kuliah memiliki bobot kegiatan masing-masing mulai dari 1 sampai 4 sks dimana untuk 1 SKS berarti lama pembelajaran sekitaar 50 menit."
+          ]
+      },
+      {
+          "tag": "Perbedaan SKS dan KRS",
+          "patterns": [
+            "Apa perbedaan SKS dan KRS?",
+            "Beda SKS dan KRS",
+            "Perbedaan SKS dan KRS",
+            "Perbedaan SKS dan KRS adalah",
+            "Pembeda SKS dan KRS"
+          ],
+          "responses": [
+            "SKS adalah satuan pengukuran beban studi yang diberikan kepada mata kuliah, sedangkan KRS adalah kartu yang berisi rencana atau jadwal mata kuliah yang akan diambil oleh seorang mahasiswa dalam satu semester."
+          ]
+      },
+      {
+          "tag": "IPK",
+          "patterns": [
+            "Apa itu IPK?",
+            "IPK adalah",
+            "Pengertian IPK",
+            "Arti IPK"
+          ],
+          "responses": [
+            "IPK atau Indeks Prestasi Kumulatif merupakan hasil penggabungan nilai kamu selama semester 1 sampai semester akhir. Jadi, IPK dapat menunjukkan tingkat kesuksesan studi kamu di perguruan tinggi dengan besaran nilai tertinggi adalah 4."
+          ]
+      },
+      {
+          "tag": "IP",
+          "patterns": [
+            "Apa itu IP?",
+            "IP adalah",
+            "Pengertian IP",
+            "Arti IP"
+          ],
+          "responses": [
+            "IP atau Indeks Prestasi adalah jumlah nilai yang kamu dapatkan pada satu semester tertentu. IP dihitung berdasarkan bobot atau nilai yang diberikan pada setiap mata kuliah. Biasanya, IP dihitung untuk satu semester tertentu dan hanya mencakup mata kuliah yang diambil pada semester tersebut. IP digunakan untuk mengevaluasi prestasi akademik seorang mahasiswa dalam satu semester."
+          ]
+      },
+      {
+          "tag": "Perbedaan IP dan IPK",
+          "patterns": [
+            "Apa perbedaan IP dan IPK?",
+            "Beda IP dan IPK",
+            "Pembeda IP dan IPK",
+            "Bedanya IP dan IPK",
+            "Perbedaan IP dan IPK adalah"
+          ],
+          "responses": [
+            "perbedaan utama antara IP dan IPK adalah cakupan waktu dan mata kuliah yang dievaluasi. IP hanya mencakup satu semester tertentu dan mata kuliah yang diambil pada semester tersebut, sedangkan IPK mencakup seluruh masa studi dan semua mata kuliah yang telah ditempuh. IPK memberikan gambaran umum tentang prestasi akademik seorang mahasiswa secara keseluruhan, sementara IP hanya mencerminkan prestasi dalam satu semester tertentu."           
+          ]
+      },
+      {
+          "tag": "KKN",
+          "patterns": [
+            "Apa itu KKN?",
+            "Apa KKN",   
+            "KKN adalah",
+            "Pengertian KKN",
+            "Arti KKN",
+            "Pengertian dari KKN",
+            "Apa yang dimaksud dengan KKN",
+            "KKN artinya apa",
+            "KKN artinya adalah"
+          ],
+          "responses": [
+            "KKN atau Kuliah Kerja Nyata adalah program pengabdian kepada masyarakat yang dilakukan oleh sekelompok mahasiswa. Beberapa kampus mewajibkan KKN sebagai salah satu mata kuliah yang harus ditempuh pada semester 6 atau 7."
+          ]
+      },
+      {
+          "tag": "UKT",
+          "patterns": [
+            "Apa itu UKT?",
+            "Apa UKT ",
+            "UKT adalah",
+            "Pengertian UKT ",
+            "Arti UKT",
+            "Pengertian dari UKT",
+            "Apa yang dimaksud dengan UKT ",
+            "UKT artinya apa",
+            "UKT artinya adalah"
+          ],
+          "responses": [
+            "UKT atau Uang Kuliah Tunggal adalah jumlah biaya tetap yang harus dibayarkan oleh mahasiswa dalam tiap semester. Sistem UKT hanya berlaku bagi mahasiswa yang berkuliah di Perguruan Tinggi Negeri (PTN)."
+          ]
+      },
+      {
+          "tag": "Pengertian rektor",
+          "patterns": [
+            "Apa itu rektor?",
+            "Apa rektor",
+            "Rektor adalah",
+            "Pengertian rektor",
+            "Arti rektor",
+            "Pengertian dari rektor",
+            "Apa yang dimaksud dengan rektor",
+            "Rektor artinya apa",
+            "Rektor artinya adalah",
+            "Siapa itu rektor"
+          ],
+          "responses": [
+            "Rektor merupakan pemimpin tertinggi dalam sebuah universitas atau perguruan tinggi, biasanya rektor memiliki masa jabatan selama 4 tahun. Biasanya kantor seorang rektor disebut dengan rektorat."
+          ]
+      },
+      {
+          "tag": "Pengertian dekan",
+          "patterns": [
+            "Apa itu dekan?",
+            "Apa dekan",
+            "Dekan adalah",
+            "Pengertian dekan",
+            "Arti dekan",
+            "Pengertian dari dekan",
+            "Apa yang dimaksud dengan dekan",
+            "Dekan artinya apa",
+            "Rektor artinya",
+            "Siapa itu dekan"
+          ],
+          "responses": [
+            "Dekan merupakan pemimpin tertinggi dalam sebuah fakultas di perguruan tinggi. Biasanya kantor dekan disebut dengan Dekanat."
+          ]
        },
+       {
+          "tag": "Kepala jurusan/Kepala program studi",
+          "patterns": [
+            "Apa itu Kepala jurusan?",
+            "Apa Kepala jurusan",
+            "Kepala jurusan adalah",
+            "Pengertian Kepala jurusan",
+            "Arti Kepala jurusan",
+            "Pengertian dari Kepala jurusan",
+            "Apa yang dimaksud dengan Kepala jurusan",
+            "Kepala jurusan artinya apa",
+            "Kepala jurusan artinya",
+            "Siapa itu Kepala jurusan",
+            "Apa itu Kepala program studi?",
+            "Apa Kepala program studi",
+            "Kepala program studi adalah",
+            "Pengertian Kepala program studi",
+            "Arti Kepala program studi",
+            "Pengertian dari Kepala program studi",
+            "Apa yang dimaksud dengan Kepala program studi",
+            "Kepala program studi artinya apa",
+            "Kepala program studi artinya",
+            "Siapa itu Kepala program studi"
+          ],
+          "responses": [
+            "Kepala Program Studi, merupakan pimpinan tertinggi di sebuah jurusan. Di beberapa kampus lainnya, Kepala Program Studi disebut juga sebagai Kajur atau Kepala Jurusan."
+          ]
+      },
+      {
+          "tag": "Dosen",
+          "patterns": [
+            "Apa itu dosen?",
+            "Apa dosen",
+            "Dosen adalah",
+            "Pengertian dosen",
+            "Arti dosen",
+            "Pengertian dari dosen",
+            "Apa yang dimaksud dengan dosen",
+            "Dosen artinya apa",
+            "Dosen artinya",
+            "Siapa itu dosen"
+          ],
+          "responses": [
+            "Dosen adalah tenaga pendidik yang mengajar di perguruan tinggi, kalau di sekolah tenaga pendidik disebut Guru, sedangkan di perguruan tinggi tenaga pendidik disebut dengan Dosen."
+          ]
+      },
+      {
+          "tag": "Dosen pembimbing",
+          "patterns": [
+            "Apa itu dosen pembimbing?",
+            "Apa dosen pembimbing",
+            "Dosen pembimbing adalah",
+            "Pengertian dosen pembimbing",
+            "Arti dosen pembimbing",
+            "Pengertian dari dosen pembimbing",
+            "Apa yang dimaksud dengan dosen pembimbing",
+            "Dosen pembimbing artinya apa",
+            "Dosen pembimbing artinya",
+            "Siapa itu dosen pembimbing"
+         ],
+          "responses": [
+            "Dosen pembimbing adalah dosen yang bertugas untuk membimbing mahasiswa dalam suatu kegiatan atau jangka waktu tertentu. Sebagai contoh ketika mahasiswa mengerjakan skripsi atau tugas akhir, akan ada dosen pembimbing khusus yang akan membimbingnya."
+         ]
+     },
+     {
+          "tag": "Asisten dosen",
+          "patterns": [
+            "Apa itu asisten dosen?",
+            "Apa asisten dosen",
+            "Asisten dosen adalah",
+            "Pengertian asisten dosen",
+            "Arti asisten dosen",
+            "Pengertian dari asisten dosen",
+            "Apa yang dimaksud dengan asisten dosen",
+            "Asisten dosen artinya apa",
+            "Asisten dosen artinya",
+            "Siapa itu asisten dosen"
+          ],
+          "responses": [
+            "Asisten dosen merupakan mahasiswa yang diberikan tugas untuk membantu pekerjaan dosen, khususnya mengajar di kelas."
+          ]
+      },
+      {
+          "tag": "DPM",
+          "patterns": [
+            "Apa itu DPM?",
+            "Apa DPM",
+            "DPM adalah",
+            "Pengertian DPM",
+            "Arti DPM",
+            "Pengertian dari DPM",
+            "Apa yang dimaksud dengan DPM",
+            "DPM artinya apa",
+            "DPM artinya",
+            "Siapa itu DPM"
+          ]
+          "responses": [
+            "DPM adalah singkatan dari Dewan Perwakilan Mahasiswa. DPM merupakan sebuah lembaga yang terbentuk di lingkungan perguruan tinggi yang bertugas mewakili dan mengadvokasi kepentingan mahasiswa dalam hal perwakilan dan pembelaan hak-hak mahasiswa di tingkat institusi atau universitas."
+          ]
+      },
+      {
+          "tag": "MPM",
+          "patterns": [
+            "Apa itu MPM?",
+            "Apa MPM",
+            "MPM adalah",
+            "Pengertian MPM",
+            "Arti MPM",
+            "Pengertian dari MPM",
+            "Apa yang dimaksud dengan MPM",
+            "MPM artinya apa",
+            "MPM artinya",
+            "Siapa itu MPM"
+          ],
+          "responses": [
+            "MPM (Majelis Permusyawaratan Mahasiswa) adalah salah satu lembaga di lingkungan kampus yang mewakili mahasiswa dalam pengambilan keputusan penting terkait kehidupan kampus. MPM sering juga disebut sebagai Lembaga Legislatif Mahasiswa."
+          ]
+      },
+      {
+          "tag": "DEMA",
+          "patterns": [
+            "Apa itu DEMA?",
+            "Apa DEMA",
+            "DEMA adalah",
+            "Pengertian DEMA",
+            "Arti DEMA",
+            "Pengertian dari DEMA",
+            "Apa yang dimaksud dengan DEMA",
+            "DEMA artinya apa",
+            "DEMA artinya",
+            "Siapa itu DEMA"
+          ],
+          "responses": [
+            "DEMA adalah singkatan dari Dewan Eksekutif Mahasiswa. DEMA merupakan lembaga eksekutif yang terbentuk di tingkat perguruan tinggi atau universitas yang bertanggung jawab atas pelaksanaan program dan kegiatan yang berkaitan dengan kehidupan mahasiswa di kampus. DEMA biasanya dipilih melalui proses pemilihan yang demokratis oleh mahasiswa lainnya. Anggota DEMA terdiri dari beberapa posisi atau jabatan, seperti Presiden Mahasiswa, Wakil Presiden Mahasiswa, Sekretaris, Bendahara, dan posisi lainnya sesuai dengan struktur organisasi yang ditetapkan."
+          ]
+      },
+      {
+          "tag": "HIMA",
+          "patterns": [
+            "Apa itu HIMA?",
+            "Apa HIMA",
+            "HIMA adalah",
+            "Pengertian HIMA",
+            "Arti HIMA",
+            "Pengertian dari HIMA",
+            "Apa yang dimaksud dengan HIMA",
+            "HIMA artinya apa",
+            "HIMA artinya",
+            "Siapa itu HIMA"
+          ]
+          "responses": [
+            "HIMA adalah singkatan dari Himpunan Mahasiswa, yang juga dikenal sebagai Badan Eksekutif Mahasiswa Tingkat Program Studi atau Jurusan. HIMA merupakan organisasi yang mewakili dan mengkoordinasikan mahasiswa yang tergabung dalam program studi atau jurusan tertentu di perguruan tinggi. HIMA memiliki struktur organisasi yang terdiri dari beberapa posisi atau jabatan, seperti Ketua HIMA, Wakil Ketua HIMA, Sekretaris, Bendahara, dan posisi lainnya. Anggota HIMA biasanya terdiri dari mahasiswa yang sedang menempuh studi di program studi atau jurusan yang sama."
+          ]
+      },
+      {
+          "tag": "BEM",
+          "patterns": [
+            "Apa itu BEM?",
+            "Apa BEM",
+            "BEM adalah",
+            "Pengertian BEM",
+            "Arti BEM",
+            "Pengertian dari BEM",
+            "Apa yang dimaksud dengan BEM",
+            "BEM artinya apa",
+            "BEM artinya",
+            "Siapa itu BEM"
+          ],
+          "responses": [
+            "BEM atau Lembaga Eksekutif Mahasiswa. Memiliki 2 tingkatan, yaitu BEM Universitas dan BEM Fakultas. Seperti namanya, BEM merupakan organisasi mahasiswa yang bertugas untuk melaksanakan program kerja (proker) di kampus, menjadi perwakilan aspirasi mahasiswa, dan sebagainya. BEM memiliki struktur organisasi yang terdiri dari beberapa posisi atau jabatan, seperti Presiden Mahasiswa, Wakil Presiden Mahasiswa, Sekretaris, Bendahara, dan posisi lainnya. Anggota BEM biasanya terdiri dari mahasiswa yang dipilih melalui proses pemilihan yang demokratis oleh mahasiswa lainnya."
+          ]
+      },
+      {
+          "tag": "UKM",
+          "patterns": [
+            "Apa itu UKM?",
+            "Apa UKM",
+            "UKM adalah",
+            "Pengertian UKM",
+            "Arti UKM",
+            "Pengertian dari UKM",
+            "Apa yang dimaksud dengan UKM",
+            "UKM artinya apa",
+            "UKM artinya",
+            "Siapa itu UKM"
+          ],
+          "responses": [
+            "UKM adalah singkatan dari Unit Kegiatan Mahasiswa. UKM merupakan organisasi yang beranggotakan mahasiswa di tingkat perguruan tinggi atau universitas. UKM ini memiliki berbagai macam bidang kegiatan yang disesuaikan dengan minat dan bakat mahasiswa. UKM di kampus berperan sebagai wadah bagi mahasiswa untuk mengembangkan diri, menyalurkan minat dan bakat, serta mendapatkan pengalaman di luar kegiatan akademik. UKM dapat mencakup berbagai bidang, seperti seni dan budaya, olahraga, keilmuan, lingkungan, sosial, kewirausahaan, dan lain-lain."
+          ]
+      },
+      {
+          "tag": "Magang",
+          "patterns": [
+            "Apa itu Magang?",
+            "Apa Magang",
+            "Magang adalah",
+            "Arti Magang",
+            "Pengertian dari Magang",
+            "Apa yang dimaksud dengan Magang",
+            "Magang artinya apa",
+            "Magang artinya",
+            "Siapa itu Magang"
+          ],
+          "responses": [
+            "Magang, atau yang juga dikenal dengan istilah internship, adalah suatu program di mana seseorang bekerja atau berlatih di sebuah perusahaan, organisasi, atau lembaga untuk mendapatkan pengalaman kerja praktis yang relevan dengan bidang studi atau minatnya. Biasanya, magang dilakukan oleh mahasiswa atau lulusan baru yang ingin memperluas pengetahuan dan keterampilan mereka, serta memperoleh pengalaman langsung dalam dunia kerja."
+          ]
+      },
+      {
+          "tag": "Skripsi",
+          "patterns": [
+            "Apa itu Skripsi?",
+            "Apa Skripsi",
+            "Skripsi adalah",
+            "Pengertian Skripsi",
+            "Arti Skripsi",
+            "Pengertian dari Skripsi",
+            "Apa yang dimaksud dengan Skripsi",
+            "Skripsi artinya apa",
+            "Skripsi artinya",
+            "Siapa itu Skripsi"
+          ],
+          "responses": [
+            "Skripsi adalah karya tulis ilmiah atau penelitian yang harus dilakukan oleh mahasiswa sebagai prasyarat kelulusan program studi Strata-1 (S1). Sedangkan Tugas Akhir adalah proyek yang harus diselesaikan oleh mahasiswa sebagai syarat kelulusan program studi tertentu. Biasanya bentuk Tugas Akhir, seperti: proyek, perencanaan bangunan, pameran seni, dan sebagainya."
+          ]
+      },
+      {
+          "tag": "Wisuda",
+          "patterns": [
+            "Apa itu Wisuda?",
+            "Apa Wisuda",
+            "Wisuda adalah",
+            "Pengertian Wisuda",
+            "Arti Wisuda",
+            "Pengertian dari Wisuda",
+            "Apa yang dimaksud dengan Wisuda",
+            "Wisuda artinya apa",
+            "Wisuda artinya",
+            "Siapa itu Wisuda"
+          ],
+          "responses": [
+            "Wisuda adalah sebuah acara atau upacara formal di mana mahasiswa yang telah menyelesaikan studi mereka di perguruan tinggi atau universitas menerima gelar atau ijazah mereka sebagai tanda kelulusan. Wisuda merupakan momen penting dalam perjalanan pendidikan seseorang dan seringkali dianggap sebagai pencapaian yang membanggakan. Acara wisuda biasanya diadakan di gedung serbaguna atau aula kampus, dan melibatkan peserta wisuda (mahasiswa yang akan menerima gelar), keluarga dan teman-teman mereka, serta dosen dan pejabat kampus. Acara tersebut biasanya dipimpin oleh Rektor atau pejabat kampus lainnya."
+          ]
+      },
       {
         "tag": "jurusan_fakultas_Pertanian_dan_Pertenakan",
         "patterns": [
           "di fakultas pertanian dan pertenakan ada jurusan apa aja?",
           "Jurusan di fakultas pertanian dan peternakan?",
           "Jurusan di Fapertapet?"
-        ],
+          ],
         "responses": [
           "Jurusan di fakultas pertanian dan pertenakan ada 3, lho! yaitu : Peternakan, Agroteknologi dan Gizi"
         ]
