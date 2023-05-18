@@ -1161,6 +1161,172 @@
           ]
       },
       {
+          "tag": "Website Fakultas Ushuluddin",
+          "patterns": [
+            "Apa website Fakultas Ushuluddin?",
+            "Website Fakultas Ushuluddin apa",
+            "Apakah website Fakultas Ushuluddin?",
+            "Web Fakultas Ushuluddin apa",
+            "Web Fakultas Ushuluddin apa",
+            "Apakah web Fakultas Ushuluddin ",
+            "Web Fakultas Ushuluddin adalah",
+            "Apa web Fakultas Ushuluddin?"
+          ],
+          "responses": [
+            "Website dari Fakultas Ushuluddin UIN SUSKA Riau adalah https://fush.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Website Fakultas Psikologi",
+          "patterns": [
+            "Apa website Fakultas Psikologi?",
+            "Website Psikologi apa",
+            "Apakah website Fakultas Psikologi?",
+            "Web Fakultas Psikologi apa",
+            "Web Fakultas Psikologi apa",
+            "Apakah web Fakultas Psikologi",
+            "Web Fakultas Psikologi adalah",
+            "Apa web Fakultas Psikologi?"
+          ],
+          "responses": [
+            "Website dari Fakultas Psikologi UIN SUSKA Riau adalah https://fpsi.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Website Fakultas Ekonomi dan Ilmu Sosial",
+          "patterns": [
+            "Apa website Fakultas Ekonomi dan Ilmu Sosial?",
+            "Website Fakultas Ekonomi dan Ilmu Sosial apa",
+            "Apakah website Fakultas Ekonomi dan Ilmu Sosial?",
+            "Web Fakultas Ekonomi dan Ilmu Sosial apa",
+            "Web Fakultas Ekonomi dan Ilmu Sosial apa",
+            "Apakah web Fakultas Ekonomi dan Ilmu Sosial",
+            "Web Fakultas Ekonomi dan Ilmu Sosial adalah",
+            "Apa website FEKON?",
+            "Website FEKON apa",
+            "Apakah website FEKON?",
+            "Web FEKON apa",
+            "Web FEKON apa",
+            "Apakah web FEKON ",
+            "Web FEKON adalah",
+            "Apa web Fakultas Ekonomi dan Ilmu Sosial?",
+            "Apakah website feis?",
+            "Website feis apa",
+            "Apa website feis?"
+          ],
+          "responses": [
+            "Website dari Fakultas Ekonomi dan Ilmu Sosial UIN SUSKA Riau adalah https://feis.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Website Fakultas Syariah dan Ilmu Hukum",
+          "patterns": [
+            "Apa website Fakultas Syariah dan Ilmu Hukum?",
+            "Website Fakultas Syariah dan Ilmu Hukum apa",
+            "Apakah website Fakultas Syariah dan Ilmu Hukum?",
+            "Web Fakultas Syariah dan Ilmu Hukum apa",
+            "Web fasih apa",
+            "Apakah web fasih",
+            "Web fasih adalah",
+            "Apa web fasih?"
+          ],
+          "responses": [
+            "Website dari Fakultas Syariah dan Ilmu Hukum UIN SUSKA Riau adalah https://fasih.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Website Fakultas Dakwah dan Ilmu Komunikasi",
+          "patterns": [
+            "Apa website Fakultas Dakwah dan Ilmu Komunikasi?",
+            "Website Fakultas Dakwah dan Ilmu Komunikasi apa",
+            "Apakah website Fakultas Dakwah dan Ilmu Komunikasi?",
+            "Web Fakultas Dakwah dan Ilmu Komunikasi apa",
+            "Apa website FDK?",
+            "Website FDK apa",
+            "Apakah website FDK?",
+            "Web FDK apa",
+            "Apakah web FDK",
+            "Web FDK adalah",
+            "Apa web FDK?"
+          ],
+          "responses": [
+            "Website dari Fakultas Dakwah dan Ilmu Komunikasi UIN SUSKA Riau adalah https://fdk.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Website Fakultas Pertanian dan Peternakan",
+          "patterns": [
+            "Apa website Fakultas Pertanian dan Peternakan?",
+            "Website Fakultas Pertanian dan Peternakan apa",
+            "Apakah website Fakultas Pertanian dan Peternakan?",
+            "Web Fakultas Pertanian dan Peternakan apa",
+            "Apa website FAPERTA?",
+            "Website FAPERTA apa",
+            "Apakah website FAPERTA?",
+            "Web FAPERTA apa",
+            "Web FPP apa",
+            "Apakah web FPP",
+            "Web FPP adalah",
+            "Apa web FPP?"
+          ],
+          "responses": [
+            "Website dari Fakultas Pertanian dan Peternakan UIN SUSKA Riau adalah https://fpp.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Website Pasca Sarjana",
+          "patterns": [
+            "Apa website Pasca Sarjana?",
+            "Website Pasca Sarjana apa",
+            "Apakah website Pasca Sarjana?",
+            "Web Pasca Sarjana apa",
+            "Apakah web Pasca Sarjana ",
+            "Web Pasca Sarjana adalah",
+            "Apa web Pasca Sarjana?"
+          ],
+          "responses": [
+            "Website dari Pasca Sarjana UIN SUSKA Riau adalah https://pasca.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Website UIN SUSKA Riau",
+          "patterns": [
+            "Apa website UIN SUSKA Riau?",
+            "Website UIN SUSKA Riau apa",
+            "Apakah website UIN SUSKA Riau?",
+            "Web UIN SUSKA Riau apa",
+            "Apakah web UIN SUSKA Riau",
+            "Web UIN SUSKA Riau adalah",
+            "Apa web UIN?",
+            " Apa website UIN?",
+            " Website UIN?",
+            " Apakah website UIN?",
+            "Web UIN apa",
+            "Apakah web UIN "
+          ],
+          "responses": [
+            "Website dari UIN SUSKA Riau adalah https://www.uin-suska.ac.id/"
+          ]
+      },
+      {
+          "tag": "Program MBKM",
+          "patterns": [
+            "Apa itu MBKM?",
+            "MBKM apa",
+            "MBKM adalah",
+            "Apakah MBKM?",
+            "Apa itu program MBKM",
+            "Pengertian MBKM ",
+            "Program MBKM",
+            "Program MBKM itu apa",
+            "Program MBKM adalah",
+            "Apa MBKM"
+          ],
+          "responses": [
+            "MBKM adalah singkatan dari (Merdeka Belajar Kampus Merdeka) Program MBKM adalah inisiatif pemerintah Indonesia yang diluncurkan pada tahun 2021. Program ini bertujuan untuk memberikan kebebasan kepada mahasiswa dalam memilih dan mengakses pendidikan di perguruan tinggi sesuai dengan minat, bakat, dan kebutuhan mereka. Dalam program MBKM, mahasiswa diberikan kebebasan untuk mengambil mata kuliah di luar bidang studi utama mereka. Mereka dapat mengakses mata kuliah di perguruan tinggi lain, baik di dalam maupun di luar negeri, serta mengikuti program sertifikasi dan magang di industri. Hal ini bertujuan untuk memberikan pengalaman belajar yang lebih luas dan relevan dengan minat dan karier masa depan mahasiswa."
+          ]
+      },
+      {
         "tag": "jurusan_fakultas_Pertanian_dan_Pertenakan",
         "patterns": [
           "di fakultas pertanian dan pertenakan ada jurusan apa aja?",
