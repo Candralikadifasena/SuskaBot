@@ -163,12 +163,12 @@
       {
           "tag": "rektor",
           "patterns": [
-            "Siapa saja nama-nama rektok UIN Suska Riau?”,
-            "Nama-nama rektor UIN Suska Riau siapa saja?”,
-            "Semua rektor UIN Suska Riau”,
-            "Rektor UIN Suska terdahulu”,
-            "Nama rektor UIN Suska Riau semua”,
-            "Semua rektor UIN Suska Riau”,
+            "Siapa saja nama-nama rektok UIN Suska Riau?",
+            "Nama-nama rektor UIN Suska Riau siapa saja?",
+            "Semua rektor UIN Suska Riau",
+            "Rektor UIN Suska terdahulu",
+            "Nama rektor UIN Suska Riau semua",
+            "Semua rektor UIN Suska Riau",
           ],
           "responses": [
             "Nama-nama rektor UIN Suska Riau adalah sebagai berikut:;
