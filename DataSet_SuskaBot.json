@@ -241,6 +241,14 @@
       {
         "tag": "fakultas_UIN_Suska_Riau",
         "patterns": [
+          "Fakultas di UIN Suska Riau",
+          "Fakultas di UIN Suska",
+          "Fakultas di UIN",
+          "Fakultas yang ada di UIN Suska Riau",
+          "Fakultas yang ada di UIN Suska",
+          "Fakultas yang ada di UIN"
+        ],
+        "responses": [
           "Tarbiyah dan Keguruan",
           "Ushuludin",
           "Psikologi",
@@ -250,9 +258,6 @@
           "Dakwah dan Ilmu Komunikasi",
           "Sains dan Teknologi",
           "Pertanian dan Pertenakan"
-        ],
-        "responses": [
-          "Yuk, pilih fakultas di bawah ini:"
         ]
       },
       
