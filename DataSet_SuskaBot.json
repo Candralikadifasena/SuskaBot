@@ -108,9 +108,13 @@
           "lokasi UIN suska riau?",
           "lokasi UIN suska?",
           "lokasi UIN?",
-          "Letak UIN suska riau?",
-          "Letak UIN suska?",
-          "Letak UIN?"
+          "alamat kampus?",
+          "lokasi kampus?",
+          "Letak kampus UIN?",
+          "Letak kampus UIN suska?",
+          "alamat kampus uin suska riau?",
+          "alamat kampus uin?",
+          "alamat kampus uin pekanbaru?"  
         ],
         "responses": [
           "Alamat UIN Suska Riau ada di Panam, Jalan. HR. Soebrantas No.Km. 15, RW.15, Simpang Baru, Kota Pekanbaru, Riau"
@@ -120,7 +124,14 @@
         "tag": "Sejarah_UIN_Suska_Riau",
         "patterns": [
           "Kapan UIN Suska Riau Didirikan?",
-          "Sejarah UIN Suska Riau"
+          "Kapan UIN Suska Didirikan?",
+          "Kapan UIN Didirikan?",
+          "Sejarah UIN Suska Riau",
+          "Sejarah UIN ",
+          "Sejarah UIN Suska ",
+          "kisah uin suska riau",
+          "kisah uin suska ",
+          "kisah uin "
         ],
         "responses": [
           "UIN Suska Riau didirikan pertama kali pada tanggal 19 September 1970 sebagai IAIN Sulthan Syarif Qasim dan pada tanggal 4 januari 2005 ditetapkan sebagai Universitas Islam Negeri Sultan Syarif Kasim Riau"
@@ -134,9 +145,37 @@
             "Semua rektor UIN Suska Riau",
             "Rektor UIN Suska terdahulu",
             "Nama rektor UIN Suska Riau semua",
+            "siapa saja rektor di uin suska riau",
+            "siapa-siapa rektor di uin suska",
+            "rektor-rektor yang ada di uin",
             "rektor di uin suska riau",
             "rektor di uin suska",
-            "rektor d uin"
+            "rektor di uin"
+            
+          ],
+          "responses": [
+            "Nama-nama rektor UIN Suska Riau adalah sebagai berikut: 1. Prof. H. Ilyas Muh. Ali (1970-1975), 2. Drs. H. A. Moerad Oesman (1975=1979), 3. Drs. Soewarno Ahmady (1979-1987), 4. Drs. H. Yusuf Rahman, MA (1987-1996), 5. Prof. Dr. H. Amir Luthfi (1996-2005), 6. Prof. Dr. H. M. Nazir (2005-2014), 7. Prof. Dr. Munzir Hitami, MA (2014-2018), 8. Prof. Dr. KH. Ahmad Mujahidin, S.Ag., M.Ag (2018-2020), 9. Prof. Dr. Khairunas Rajab, M.Ag (2021-2025)"
+          ]
+      },
+      {
+          "tag": "rektor sekarang",
+          "patterns": [
+            "Siapa rektor UIN Suska Riau sekarang?",
+            "Siapa rektor UIN Suska sekarang?",
+            "Siapa rektor UIN sekarang?",
+            "Nama rektor UIN Suska sekarang?",
+            "Nama rektor UIN Suska Riau sekarang?",
+            "Nama rektor UIN sekarang?",
+            "rektor UIN Suska Riau sekarang",
+            "rektor UIN Suska sekarang",
+            "rektor UIN sekarang",
+            "Rektor UIN Suska suska saat ini",
+            "Rektor UIN Suska saat ini",
+            "Rektor UIN saat ini",
+            "Rektor UIN Suska riau yang menjabat",
+            "Rektor UIN Suska yang menjabat",
+            "Rektor UIN yang menjabat"
+            
           ],
           "responses": [
             "Nama-nama rektor UIN Suska Riau adalah sebagai berikut: 1. Prof. H. Ilyas Muh. Ali (1970-1975), 2. Drs. H. A. Moerad Oesman (1975=1979), 3. Drs. Soewarno Ahmady (1979-1987), 4. Drs. H. Yusuf Rahman, MA (1987-1996), 5. Prof. Dr. H. Amir Luthfi (1996-2005), 6. Prof. Dr. H. M. Nazir (2005-2014), 7. Prof. Dr. Munzir Hitami, MA (2014-2018), 8. Prof. Dr. KH. Ahmad Mujahidin, S.Ag., M.Ag (2018-2020), 9. Prof. Dr. Khairunas Rajab, M.Ag (2021-2025)"
@@ -146,7 +185,12 @@
         "tag": "penjelasan_UIN_Suska_Riau",
         "patterns": [
           "Apa itu UIN Suska Riau?",
-          "UIN Suska Riau?"
+          "UIN Suska Riau?",
+          "UIN Suska?",
+          "UIN",
+          "Apa itu UIN Suska?",
+          "UIN Suska Riau itu apa?",
+          "UIN Suska itu apa?"
         ],
         "responses": [
           "UIN Suska Riau atau disebut juga Universitas Islam Negeri Sultan Syarif Kasim Riau merupakan satu-satunya kampus islam negeri yang meraih akreditas B di Riau, dengan jumlah peminatnya setiap tahun mencapai lebih dari seribu orang, lho!"
