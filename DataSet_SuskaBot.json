@@ -1367,6 +1367,982 @@
         "responses": [
           "Jurusan di fakultas pertanian dan pertenakan ada 3, lho! yaitu : Peternakan, Agroteknologi dan Gizi"
         ]
+      },
+      {
+          "tag": "labor FTK",
+          "patterns": [
+            "laboratorium yang ada di fakultas tarbiyah dan keguruan",
+            "laboratorium fakultas tarbiyah dan keguruan",
+            "laboratorium di fakultas tarbiyah dan keguruan",
+            "laboratorium tarbiyah dan keguruan",
+            "laboratorium yang ada di ftk",
+            "laboratorium ftk",
+            "laboratorium di ftk",
+            "laboratorium yang ada di ftk"
+            "labor yang ada di fakultas tarbiyah dan keguruan",
+            "labor fakultas tarbiyah dan keguruan",
+            "labor di fakultas tarbiyah dan keguruan",
+            "labor tarbiyah dan keguruan",
+            "labor yang ada di ftk",
+            "labor ftk",
+            "labor di ftk",
+            "labor yang ada di ftk"
+          ],
+          "responses": [
+            "Laboratorium yang tersedia di Fakultas Tarbiyah dan Keguruan yaitu : Laboratorium Micro Teaching, Laboratorium Bahasa, dan Laboratorium Komputer"
+          ]
+      },
+      {
+          "tag": "sejarah PAI",
+          "patterns": [
+            "kapan jurusan PAI didirikan",
+            "kapan prodi PAI didirikan",
+            "kapan PAI didirikan",
+            "kapan jurusan Pendidikan agama islam didirikan",
+            "kapan prodi Pendidikan agama islam didirikan",
+            "kapan pendidikan agama islam didirikan",
+            "jurusan PAI didirikan",
+            "prodi PAI didirikan",
+            "prodi PAI berdiri tahun",
+            "prodi PAI berdiri kapan",
+            "prodi PAI berdiri",
+            "PAI didirikan",
+            "jurusan Pendidikan agama islam didirikan",
+            "prodi pendidikan agama islam didirikan",
+            "sejak kapan jurusan PAI didirikan",
+            "sejak kapan prodi PAI didirikan",
+            "sejak kapan PAI didirikan",
+            "sejak kapan jurusan Pendidikan agama islam didirikan",
+            "sejak kapan prodi Pendidikan agama islam didirikan",
+            "sejak kapan pendidikan agama islam didirikan",
+            "kapan berdirinya jurusan pendidikan agama islam",
+            "kapan berdirinya prodi pendidikan agama islam",
+            "kapan berdirinya pendidikan agama islam",
+            "kapan berdirinya jurusan PAI",
+            "kapan berdirinya prodi PAI",
+            "kapan berdirinya PAI"
+           ],
+          "responses": [
+             "Jurusan atau Program Studi Pendidikan Agama Islam merupakan jurusan tertua yang pertama berdiri di Fakultas Tarbiyah dan Keguruan khususnya dan Universitas Islam Negeri Sultan Syarif Kasim Riau. Program Studi ini didirikan pada tahun 1965. Ketika itu, program studi ini merupakan jurusan satu-satunya yang ada di Fakultas Tarbiyah."
+           ]
+      },
+      {
+          "tag": "sejarah MPI",
+          "patterns": [
+            "kapan jurusan MPI didirikan",
+            "kapan prodi MPI didirikan",
+            "kapan MPI didirikan",
+            "kapan jurusan Manajemen Pendidikan Islam didirikan",
+            "kapan prodi Manajemen Pendidikan Islam didirikan",
+            "kapan Manajemen Pendidikan Islam didirikan",
+            "jurusan MPI didirikan",
+            "prodi MPI didirikan",
+            "prodi MPI berdiri tahun",
+            "prodi MPI berdiri kapan",
+            "prodi MPI berdiri",
+            "MPI didirikan",
+            "jurusan Manajemen Pendidikan Islam didirikan",
+            "prodi Manajemen Pendidikan Islam didirikan",
+            "sejak kapan jurusan MPI didirikan",
+            "sejak kapan prodi MPI didirikan",
+            "sejak kapan MPI didirikan",
+            "sejak kapan jurusan Manajemen Pendidikan Islam didirikan",
+            "sejak kapan prodi Manajemen Pendidikan Islam didirikan",
+            "sejak kapan Manajemen Pendidikan Islam didirikan",
+            "kapan berdirinya jurusan Manajemen Pendidikan Islam ",
+            "kapan berdirinya prodi Manajemen Pendidikan Islam ",
+            "kapan berdirinya Manajemen Pendidikan Islam ",
+            "kapan berdirinya jurusan MPI",
+            "kapan berdirinya prodi MPI",
+            "kapan berdirinya MPI"
+          ],
+          "responses": [
+            "Program Studi Manajemen Pendidikan Islam (MPI) merupakan program studi ketiga di lingkungan Fakultas Tarbiyah dan Keguruan Universitas Islam Negeri Sultan Syarif Kasim Riau yaitu setelah Prodi Pendidikan Agama Islam (PAI) dan Pendidikan Bahasa Arab (PBA). Prodi Manajemen Pendidikan Islam merupakan perubahan dari Prodi Kependidikan Islam berdiri pada tahun 1995."
+          ]
+      },
+      {
+          "tag": "sejarah Pendidikan Matematika",
+          "patterns": [
+            "kapan jurusan pendidikan Matematika didirikan",
+            "kapan jurusan Pendidikan Matematika didirikan",
+            "kapan prodi Pendidikan Matematika didirikan",
+            "kapan Pendidikan Matematika didirikan",
+            "jurusan Pendidikan Matematika didirikan",
+            "prodi Pendidikan Matematika didirikan",
+            "sejak kapan jurusan Pendidikan MTK didirikan",
+            "sejak kapan prodi Pendidikan MTK didirikan",
+            "sejak kapan Pendidikan MTK didirikan",
+            "sejak kapan jurusan Pendidikan Matematika didirikan",
+            "sejak kapan prodi Pendidikan Matematika didirikan",
+            "sejak kapan Pendidikan Matematika didirikan",
+            "kapan berdirinya jurusan Pendidikan Matematika ",
+            "kapan berdirinya prodi Pendidikan Matematika ",
+            "kapan berdirinya Pendidikan Matematika ",
+            "kapan berdirinya jurusan Pendidikan MTK ",
+            "kapan berdirinya prodi Pendidikan MTK ",
+            "kapan berdirinya Pendidikan MTK"
+          ],
+          "responses": [
+            "Prodi Pendidikan Matematika merupakan salah satu prodi yang ada di Fakultas Tarbiyah dan Keguruan UIN Suska Riau yang didirikan tahun 2001."
+          ]
+      },
+      {
+          "tag": "sejarah pendidikan Ekonomi",
+          "patterns": [
+            "kapan jurusan pendidikan Ekonomi didirikan",
+            "kapan jurusan pendidikan Ekonomi didirikan",
+            "kapan prodi pendidikan Ekonomi didirikan",
+            "kapan pendidikan Ekonomi didirikan",
+            "jurusan pendidikan Ekonomi didirikan",
+            "prodi pendidikan Ekonomi didirikan",
+            "sejak kapan jurusan pendidikan Ekonomi didirikan",
+            "sejak kapan prodi pendidikan Ekonomi didirikan",
+            "sejak kapan pendidikan Ekonomi didirikan",
+            "kapan berdirinya jurusan pendidikan Ekonomi",
+            "kapan berdirinya prodi pendidikan Ekonomi",
+            "kapan berdirinya pendidikan Ekonomi",
+          ],
+          "responses": [
+            "Program studi Pendidikan Ekonomi sendiri berdiri pada tahun 2006 berdasarkan SK Rektor UIN Suska No. 170//2006 Tanggal 8 Juni 2006 dengan Tadris Konsentrasi Pendidikan IPS Ekonomi SLTP dan SLTA."
+          ]
+      },
+      {
+          "tag": "sejarah Pendidikan Kimia",
+          "patterns": [
+            "kapan jurusan Pendidikan Kimia didirikan",
+            "kapan jurusan Pendidikan Kimia didirikan",
+            "kapan prodi Pendidikan Kimia didirikan",
+            "kapan Pendidikan Kimia didirikan",
+            "jurusan Pendidikan Kimia didirikan",
+            "prodi Pendidikan Kimia didirikan",
+            "sejak kapan jurusan Pendidikan Kimia didirikan",
+            "sejak kapan prodi Pendidikan Kimia didirikan",
+            "sejak kapan Pendidikan Kimia didirikan",
+            "sejak kapan jurusan Pendidikan Kimia didirikan",
+            "sejak kapan prodi Pendidikan Kimia didirikan",
+            "sejak kapan Pendidikan Kimia didirikan",
+            "kapan berdirinya jurusan Pendidikan Kimia",
+            "kapan berdirinya prodi Pendidikan Kimia",
+            "kapan berdirinya Pendidikan Kimia",
+            "kapan berdirinya jurusan Pendidikan Kimia",
+            "kapan berdirinya prodi Pendidikan Kimia",
+            "kapan berdirinya Pendidikan Kimia",
+          ],
+          "responses": [
+            "Program Studi Pendidikan Kimia merupakan salah satu dari Program Studi yang ada di Fakultas Tarbiyah Dan Keguruan UIN, yang didirikan berdasarkan Surat Keputusan Dirjen Pendidikan Islam (Diktis) Nomor: Dj.I/Dt.I.IV/HK.00.5/66/2007 tanggal 2 November 2007."
+          ]
+      },
+      {
+          "tag": "sejarah PGMI",
+          "patterns": [
+            "kapan jurusan PGMI didirikan",
+            "kapan prodi PGMI didirikan",
+            "kapan PGMI didirikan",
+            "kapan jurusan Pendidikan Guru Madrasah Ibtidaiyah didirikan",
+            "kapan prodi Pendidikan Guru Madrasah Ibtidaiyah didirikan",
+            "kapan Pendidikan Guru Madrasah Ibtidaiyah didirikan",
+            "jurusan PGMI didirikan",
+            "prodi PGMI didirikan",
+            "prodi PGMI berdiri tahun",
+            "prodi PGMI berdiri kapan",
+            "prodi PGMI berdiri",
+            " PGMI didirikan",
+            "jurusan Pendidikan Guru Madrasah Ibtidaiyah didirikan",
+            "prodi Pendidikan Guru Madrasah Ibtidaiyah didirikan",
+            "sejak kapan jurusan PGMI didirikan",
+            "sejak kapan prodi PGMI didirikan",
+            "sejak kapan PGMI didirikan",
+            "sejak kapan jurusan Pendidikan Guru Madrasah Ibtidaiyah didirikan",
+            "sejak kapan prodi Pendidikan Guru Madrasah Ibtidaiyah didirikan",
+            "sejak kapan Pendidikan Guru Madrasah Ibtidaiyah didirikan",
+            "kapan berdirinya jurusan Pendidikan Guru Madrasah Ibtidaiyah",
+            "kapan berdirinya prodi Pendidikan Guru Madrasah Ibtidaiyah",
+            "kapan berdirinya Pendidikan Guru Madrasah Ibtidaiyah",
+            "kapan berdirinya jurusan PGMI ",
+            "kapan berdirinya prodi PGMI",
+            "kapan berdirinya PGMI "
+          ],
+          "responses": [
+            " Program Studi Pendidikan Guru Madrasah Ibtidaiyah (PS PGMI) adalah salah satu program studi yang berada di bawah naungan Fakultas Tarbiyah dan Keguruan Universitas Islam Negeri Sultan Syarif Kasim (UIN SUSKA) Riau. PS PGMI merupakan pengembangan dari Program D.2 PGMI. Berdasarkan SK Dirjen Pendidikan Islam Nomor DJ.I/257/2007 tanggal 10 Juli 2007 Program D.2 dihapus kemudian digantikan dengan program sarjana atau Strata S1."
+          ]
+      },
+      {
+          "tag": "sejarah PIAUD",
+          "patterns": [
+            "kapan jurusan PIAUD didirikan",
+            "kapan prodi PIAUD didirikan",
+            "kapan PIAUD didirikan",
+            "kapan jurusan Pendidikan Islam Anak Usia Dini didirikan",
+            "kapan prodi Pendidikan Islam Anak Usia Dini didirikan",
+            "kapan Pendidikan Islam Anak Usia Dini didirikan",
+            "jurusan PIAUD didirikan",
+            "prodi PIAUD didirikan",
+            "prodi PIAUD berdiri tahun",
+            "prodi PIAUD berdiri kapan",
+            "prodi PIAUD berdiri",
+            " PIAUD didirikan",
+            "jurusan Pendidikan Islam Anak Usia Dini didirikan",
+            "prodi Pendidikan Islam Anak Usia Dini didirikan",
+            "sejak kapan jurusan PIAUD didirikan",
+            "sejak kapan prodi PIAUD didirikan",
+            "sejak kapan PIAUD didirikan",
+            "sejak kapan jurusan Pendidikan Islam Anak Usia Dini didirikan",
+            "sejak kapan prodi Pendidikan Islam Anak Usia Dini didirikan",
+            "sejak kapan Pendidikan Islam Anak Usia Dini didirikan",
+            "kapan berdirinya jurusan Pendidikan Islam Anak Usia Dini ",
+            "kapan berdirinya prodi Pendidikan Islam Anak Usia Dini",
+            "kapan berdirinya Pendidikan Islam Anak Usia Dini",
+            "kapan berdirinya jurusan PIAUD ",
+            "kapan berdirinya prodi PIAUD",
+            "kapan berdirinya PIAUD "
+          ],
+          "responses": [
+            "Program Studi Pendidikan Islam Anak Usia Dini di Fakultas Tarbiyah dan Keguruan Universitas Islam Negeri Sultan Syarif Kasim Riau berdiri sejak tahun 13 Maret 2014."
+          ]
+      },
+      {
+          "tag": "sejarah Pendidikan Geografi",
+          "patterns": [
+            "kapan jurusan Pendidikan Geografi didirikan",
+            "kapan prodi Pendidikan Geografi didirikan",
+            "kapan Pendidikan Geografi didirikan",
+            "jurusan Pendidikan Geografi didirikan",
+            "prodi Pendidikan Geografi didirikan",
+            "sejak kapan jurusan Pendidikan Geografi didirikan",
+            "sejak kapan prodi Pendidikan Geografi didirikan",
+            "sejak kapan Pendidikan Geografi didirikan",
+            "kapan berdirinya jurusan Pendidikan Geografi ",
+            "kapan berdirinya prodi Pendidikan Geografi ",
+            "kapan berdirinya Pendidikan Geografi "
+          ],
+          "responses": [
+            "Program Studi Pendidikan Geografi di Fakultas Tarbiyah dan Keguruan Universitas Islam Negeri Sultan Syarif Kasim Riau berdiri sejak tahun 19 Maret 2018."
+          ]
+      },
+      {
+          "tag": "sejarah PB inggris",
+          "patterns": [
+            "kapan jurusan Pendidikan Bahasa Inggris didirikan",
+            "kapan prodi Pendidikan Bahasa Inggris didirikan",
+            "kapan Pendidikan Bahasa Inggris didirikan",
+            "jurusan Pendidikan Bahasa Inggris didirikan",
+            "prodi Pendidikan Bahasa Inggris didirikan",
+            "sejak kapan jurusan Pendidikan Bahasa Inggris didirikan",
+            "sejak kapan prodi Pendidikan Bahasa Inggris didirikan",
+            "sejak kapan Pendidikan Bahasa Inggris didirikan",
+            "kapan berdirinya jurusan Pendidikan Bahasa Inggris ",
+            "kapan berdirinya prodi Pendidikan Bahasa Inggris",
+            "kapan berdirinya Pendidikan Bahasa Inggris "
+          ],
+          "responses": [
+            "Program Studi Pendidikan Bahasa Inggris di Fakultas Tarbiyah dan Keguruan Universitas Islam Negeri Sultan Syarif Kasim Riau berdiri sejak tahun 21 Februari 2013."
+          ]
+      },
+      {
+          "tag": "sejarah PB Indonesia",
+          "patterns": [
+            "kapan jurusan Pendidikan Bahasa Indonesia didirikan",
+            "kapan prodi Pendidikan Bahasa Indonesia didirikan",
+            "kapan Pendidikan Bahasa Indonesia didirikan",
+            "jurusan Pendidikan Bahasa Indonesia didirikan",
+            "prodi Pendidikan Bahasa Indonesia didirikan",
+            "sejak kapan jurusan Pendidikan Bahasa Indonesia didirikan",
+            "sejak kapan prodi Pendidikan Bahasa Indonesia didirikan",
+            "sejak kapan Pendidikan Bahasa Indonesia didirikan",
+            "kapan berdirinya jurusan Pendidikan Bahasa Indonesia ",
+            "kapan berdirinya prodi Pendidikan Bahasa Indonesia ",
+            "kapan berdirinya Pendidikan Bahasa Indonesia "
+          ],
+          "responses": [
+            "Program Studi Pendidikan Bahasa Indonesia di Fakultas Tarbiyah dan Kegururan Universitas Islam Negeri Sultan Syarif Kasim Riau berdiri sejak tahun 19 Maret 2018."
+          ]
+      },
+      {
+          "tag": "sejarah Pendidikan IPA",
+          "patterns": [
+            "kapan jurusan Tadris IPA didirikan",
+            "kapan prodi Tadris IPA didirikan",
+            "kapan Tadris IPA didirikan",
+            "kapan jurusan Pendidikan IPA didirikan",
+            "kapan prodi Pendidikan IPA didirikan",
+            "kapan Pendidikan IPA didirikan",
+            "jurusan Tadris IPA didirikan",
+            "prodi Tadris IPA didirikan",
+            "prodi Tadris IPA berdiri tahun",
+            "prodi Tadris IPA berdiri kapan",
+            "prodi Tadris IPA berdiri",
+            " Tadris IPA didirikan",
+            "jurusan Pendidikan IPA didirikan",
+            "prodi Pendidikan IPA didirikan",
+            "sejak kapan jurusan Tadris IPA didirikan",
+            "sejak kapan prodi Tadris IPA didirikan",
+            "sejak kapan Tadris IPA didirikan",
+            "sejak kapan jurusan Pendidikan IPA didirikan",
+            "sejak kapan prodi Pendidikan IPA didirikan",
+            "sejak kapan Pendidikan IPA didirikan",
+            "kapan berdirinya jurusan Pendidikan IPA",
+            "kapan berdirinya prodi Pendidikan IPA ",
+            "kapan berdirinya Pendidikan IPA ",
+            "kapan berdirinya jurusan Tadris IPA ",
+            "kapan berdirinya prodi Tadris IPA ",
+            "kapan berdirinya Tadris IPA ",
+            "kapan jurusan Tadris Ilmu Pengerahuan Alam didirikan",
+            "kapan prodi Tadris Ilmu Pengerahuan Alam didirikan",
+            "kapan Tadris Ilmu Pengerahuan Alam didirikan",
+            "kapan jurusan Pendidikan Ilmu Pengerahuan Alam didirikan",
+            "kapan prodi Pendidikan Ilmu Pengerahuan Alam didirikan",
+            "kapan Pendidikan Ilmu Pengerahuan Alam didirikan",
+            "jurusan Tadris Ilmu Pengerahuan Alam didirikan",
+            "prodi Tadris Ilmu Pengerahuan Alam didirikan",
+            "prodi Tadris Ilmu Pengerahuan Alam berdiri tahun",
+            "prodi Tadris Ilmu Pengerahuan Alam berdiri kapan",
+            "prodi Tadris Ilmu Pengerahuan Alam berdiri",
+            "Tadris Ilmu Pengerahuan Alam didirikan",
+            "jurusan Pendidikan Ilmu Pengerahuan Alam didirikan",
+            "prodi Pendidikan Ilmu Pengerahuan Alam didirikan",
+            "sejak kapan jurusan Tadris Ilmu Pengerahuan Alam didirikan",
+            "sejak kapan prodi Tadris Ilmu Pengerahuan Alam didirikan",
+            "sejak kapan Tadris Ilmu Pengerahuan Alam didirikan",
+            "sejak kapan jurusan Pendidikan Ilmu Pengerahuan Alam didirikan",
+            "sejak kapan prodi Pendidikan Ilmu Pengerahuan Alam didirikan",
+            "sejak kapan Pendidikan Ilmu Pengerahuan Alam didirikan",
+            "kapan berdirinya jurusan Pendidikan Ilmu Pengerahuan Alam ",
+            "kapan berdirinya prodi Pendidikan Ilmu Pengerahuan Alam ",
+            "kapan berdirinya Pendidikan Ilmu Pengerahuan Alam ",
+            "kapan berdirinya jurusan Tadris Ilmu Pengerahuan Alam ",
+            "kapan berdirinya prodi Tadris Ilmu Pengerahuan Alam ",
+            "kapan berdirinya Tadris Ilmu Pengerahuan Alam "
+          ],
+          "responses": [
+            "Program Studi Tadris Ilmu Pengetahuan Alam (IPA) di Fakultas Tarbiyah dan Kegururan Universitas Islam Negeri Sultan Syarif Kasim Riau berdiri sejak tahun 10 Mei 2017."
+          ]
+      },
+      {
+          "tag": "sejarah Pendidikan IPS",
+          "patterns": [
+            "kapan jurusan Tadris IPS didirikan",
+            "kapan prodi Tadris IPS didirikan",
+            "kapan Tadris IPS didirikan",
+            "kapan jurusan Pendidikan IPS didirikan",
+            "kapan prodi Pendidikan IPS didirikan",
+            "kapan Pendidikan IPS didirikan",
+            "jurusan Tadris IPS didirikan",
+            "prodi Tadris IPS didirikan",
+            "prodi Tadris IPS berdiri tahun",
+            "prodi Tadris IPS berdiri kapan",
+            "prodi Tadris IPS berdiri",
+            " Tadris IPS didirikan",
+            "jurusan Pendidikan IPS didirikan",
+            "prodi Pendidikan IPS didirikan",
+            "sejak kapan jurusan Tadris IPS didirikan",
+            "sejak kapan prodi Tadris IPS didirikan",
+            "sejak kapan Tadris IPS didirikan",
+            "sejak kapan jurusan Pendidikan IPS didirikan",
+            "sejak kapan prodi Pendidikan IPS didirikan",
+            "sejak kapan Pendidikan IPS didirikan",
+            "kapan berdirinya jurusan Pendidikan IPS ",
+            "kapan berdirinya prodi Pendidikan IPS ",
+            "kapan berdirinya Pendidikan IPS ",
+            "kapan berdirinya jurusan Tadris IPS ",
+            "kapan berdirinya prodi Tadris IPS ",
+            "kapan berdirinya Tadris IPS ",
+            "kapan jurusan Tadris Ilmu Pengerahuan Sosial didirikan",
+            "kapan prodi Tadris Ilmu Pengerahuan Sosial didirikan",
+            "kapan Tadris Ilmu Pengerahuan Sosial didirikan",
+            "kapan jurusan Pendidikan Ilmu Pengerahuan Sosial didirikan",
+            "kapan prodi Pendidikan Ilmu Pengerahuan Sosial didirikan",
+            "kapan Pendidikan Ilmu Pengerahuan Sosial didirikan",
+            "jurusan Tadris Ilmu Pengerahuan Sosial didirikan",
+            "prodi Tadris Ilmu Pengerahuan Sosial didirikan",
+            "prodi Tadris Ilmu Pengerahuan Sosial berdiri tahun",
+            "prodi Tadris Ilmu Pengerahuan Sosial berdiri kapan",
+            "prodi Tadris Ilmu Pengerahuan Sosial berdiri",
+            "Tadris Ilmu Pengerahuan Sosial didirikan",
+            "jurusan Pendidikan Ilmu Pengerahuan Sosial didirikan",
+            "prodi Pendidikan Ilmu Pengerahuan Sosial didirikan",
+            "sejak kapan jurusan Tadris Ilmu Pengerahuan Sosial didirikan",
+            "sejak kapan prodi Tadris Ilmu Pengerahuan Sosial didirikan",
+            "sejak kapan Tadris Ilmu Pengerahuan Sosial didirikan",
+            "sejak kapan jurusan Pendidikan Ilmu Pengerahuan Sosial didirikan",
+            "sejak kapan prodi Pendidikan Ilmu Pengerahuan Sosial didirikan",
+            "sejak kapan Pendidikan Ilmu Pengerahuan Sosial didirikan",
+            "kapan berdirinya jurusan Pendidikan Ilmu Pengerahuan Sosial",
+            "kapan berdirinya prodi Pendidikan Ilmu Pengerahuan Sosial ",
+            "kapan berdirinya Pendidikan Ilmu Pengerahuan Sosial ",
+            "kapan berdirinya jurusan Tadris Ilmu Pengerahuan Sosial ",
+            "kapan berdirinya prodi Tadris Ilmu Pengerahuan Sosial ",
+            "kapan berdirinya Tadris Ilmu Pengerahuan Sosial "
+          ],
+          "responses": [
+            "Program Studi Tadris Ilmu Pengetahuan Sosial (IPS) adalah program studi baru yang bergabung pada Fakultas Tarbiyah dan Keguruan (FTK) UIN Sultan Syarif Kasim Riau (UIN Suska Riau) pada tahun 2019 dengan nomor SK Menteri Agama No. 258 tahun 2019 Tentang izin penyelenggaraan program studi Tadris Ilmu Pengetahuan Sosial (IPS) UIN Sultan Syarif Kasim Riau dan SK Akreditasi Minimum dari BAN PT dengan No. 4/BAN-PT/Min-Akred/II/20219 yang dikeluarkan oleh Badan Akreditasi Nasional Perguruan Tinggi Tentang Pemenuhan Persyaratan Minimum Akreditasi Program Studi Perguruan Tinggi Keagamaan Islam pada tanggal 22 Mei 2019."
+          ]
+      },
+      {
+          "tag": "labor Pendidikan Matematika",
+          "patterns": [
+            "laboratorium yang ada di jurusan Pendidikan Matematika ",
+            "laboratorium jurusan Pendidikan Matematika ",
+            "laboratorium di jurusan Pendidikan Matematika ",
+            "laboratorium Pendidikan Matematika ",
+            "labor yang ada di jurusan Pendidikan Matematika ",
+            "labor jurusan Pendidikan Matematika ",
+            "labor di jurusan Pendidikan Matematika ",
+            "labor Pendidikan Matematika "
+          ],
+          "responses": [
+            "Laboratorium yang tersedia di jurusan Pendidikan Matematika yaitu : Laboratorium Micro Teaching, Laboratorium Bahasa, Laboratorium Pendidikan Matematika, dan Laboratorium Komputer"
+          ]
+      },
+      {
+          "tag": "Akreditasi Jurusan PAI",
+          "patterns": [
+            "akreditasi jurusan Pendidikan Agama Islam adalah ",
+            "Akreditasi Prodi Pendidikan Agama Islam adalah ",
+            "akreditasi jurusan PAI adalah ",
+            "Akreditasi Prodi PAI adalah ",
+            "akreditasi jurusan Pendidikan Agama Islam ",
+            "Akreditasi Prodi Pendidikan Agama Islam",
+            "akreditasi jurusan PAI",
+            "Akreditasi Prodi PAI "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Pendidikan Agama Islam di Fakultas Tarbiyah dan Keguruan sekarang adalah A (Akreditasi Amat Baik)"
+          ]
+      },
+      {
+          "tag": "Akreditasi Jurusan MPI",
+          "patterns": [
+            "akreditasi jurusan Manajemen Pendidikan Islam adalah ",
+            "Akreditasi Prodi Manajemen Pendidikan Islam adalah ",
+            "akreditasi jurusan MPI adalah ",
+            "Akreditasi Prodi MPI adalah ",
+            "akreditasi jurusan Manajemen Pendidikan Islam ",
+            "Akreditasi Prodi Manajemen Pendidikan Islam ",
+            "akreditasi jurusan MPI ",
+            "Akreditasi Prodi MPI "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Manajemen Pendidikan Islam di Fakultas Tarbiyah dan Keguruan sekarang adalah A (Akreditasi Amat Baik)"
+          ]
+      },
+      {
+          "tag": "Akreditasi Jurusan Pendidikan Matematika",
+          "patterns": [
+            "akreditasi jurusan Pendidikan Matematika adalah ",
+            "Akreditasi Prodi Pendidikan Matematika adalah ",
+            "akreditasi jurusan Pendidikan MTK adalah ",
+            "Akreditasi Prodi Pendidikan MTK adalah ",
+            "akreditasi jurusan Pendidikan Matematika ",
+            "Akreditasi Prodi Pendidikan Matematika ",
+            "akreditasi jurusan Pendidikan MTK ",
+            "Akreditasi Prodi Pendidikan MTK "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Pendidikan Matematika di Fakultas Tarbiyah dan Keguruan sekarang adalah B (Akreditasi Baik)"
+          ]
+      },
+      {
+          "tag": "Akreditasi Jurusan Pendidikan Ekonomi",
+          "patterns": [
+            "akreditasi jurusan Pendidikan Ekonomi adalah ",
+            "Akreditasi Prodi Pendidikan Ekonomi adalah ",
+            "akreditasi jurusan Pendidikan Ekonomi ",
+            "Akreditasi Prodi Pendidikan Ekonomi "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Pendidikan Ekonomi di Fakultas Tarbiyah dan Keguruan sekarang adalah B (Akreditasi Baik)"
+          ]
+      },
+      {
+          "tag": "Akreditasi Jurusan Pendidikan Kimia",
+          "patterns": [
+            "akreditasi jurusan Pendidikan Kimia adalah ",
+            "Akreditasi Prodi Pendidikan Kimia adalah ",
+            "akreditasi jurusan Pendidikan Kimia",
+            "Akreditasi Prodi Pendidikan Kimia "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Pendidikan Kimia di Fakultas Tarbiyah dan Keguruan sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan PGMI",
+          "patterns": [
+            "akreditasi jurusan Pendidikan Guru Madrasah Ibtidaiyah adalah ",
+            "Akreditasi Prodi Pendidikan Guru Madrasah Ibtidaiyah adalah ",
+            "akreditasi jurusan PGMI adalah ",
+            "Akreditasi Prodi PGMI adalah ",
+            "akreditasi jurusan Pendidikan Guru Madrasah Ibtidaiyah ",
+            "Akreditasi Prodi Pendidikan Guru Madrasah Ibtidaiyah ",
+            "akreditasi jurusan PGMI ",
+            "Akreditasi Prodi PGMI "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Pendidikan Guru Madrasah Ibtidaiyah di Fakultas Tarbiyah dan Keguruan sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan Tadris IPS",
+          "patterns": [
+            "akreditasi jurusan Tadris Ilmu Pengetahuan Sosial adalah ",
+            "Akreditasi Prodi Tadris Ilmu Pengetahuan Sosial adalah ",
+            "akreditasi jurusan Tadris IPS adalah ",
+            "Akreditasi Prodi Tadris IPS adalah ",
+            "akreditasi jurusan Tadris Ilmu Pengetahuan Sosial ",
+            "Akreditasi Prodi Tadris Ilmu Pengetahuan Sosial ",
+            "akreditasi jurusan Tadris IPS ",
+            "Akreditasi Prodi Tadris IPS ",
+            "akreditasi jurusan Pendidikan Ilmu Pengetahuan Sosial adalah ",
+            "Akreditasi Prodi Pendidikan Ilmu Pengetahuan Sosial adalah ",
+            "akreditasi jurusan Pendidikan IPS adalah ",
+            "Akreditasi Prodi Pendidikan IPS adalah ",
+            "akreditasi jurusan Pendidikan Ilmu Pengetahuan Sosial ",
+            "Akreditasi Prodi Pendidikan Ilmu Pengetahuan Sosial ",
+            "akreditasi jurusan Pendidikan IPS ",
+            "Akreditasi Prodi Pendidikan IPS "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Tadris Ilmu Pengetahuan Sosial di Fakultas Tarbiyah dan Keguruan sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan PB Indonesia",
+          "patterns": [
+            "akreditasi jurusan Pendidikan Bahasa Indonesia adalah ",
+            "Akreditasi Prodi Pendidikan Bahasa Indonesia adalah ",
+            "akreditasi jurusan Pendidikan Bahasa Indonesia ",
+            "Akreditasi Prodi Pendidikan Bahasa Indonesia ",
+          ],
+          "responses": [
+            "Akreditasi Jurusan Pendidikan Bahasa Indonesia di Fakultas Tarbiyah dan Keguruan sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan PB Inggris",
+          "patterns": [
+            "akreditasi jurusan Pendidikan Bahasa Inggris adalah ",
+            "Akreditasi Prodi Pendidikan Bahasa Inggris adalah ",
+            "akreditasi jurusan Pendidikan Bahasa Inggris",
+            "Akreditasi Prodi Pendidikan Bahasa Inggris ",
+          ],
+          "responses": [
+            "Akreditasi Jurusan Pendidikan Bahasa Inggris di Fakultas Tarbiyah dan Keguruan sekarang adalah A (Akreditasi Amat Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan PBA",
+          "patterns": [
+            "akreditasi jurusan Pendidikan Bahasa Arab adalah ",
+            "Akreditasi Prodi Pendidikan Bahasa Arab adalah ",
+            "akreditasi jurusan PBA adalah ",
+            "Akreditasi Prodi PBA adalah ",
+            "akreditasi jurusan Pendidikan Bahasa Arab ",
+            "Akreditasi Prodi Pendidikan Bahasa Arab ",
+            "akreditasi jurusan PBA ",
+            "Akreditasi Prodi PBA "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Pendidikan Bahasa Bahasa Arab di Fakultas Tarbiyah dan Keguruan sekarang adalah A (Akreditasi Amat Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan PIAUD",
+          "patterns": [
+            "akreditasi jurusan Pendidikan Islam Anak Usia Dini adalah ",
+            "Akreditasi Prodi Pendidikan Islam Anak Usia Dini adalah ",
+            "akreditasi jurusan PIAUD adalah ",
+            "Akreditasi Prodi PIAUD adalah ",
+            "akreditasi jurusan Pendidikan Islam Anak Usia Dini ",
+            "Akreditasi Prodi Pendidikan Islam Anak Usia Dini ",
+            "akreditasi jurusan PIAUD ",
+            "Akreditasi Prodi PIAUD "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Pendidikan Islam Anak Usia Dini di Fakultas Tarbiyah dan Keguruan sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan Tadris IPA",
+          "patterns": [
+            "akreditasi jurusan Tadris Ilmu Pengetahuan Alam adalah ",
+            "Akreditasi Prodi Tadris Ilmu Pengetahuan Alam adalah ",
+            "akreditasi jurusan Tadris IPA adalah ",
+            "Akreditasi Prodi Tadris IPA adalah ",
+            "akreditasi jurusan Tadris Ilmu Pengetahuan Alam ",
+            "Akreditasi Prodi Tadris Ilmu Pengetahuan Alam ",
+            "akreditasi jurusan Tadris IPA ",
+            "Akreditasi Prodi Tadris IPA ",
+            "akreditasi jurusan Pendidikan Ilmu Pengetahuan Alam adalah ",
+            "Akreditasi Prodi Pendidikan Ilmu Pengetahuan Alam adalah ",
+            "akreditasi jurusan Pendidikan IPA adalah ",
+            "Akreditasi Prodi Pendidikan IPA adalah ",
+            "akreditasi jurusan Pendidikan Ilmu Pengetahuan Alam ",
+            "Akreditasi Prodi Pendidikan Ilmu Pengetahuan Alam ",
+            "akreditasi jurusan Pendidikan IPA ",
+            "Akreditasi Prodi Pendidikan IPA "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Tadris Ilmu Pengetahuan Alam di Fakultas Tarbiyah dan Keguruan sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan Pendidikan Geografi",
+          "patterns": [
+            "akreditasi jurusan Pendidikan Geografi adalah ",
+            "Akreditasi Prodi Pendidikan Geografi adalah ",
+            "akreditasi jurusan Pendidikan Geografi ",
+            "Akreditasi Prodi Pendidikan Geografi "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Pendidikan Geografi di Fakultas Tarbiyah dan Keguruan sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "sejarah jurusan Hukum Keluarga",
+          "patterns": [
+            "kapan jurusan HK didirikan",
+            "kapan prodi HK didirikan",
+            "kapan HK didirikan",
+            "kapan jurusan Hukum Keluarga didirikan",
+            "kapan prodi Hukum Keluarga didirikan",
+            "kapan Hukum Keluarga didirikan",
+            "jurusan HK didirikan",
+            "prodi HK didirikan",
+            "prodi HK berdiri tahun",
+            "prodi HK berdiri kapan",
+            "prodi HK berdiri",
+            "HK didirikan",
+            "jurusan Hukum Keluarga didirikan",
+            "prodi Pendidikan Hukum Keluarga didirikan",
+            "sejak kapan jurusan HK didirikan",
+            "sejak kapan prodi HK didirikan",
+            "sejak kapan HK didirikan",
+            "sejak kapan jurusan Hukum Keluarga didirikan",
+            "sejak kapan prodi Hukum Keluarga didirikan",
+            "sejak kapan Hukum Keluarga didirikan",
+            "kapan berdirinya jurusan Hukum Keluarga ",
+            "kapan berdirinya prodi Hukum Keluarga ",
+            "kapan berdirinya Hukum Keluarga ",
+            "kapan berdirinya jurusan HK ",
+            "kapan berdirinya prodi HK",
+            "kapan berdirinya HK"
+          ],
+          "responses": [
+            "Program Studi Hukum keluarga merupakan salah satu dari Program Studi yang ada di Fakultas Syariah dan Hukum UIN, yang didirikan dengan No. SK pendirian  PS : 37.a/R/1996 dan tanggal SK Pendirian PS : 01 Juli 1996."
+          ]
+     },
+     {
+          "tag": "sejarah jurusan Hukum Ekonomi Syariah",
+          "patterns": [
+            "kapan jurusan HES didirikan",
+            "kapan prodi HES didirikan",
+            "kapan HES didirikan",
+            "kapan jurusan Hukum Ekonomi Syariah didirikan",
+            "kapan prodi Hukum Ekonomi Syariah didirikan",
+            "kapan Hukum Ekonomi Syariah didirikan",
+            "jurusan HES didirikan",
+            "prodi HES didirikan",
+            "prodi HES berdiri tahun",
+            "prodi HES berdiri kapan",
+            "prodi HES berdiri",
+            " HES didirikan",
+            "jurusan Hukum Ekonomi Syariah didirikan",
+            "prodi Hukum Ekonomi Syariah didirikan",
+            "sejak kapan jurusan HES didirikan",
+            "sejak kapan prodi HES didirikan",
+            "sejak kapan HES didirikan",
+            "sejak kapan jurusan Hukum Ekonomi Syariah didirikan",
+            "sejak kapan prodi Hukum Ekonomi Syariah didirikan",
+            "sejak kapan Hukum Ekonomi Syariah didirikan",
+            "kapan berdirinya jurusan Hukum Ekonomi Syariah ",
+            "kapan berdirinya prodi Hukum Ekonomi Syariah ",
+            "kapan berdirinya Hukum Ekonomi Syariah ",
+            "kapan berdirinya jurusan HES ",
+            "kapan berdirinya prodi HES ",
+            "kapan berdirinya HES "
+          ],
+          "responses": [
+            "Program Studi Hukum Ekonomi Syariah merupakan salah satu dari Program Studi yang ada di Fakultas Syariah dan Hukum UIN, yang didirikan dengan No. SK pendirian  PS : 37.a/R/1996 dan tanggal SK Pendirian PS : 01 Juli 1996."
+          ]
+     },
+     {
+          "tag": "sejarah Perbandingan Mazhab",
+          "patterns": [
+            "kapan jurusan PM didirikan",
+            "kapan prodi PM didirikan",
+            "kapan PM didirikan",
+            "kapan jurusan Perbandingan Mazhab didirikan",
+            "kapan prodi Perbandingan Mazhab didirikan",
+            "kapan Perbandingan Mazhab didirikan",
+            "jurusan PM didirikan",
+            "prodi PM didirikan",
+            "prodi PM berdiri tahun",
+            "prodi PM berdiri kapan",
+            "prodi PM berdiri",
+            " PM didirikan",
+            "jurusan Perbandingan Mazhab didirikan",
+            "prodi Perbandingan Mazhab didirikan",
+            "sejak kapan jurusan PM didirikan",
+            "sejak kapan prodi PM didirikan",
+            "sejak kapan PM didirikan",
+            "sejak kapan jurusan Perbandingan Mazhab didirikan",
+            "sejak kapan prodi Perbandingan Mazhab didirikan",
+            "sejak kapan Perbandingan Mazhab didirikan",
+            "kapan berdirinya jurusan Perbandingan Mazhab ",
+            "kapan berdirinya prodi Perbandingan Mazhab ",
+            "kapan berdirinya Perbandingan Mazhab ",
+            "kapan berdirinya jurusan PM ",
+            "kapan berdirinya prodi PM ",
+            "kapan berdirinya PM "
+          ],
+          "responses": [
+            " Program Studi Perbandingan Mazhab adalah salah satu program studi yang berada di bawah naungan Fakultas Hukum dan Syariah Universitas Islam Negeri Sultan Syarif Kasim (UIN SUSKA) Riau. Program Studi Perbandingan Mazhab didirikan pada tanggal 29 Februari 2012."
+          ]
+     },
+     {
+          "tag": "sejarah Perbandingan Mazhab",
+          "patterns": [
+            "kapan jurusan PM didirikan",
+            "kapan prodi PM didirikan",
+            "kapan PM didirikan",
+            "kapan jurusan Perbandingan Mazhab didirikan",
+            "kapan prodi Perbandingan Mazhab didirikan",
+            "kapan Perbandingan Mazhab didirikan",
+            "jurusan PM didirikan",
+            "prodi PM didirikan",
+            "prodi PM berdiri tahun",
+            "prodi PM berdiri kapan",
+            "prodi PM berdiri",
+            " PM didirikan",
+            "jurusan Perbandingan Mazhab didirikan",
+            "prodi Perbandingan Mazhab didirikan",
+            "sejak kapan jurusan PM didirikan",
+            "sejak kapan prodi PM didirikan",
+            "sejak kapan PM didirikan",
+            "sejak kapan jurusan Perbandingan Mazhab didirikan",
+            "sejak kapan prodi Perbandingan Mazhab didirikan",
+            "sejak kapan Perbandingan Mazhab didirikan",
+            "kapan berdirinya jurusan Perbandingan Mazhab ",
+            "kapan berdirinya prodi Perbandingan Mazhab ",
+            "kapan berdirinya Perbandingan Mazhab ",
+            "kapan berdirinya jurusan PM ",
+            "kapan berdirinya prodi PM ",
+            "kapan berdirinya PM "
+          ],
+          "responses": [
+            " Program Studi Perbandingan Mazhab adalah salah satu program studi yang berada di bawah naungan Fakultas Hukum dan Syariah Universitas Islam Negeri Sultan Syarif Kasim (UIN SUSKA) Riau. Program Studi Perbandingan Mazhab didirikan pada tanggal 29 Februari 2012."
+          ]
+     },
+     {
+          "tag": "sejarah Hukum Tata Negara",
+          "patterns": [
+            "kapan jurusan HTN didirikan",
+            "kapan prodi HTN didirikan",
+            "kapan HTN didirikan",
+            "kapan jurusan Hukum Tata Negara didirikan",
+            "kapan prodi Hukum Tata Negara didirikan",
+            "kapan Hukum Tata Negara didirikan",
+            "jurusan HTN didirikan",
+            "prodi HTN didirikan",
+            "prodi HTN berdiri tahun",
+            "prodi HTN berdiri kapan",
+            "prodi HTN berdiri",
+            "HTN didirikan",
+            "jurusan Hukum Tata Negara didirikan",
+            "prodi Hukum Tata Negara didirikan",
+            "sejak kapan jurusan HTN didirikan",
+            "sejak kapan prodi HTN didirikan",
+            "sejak kapan HTN didirikan",
+            "sejak kapan jurusan Hukum Tata Negara didirikan",
+            "sejak kapan prodi Hukum Tata Negara didirikan",
+            "sejak kapan Hukum Tata Negara didirikan",
+            "kapan berdirinya jurusan Hukum Tata Negara ",
+            "kapan berdirinya prodi Hukum Tata Negara ",
+            "kapan berdirinya Hukum Tata Negara ",
+            "kapan berdirinya jurusan HTN ",
+            "kapan berdirinya prodi HTN ",
+            "kapan berdirinya HTN "
+          ],
+          "responses": [
+            " Program Studi Hukum Tata Negara adalah salah satu program studi yang berada di bawah naungan Fakultas Hukum dan Syariah Universitas Islam Negeri Sultan Syarif Kasim (UIN SUSKA) Riau. Program Studi Hukum Tata Negara didirikan pada tanggal 29 Februari 2012."
+          ]
+     },
+     {
+          "tag": "sejarah Perbankan Syariah",
+          "patterns": [
+            "kapan jurusan Perbankan Syariah didirikan",
+            "kapan prodi Perbankan Syariah didirikan",
+            "kapan Perbankan Syariah didirikan",
+            "jurusan Perbankan Syariah didirikan",
+            "prodi Perbankan Syariah didirikan",
+            "sejak kapan jurusan Perbankan Syariah didirikan",
+            "sejak kapan prodi Perbankan Syariah didirikan",
+            "sejak kapan Perbankan Syariah didirikan",
+            "kapan berdirinya jurusan Perbankan Syariah ",
+            "kapan berdirinya prodi Perbankan Syariah ",
+            "kapan berdirinya Perbankan Syariah "
+          ],
+          "responses": [
+            " Program Studi Perbankan Syariah adalah salah satu program studi baru yang berada di bawah naungan Fakultas Hukum dan Syariah Universitas Islam Negeri Sultan Syarif Kasim (UIN SUSKA) Riau. Program Studi Hukum Tata Negara didirikan pada tanggal 14 Oktober 2022."
+          ]
+     },
+     {
+          "tag": "sejarah Ilmu Hukum",
+          "patterns": [
+            "kapan jurusan IH didirikan",
+            "kapan prodi IH didirikan",
+            "kapan IH didirikan",
+            "kapan jurusan Ilmu Hukum didirikan",
+            "kapan prodi Ilmu Hukum didirikan",
+            "kapan Ilmu Hukum didirikan",
+            "jurusan IH didirikan",
+            "prodi IH didirikan",
+            "prodi IH berdiri tahun",
+            "prodi IH berdiri kapan",
+            "prodi IH berdiri",
+            "IH didirikan",
+            "jurusan Ilmu Hukum didirikan",
+            "prodi Ilmu Hukum didirikan",
+            "sejak kapan jurusan IH didirikan",
+            "sejak kapan prodi IH didirikan",
+            "sejak kapan IH didirikan",
+            "sejak kapan jurusan Ilmu Hukum didirikan",
+            "sejak kapan prodi Ilmu Hukum didirikan",
+            "sejak kapan Ilmu Hukum didirikan",
+            "kapan berdirinya jurusan Ilmu Hukum ",
+            "kapan berdirinya prodi Ilmu Hukum ",
+            "kapan berdirinya Ilmu Hukum ",
+            "kapan berdirinya jurusan IH ",
+            "kapan berdirinya prodi IH ",
+            "kapan berdirinya IH "
+          ],
+          "responses": [
+            " Program Studi Ilmu Hukum adalah salah satu program studi yang berada di bawah naungan Fakultas Hukum dan Syariah Universitas Islam Negeri Sultan Syarif Kasim (UIN SUSKA) Riau. Program Studi Hukum Tata Negara didirikan pada tanggal 15 Agustus 2007."
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan HK",
+          "patterns": [
+            "akreditasi jurusan Hukum Keluarga adalah ",
+            "Akreditasi Prodi Hukum Keluarga adalah ",
+            "akreditasi jurusan HK adalah ",
+            "Akreditasi Prodi HK adalah ",
+            "akreditasi jurusan Hukum Keluarga ",
+            "Akreditasi Prodi Hukum Keluarga ",
+            "akreditasi jurusan HK ",
+            "Akreditasi Prodi HK "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Hukum Keluarga di Fakultas Hukum dan Syariah sekarang adalah A (Akreditasi Amat Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan HES",
+          "patterns": [
+            "akreditasi jurusan Hukum Ekonomi Syariah adalah ",
+            "Akreditasi Prodi Hukum Ekonomi Syariah adalah ",
+            "akreditasi jurusan HES adalah ",
+            "Akreditasi Prodi HES adalah ",
+            "akreditasi jurusan Hukum Ekonomi Syariah ",
+            "Akreditasi Prodi Hukum Ekonomi Syariah ",
+            "akreditasi jurusan HES ",
+            "Akreditasi Prodi HES "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Hukum Ekonomi Syariah di Fakultas Hukum dan Syariah sekarang adalah A (Akreditasi Amat Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan PM",
+          "patterns": [
+            "akreditasi jurusan Perbandingan Mazhab adalah ",
+            "Akreditasi Prodi Perbandingan Mazhab adalah ",
+            "akreditasi jurusan PM adalah ",
+            "Akreditasi Prodi PM adalah ",
+            "akreditasi jurusan Perbandingan Mazhab ",
+            "Akreditasi Prodi Perbandingan Mazhab ",
+            "akreditasi jurusan PM ",
+            "Akreditasi Prodi PM "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Perbandingan Mazhab di Fakultas Hukum dan Syariah sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan HTN",
+          "patterns": [
+            "akreditasi jurusan Hukum Tata Negara adalah ",
+            "Akreditasi Prodi Hukum Tata Negara adalah ",
+            "akreditasi jurusan HTN adalah ",
+            "Akreditasi Prodi HTN adalah ",
+            "akreditasi jurusan Hukum Tata Negara ",
+            "Akreditasi Prodi Hukum Tata Negara ",
+            "akreditasi jurusan HTN ",
+            "Akreditasi Prodi HTN "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Hukum Tata Negara di Fakultas Hukum dan Syariah sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan HTN",
+          "patterns": [
+            "akreditasi jurusan Hukum Tata Negara adalah ",
+            "Akreditasi Prodi Hukum Tata Negara adalah ",
+            "akreditasi jurusan HTN adalah ",
+            "Akreditasi Prodi HTN adalah ",
+            "akreditasi jurusan Hukum Tata Negara ",
+            "Akreditasi Prodi Hukum Tata Negara ",
+            "akreditasi jurusan HTN ",
+            "Akreditasi Prodi HTN "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Hukum Tata Negara di Fakultas Hukum dan Syariah sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan Eksyar",
+          "patterns": [
+            "akreditasi jurusan Ekonomi Syariah adalah ",
+            "Akreditasi Prodi Ekonomi Syariah adalah ",
+            "akreditasi jurusan Eksyar adalah ",
+            "Akreditasi Prodi Eksyar adalah ",
+            "akreditasi jurusan Ekonomi Syariah ",
+            "Akreditasi Prodi Ekonomi Syariah ",
+            "akreditasi jurusan Eksyar ",
+            "Akreditasi Prodi Eksyar "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Ekonomi Syariah di Fakultas Hukum dan Syariah sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+            "tag": "Akreditasi Jurusan IH",
+            "patterns": [
+            "akreditasi jurusan Ilmu Hukum adalah ",
+            "Akreditasi Prodi Ilmu Hukum adalah ",
+            "akreditasi jurusan IH adalah ",
+            "Akreditasi Prodi IH adalah ",
+            "akreditasi jurusan Ilmu Hukum ",
+            "Akreditasi Prodi Ilmu Hukum ",
+            "akreditasi jurusan IH ",
+            "Akreditasi Prodi IH "
+          ],
+          "responses": [
+            "Akreditasi Jurusan Ilmu Hukum di Fakultas Hukum dan Syariah sekarang adalah A (Akreditasi Amat Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan Perbankan Syariah",
+          "patterns": [
+            "akreditasi jurusan Perbankan Syariah adalah ",
+            "Akreditasi Prodi Perbankan Syariah adalah ",
+            "akreditasi jurusan Perbankan Syariah ",
+            "Akreditasi Prodi Perbankan Syariah "
+          ],
+          "responses": [
+            "Perbankan Syariah di Fakultas Hukum dan Syariah sekarang adalah A (Akreditasi Amat Baik)"
+          ]
       }
     ]
-  }
+}
