@@ -190,6 +190,90 @@
         ]
       },
       {
+        "tag": "Luas UIN SUSKA RIAU",
+        "patterns": [
+          "Luas uin suska riau",
+          "Luas uin suska",
+          "Luas uin",
+          "Luas kampus uin suska riau",
+          "Luas kampus uin suska",
+          "Luas kampus uin" 
+        ],
+        "responses": [
+          "UIN Suska RIAU telah mempunyai lahan kampus seluas 84,15 Ha yang terdiri atas 3,65 Ha di Jl. K.H. Ahmad Dahlan dan 80,50 Ha di Km. 15 Jl. Soebrantas Simpangbaru Panam Pekanbaru"
+        ]
+      },
+      {
+        "tag": "peringkat nasional UIN SUSKA RIAU",
+        "patterns": [
+          "Peringkat Nasional uin suska riau",
+          "Peringkat Nasional uin suska",
+          "Peringkat Nasional uin",
+          "Peringkat Nasional kampus uin suska riau",
+          "Peringkat Nasional kampus uin suska",
+          "Peringkat Nasional kampus uin" 
+        ],
+        "responses": [
+          "rangking nasional Universitas Islam Negeri Sultan Syarif Kasim Riau ialah ke-62"
+        ]
+      },
+      {
+        "tag": "peringkat internasional UIN SUSKA RIAU",
+        "patterns": [
+          "Peringkat internasional uin suska riau",
+          "Peringkat internasional uin suska",
+          "Peringkat internasional uin",
+          "Peringkat internasional kampus uin suska riau",
+          "Peringkat Ninternasional kampus uin suska",
+          "Peringkat internasional kampus uin" 
+        ],
+        "responses": [
+          "rangking nasional Universitas Islam Negeri Sultan Syarif Kasim Riau ialah ke-"
+        ]
+      },
+      {
+        "tag": "peringkat UIN SUSKA RIAU dipekanbaru",
+        "patterns": [
+          "Peringkat uin suska riau di pekanbaru",
+          "Peringkat uin suska di pekanbaru",
+          "Peringkat uin di pekanbaru",
+          "Peringkat kampus uin suska riau di pekanbaru",
+          "Peringkat kampus uin suska di pekanbaru",
+          "Peringkat kampus uin di pekanbaru" 
+        ],
+        "responses": [
+          "UIN Suska Riau berada di posisi ke-2 kampus terbaik di pekanbaru (Riau)"
+        ]
+      },
+      {
+        "tag": "peringkat UIN SUSKA RIAU PTKIN",
+        "patterns": [
+          "Peringkat uin suska riau di PTKIN seluruh indonesia",
+          "Peringkat uin suska di PTKIN seluruh indonesia",
+          "Peringkat uin di PTKIN seluruh indonesia",
+          "Peringkat kampus uin suska riau di PTKIN seluruh indonesia",
+          "Peringkat kampus uin suska di PTKIN seluruh indonesia",
+          "Peringkat kampus uin di PTKIN seluruh indonesia" 
+        ],
+        "responses": [
+          "UIN Suska Riau Berada di posisi ke-4 nasional dari seluruh PTKIN di indonesia"
+        ]
+      },
+      {
+        "tag": "jumlah fakultas",
+        "patterns": [
+          "ada berapa fakultas di uin suska riau",
+          "ada berapa fakultas di uin suska",
+          "ada berapa fakultas di uin",
+          "ada berapa fakultas kampus di uin suska riau",
+          "ada berapa fakultas kampus di uin suska",
+          "ada berapa fakultas kampus di uin"
+        ],
+        "responses": [
+          "Fakultas yang ada di Universitas Islam Negeri Sultan Syarif Kasim Riau yaitu ada 9 Fakultas"
+        ]
+      },
+      {
         "tag": "Akreditas_UIN_Suska_Riau",
         "patterns": [
           "Akreditas UIN Suska Riau Apa Sih sekarang?",
