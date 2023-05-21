@@ -2343,5 +2343,845 @@
             "Perbankan Syariah di Fakultas Hukum dan Syariah sekarang adalah A (Akreditasi Amat Baik)"
           ]
       }
+      {
+          "tag": "Tahun berdiri jurusan Teknik Informatika",
+          "patterns": [
+            "Kapan berdirinya jurusan teknik informatika?",
+            "Jurusan teknik informatika berdiri tahun",
+            "Kapan jurusan TIF di uin berdiri?",
+            "Tahun berdirinya jurusan teknik informatika?",
+            "Tahun berdirinya jurusan TIF ",
+            "TIF berdiri tahun",
+            "Kapan jurusan teknik informatika dibuat",
+            "Berdirinya jurusan teknik informatika",
+            "Kapan dibentuknya jurusan teknik informatika"
+          ],
+          "responses": [
+            "Program Studi Teknik Informatika Fakultas Sains dan Teknollogi di UIN SUSKA RIAU telah berdiri sejak tahun 1999."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan Teknik Industri",
+          "patterns": [
+            "Kapan berdirinya jurusan teknik industri?",
+            "Jurusan teknik industri berdiri tahun",
+            "Kapan jurusan TI di uin berdiri?",
+            "Tahun berdirinya jurusan teknik industri?",
+            "Tahun berdirinya jurusan TI",
+            "TI berdiri tahun",
+            "Kapan jurusan teknik industri dibuat",
+            "Berdirinya jurusan teknik industri",
+            "Kapan dibentuknya jurusan teknik industri"
+          ],
+          "responses": [
+            "Program Studi Teknik Industri UIN Suska Riau berdiri pada tanggal 9 April 2001 dengan dasar Surat Keputusan Rektor IAIN Sulthan Syarif Qasim Riau No. 38/R/2001."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan Sistem Informasi",
+          "patterns": [
+            "Kapan berdirinya jurusan Sistem Informasi?",
+            "Jurusan Sistem Informasi berdiri tahun",
+            "Kapan jurusan SI di uin berdiri?",
+            "Tahun berdirinya jurusan Sistem Informasi?",
+            "Tahun berdirinya jurusan SI",
+            "SI berdiri tahun",
+            "Kapan jurusan Sistem Informasi dibuat",
+            "Berdirinya jurusan Sistem Informasi",
+            "Kapan dibentuknya jurusan Sistem Informasi"
+          ],
+          "responses": [
+            "Program Studi Sistem Informasi UIN Suska Riau berdiri pada tahun ajaran 2002/2003 sejalan dengan rencana untuk meningkatkan status IAIN menjadi Universitas Islam Negeri (UIN) Riau, yang saat ini telah terlaksana."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan matematika",
+          "patterns": [
+            "Kapan berdirinya jurusan jurusan matematika?",
+            "Jurusan matematika berdiri tahun",
+            "Kapan jurusan MT di uin berdiri?",
+            "Tahun berdirinya jurusan matematika?",
+            "Tahun berdirinya jurusan MT",
+            "MT berdiri tahun",
+            "Kapan jurusan matematika dibuat",
+            "Berdirinya jurusan matematika",
+            "Kapan dibentuknya jurusan matematika"
+          ],
+          "responses": [
+            "Program Studi Matematika didirikan pada Tahun 2002 berdasarkan Surat Keputusan Rektor IAIN Sulthan Syarif Qasim Pekanbaru No. 19.a/R/2002 Tanggal 28 Januari 2002."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan teknik elektro",
+          "patterns": [
+            "Kapan berdirinya jurusan jurusan teknik elektro?",
+            "Jurusan teknik elektro berdiri tahun",
+            "Kapan jurusan TE di uin berdiri?",
+            "Tahun berdirinya jurusan teknik elektro?",
+            "Tahun berdirinya jurusan TE",
+            "TE berdiri tahun",
+            "Kapan jurusan teknik elektro dibuat",
+            "Berdirinya jurusan teknik elektro",
+            "Kapan dibentuknya jurusan teknik elektro"
+          ],
+          "responses": [
+            "Program Studi Teknik Elektro Fakultas Sains dan Teknologi di UIN SUSKA Riau didirikan pada tanggal 18 Oktober 2003"
+          ]
+     },
+     {
+          "tag": "Konsentrasi di jurusan teknik elektro",
+          "patterns": [
+            "Apa saja konsentrasi di jurusan jurusan teknik elektro?",
+            "Konsentrasi di Jurusan teknik elektro apa saja",
+            "Konsentrasi di Jurusan teknik elektro apa saja?",
+            "Sebutkan konsentrasi di Jurusan teknik elektro?",
+            "Konsentrasi di TE",
+            "Konsentrasi yang ada di jurusan teknik elektro",
+            "Ada berapa konsentrasi di jurusan teknik elektro"
+          ],
+          "responses": [
+            "Pembagian konsentrasi yang ada di Program Studi Teknik Elektro di UIN SUSKA Riau dibagi menjadi 4 konsentrasi yaitu Konsentrasi Elektronika Instrumentasi,  Konsentrasi Telekomunikasi, Konsentrasi Komputer dan Konsentrasi Energi."
+          ]
+     },
+     {
+          "tag": "Laboratorium jurusan teknik informatika",
+          "patterns": [
+            "Laboratorium yang ada di jurusan teknik informatika",
+            "Apa saja laboratorium yang ada di jurusan teknik informatika",
+            "Laboratorium di jurusan teknik informatika",
+            "Lab apa saja yang ada di jurusan teknik informatika?",
+            "Laboratorium teknik informatika",
+            "Lab informatika",
+            "Lab TIF",
+            "Laboratorium TIF",
+            "Lab yang tersedia di jurusan teknik informatika"
+          ],
+          "responses": [
+            "Terdapat beberapa laboratorium yang ada di jurusan teknik informatika yaitu Lab Technopreneur dan Inkubator Bisnis, Lab Riset Data Science dan Business Intelligence, Lab Riset Kecerdasan Buatan dan Sains Komputer , Lab Pemrograman dan Pengembangan Aplikasi."
+          ]
+     },
+     {
+          "tag": "Laboratorium jurusan teknik industri",
+          "patterns": [
+            "Laboratorium yang ada di jurusan teknik industri",
+            "Apa saja laboratorium yang ada di jurusan teknik industri",
+            "Laboratorium di jurusan teknik industri",
+            "Lab apa saja yang ada di jurusan teknik industri?",
+            "Laboratorium teknik industri",
+            "Lab industri",
+            "Lab TI",
+            "Laboratorium TI",
+            "Lab yang tersedia di jurusan teknik industri"
+          ],
+          "responses": [
+            "Terdapat beberapa laboratorium yang ada di jurusan teknik industri yaitu Lab Menggambar Teknik, Lab Simulasi Komputer, Lab CIM, Lab Proses Manufaktur dan Lab Mini  Factory."
+          ]
+     },
+     {
+          "tag": "Laboratorium jurusan sistem informasi",
+          "patterns": [
+            "Laboratorium yang ada di jurusan sistem informasi ",
+            "Apa saja laboratorium yang ada di jurusan sistem informasi",
+            "Laboratorium di jurusan sistem informasi",
+            "Lab apa saja yang ada di jurusan sistem informasi?",
+            "Laboratorium sistem informasi",
+            "Lab sistem informasi",
+            "Lab SI",
+            "Laboratorium SI",
+            "Lab yang tersedia di jurusan sistem informasi"
+          ],
+          "responses": [
+            "Terdapat beberapa laboratorium yang ada di jurusan sistem informasi yaitu Lab Software E, Lab Internet dan Lab RSI."
+          ]
+     },
+     {
+          "tag": "Laboratorium jurusan matematika",
+          "patterns": [
+            "Laboratorium yang ada di jurusan matematika",
+            "Apa saja laboratorium yang ada di jurusan matematika",
+            "Laboratorium di jurusan matematika",
+            "Lab apa saja yang ada di jurusan matematika?",
+            "Laboratorium matematika",
+            "Lab matematika",
+            "Lab MT",
+            "Laboratorium MT",
+            "Lab yang tersedia di jurusan matematika"
+          ],
+          "responses": [
+            "Terdapat beberapa laboratorium yang ada di jurusan matematika yaitu Lab Komputasi Matematika, Lab Matematika dan Statistika."
+          ]
+     },
+     {
+          "tag": "Laboratorium jurusan Teknik Elektro",
+          "patterns": [
+            "Laboratorium yang ada di jurusan Teknik Elektro",
+            "Apa saja laboratorium yang ada di jurusan Teknik Elektro",
+            "Laboratorium di jurusan Teknik Elektro",
+            "Lab apa saja yang ada di jurusan Teknik Elektro?",
+            "Laboratorium Teknik Elektro",
+            "Lab Teknik Elektro",
+            "Lab TE",
+            "Laboratorium TE",
+            "Lab yang tersedia di jurusan teknik elektro"
+          ],
+          "responses": [
+            "Terdapat beberapa laboratorium yang ada di jurusan teknik elektro yaitu Lab Komp Elektronika, , Lab Kontrol dan Instrumentasi, Lab Digital dan Mikroprosesor, Lab Telekomunikasi, Lab Motor-motor Listrik, Lab Komputer dan SolarLab (Laboratorium Pembangkit Listrik Tenaga Surya)."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri FASTE",
+          "patterns": [
+            "Tahun berdiri Fakultas Sains dan Teknologi",
+            "Kapan berdiri Fakultas Sains dan Teknologi",
+            "Tahun berapa Fakultas Sains dan Teknologi didirikan",
+            "Tahun berdiri FASTE?",
+            "FASTE didirikan kapan",
+            "Kapan berdirinya FASTE",
+            "Tahun FASTE berdiri"
+          ],
+          "responses": [
+            "Fakultas Sains dan Teknologi didirikan pada akhir tahun 2001 sebagai persiapan perubahan status dari Institut Agama Islam Negeri Sultan Syarif Qasim (IAIN SUSQA) Pekanbaru  menjadi Universitas Islam Negeri Sultan Syarif Kasim Riau (UIN Suska) Riau."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan teknik informatika",
+          "patterns": [
+            "Apa akreditasi jurusan teknik informatika",
+            "Akreditasi jurusan teknik informatika",
+            "Akreditasi jurusan teknik informatika apa",
+            "Apakah akreditasi jurusan teknik informatika?",
+            "Apa akreditasi TIF",
+            "Akreditasi TIF",
+            "Akreditasi teknik informatika"
+          ],
+          "responses": [
+            "Akreditasi jurusan teknik informatika di Fakultas Sains dan Teknologi sekarang adalah B (Akreditasi Baik)."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan teknik industri",
+          "patterns": [
+            "Apa akreditasi jurusan teknik industri",
+            "Akreditasi jurusan teknik industri",
+            "Akreditasi jurusan teknik industri apa",
+            "Apakah akreditasi jurusan teknik industri?",
+            "Apa akreditasi TI",
+            "Akreditasi TI",
+            "Akreditasi teknik industri"
+          ],
+          "responses": [
+            "Akreditasi jurusan teknik industri di Fakultas Sains dan Teknologi sekarang adalah B (Akreditasi Baik)."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan sistem informasi",
+          "patterns": [
+            "Apa akreditasi jurusan sistem informasi",
+            "Akreditasi jurusan sistem informasi",
+            "Akreditasi jurusan sistem informasi apa",
+            "Apakah akreditasi jurusan sistem informasi?",
+            "Apa akreditasi SI",
+            "Akreditasi SI",
+            "Akreditasi sistem informasi"
+          ],
+          "responses": [
+            "Akreditasi jurusan Sistem Informasi di Fakultas Sains dan Teknologi sekarang adalah B (Akreditasi Baik)."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan matematika",
+          "patterns": [
+            "Apa akreditasi jurusan matematika",
+            "Akreditasi jurusan matematika",
+            "Akreditasi jurusan matematika apa",
+            "Apakah akreditasi jurusan matematika?",
+            "Apa akreditasi MT",
+            "Akreditasi MT",
+            "Akreditasi matematika"
+          ],
+          "responses": [
+            "Akreditasi jurusan Matematika di Fakultas Sains dan Teknologi sekarang adalah B (Akreditasi Baik)."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan teknik elektro",
+          "patterns": [
+            "Apa akreditasi jurusan teknik elektro",
+            "Akreditasi jurusan teknik elektro",
+            "Akreditasi jurusan teknik elektro apa",
+            "Apakah akreditasi jurusan teknik elektro?",
+            "Apa akreditasi TE",
+            "Akreditasi TE",
+            "Akreditasi teknik elektro"
+          ],
+          "responses": [
+            "Akreditasi jurusan Teknik Elektro di Fakultas Sains dan Teknologi sekarang adalah B (Akreditasi Baik)."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan pengembangan masyarakat islam",
+          "patterns": [
+            "Kapan berdirinya jurusan pengembangan masyarakat islam?",
+            "Jurusan pengembangan masyarakat islam berdiri tahun",
+            "Kapan jurusan PMI di uin berdiri?",
+            "Tahun berdirinya jurusan pengembangan masyarakat islam?",
+            "Tahun berdirinya jurusan PMI ",
+            "PMI berdiri tahun",
+            "Kapan jurusan pengembangan masyarakat islam dibuat",
+            "Berdirinya jurusan pengembangan masyarakat islam",
+            "Kapan dibentuknya jurusan pengembangan masyarakat islam"
+          ],
+          "responses": [
+            "Program Studi pengembangan masyarakat islam Fakultas Dakwah dan Komunikasi di UIN SUSKA RIAU telah berdiri sejak tahun 1998."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan bimbingan konseling islam",
+          "patterns": [
+            "Kapan berdirinya jurusan bimbingan konseling islam?",
+            "Jurusan bimbingan konseling islam berdiri tahun",
+            "Kapan jurusan BKI di uin berdiri?",
+            "Tahun berdirinya jurusan bimbingan konseling islam?",
+            "Tahun berdirinya jurusan BKI ",
+            "BKI berdiri tahun",
+            "Kapan jurusan bimbingan konseling islam dibuat",
+            "Berdirinya jurusan bimbingan konseling islam",
+            "Kapan dibentuknya jurusan bimbingan konseling islam"
+          ],
+          "responses": [
+            "Program Studi Bimbingan Konseling Islam Fakultas Dakwah dan Komunikasi di UIN SUSKA Riau telah berdiri sejak 25 Oktober 2011."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan ilmu komunikasi",
+          "patterns": [
+            "Kapan berdirinya jurusan ilmu komunikasi?",
+            "Jurusan ilmu komunikasi berdiri tahun",
+            "Kapan jurusan ilkom di uin berdiri?",
+            "Tahun berdirinya jurusan ilmu komunikasi?",
+            "Tahun berdirinya jurusan ilkom",
+            "Ilkom berdiri tahun",
+            "Kapan jurusan ilmu komunikasi dibuat",
+            "Berdirinya jurusan ilmu komunikasi",
+            "Kapan dibentuknya jurusan ilmu komunikasi"
+          ],
+          "responses": [
+            "Program Studi Ilmu Komunikasi Fakultas Dakwah dan Komunikasi di UIN SUSKA Riau telah berdiri sejak tanggal 2 Oktober 2009."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan manajemen dakwah",
+          "patterns": [
+            "Kapan berdirinya jurusan manajemen dakwah?",
+            "Jurusan manajemen dakwah berdiri tahun",
+            "Tahun berdirinya jurusan manajemen dakwah?",
+            "Tahun berdirinya jurusan MD",
+            "MD berdiri tahun",
+            "Kapan jurusan manajemen dakwah dibuat",
+            "Berdirinya jurusan manajemen dakwah",
+            "Kapan dibentuknya jurusan manajemen dakwah"
+          ],
+          "responses": [
+            "Program Studi Manajemen Dakwah di UIN SUSKA Riau telah berdiri sejak tanggal 27 Oktober 2008."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan pengembangan masyarakat islam",
+          "patterns": [
+            "Apa akreditasi jurusan pengembangan masyarakat islam",
+            "Akreditasi jurusan pengembangan masyarakat islam",
+            "Akreditasi jurusan pengembangan masyarakat islam apa",
+            "Apakah akreditasi jurusan pengembangan masyarakat islam?",
+            "Apa akreditasi PMI",
+            "Akreditasi PMI",
+            "Akreditasi pengembangan masyarakat islam"
+          ],
+          "responses": [
+            "Akreditasi jurusan Pengembangan Masyarakat Islam di Fakultas Dakwah dan Komunikasi sekarang adalah A (Akreditasi Amat Baik)."
+          ]
+     },
+     {
+            "tag": "Akreditasi jurusan bimbingan konseling islam",
+            "patterns": [
+            "Apa akreditasi jurusan bimbingan konseling islam",
+            "Akreditasi jurusan bimbingan konseling islam",
+            "Akreditasi jurusan bimbingan konseling islam apa",
+            "Apakah akreditasi jurusan bimbingan konseling islam?",
+            "Apa akreditasi BKI",
+            "Akreditasi BKI",
+            "Akreditasi bimbingan konseling islam"
+          ],
+          "responses": [
+            "Akreditasi jurusan Bimbingan Konseling Islam di Fakultas Dakwah dan Komunikasi sekarang adalah A (Akreditasi Amat Baik)."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan ilmu komunikasi",
+          "patterns": [
+            "Apa akreditasi jurusan ilmu komunikasi",
+            "Akreditasi jurusan ilmu komunikasi",
+            "Akreditasi jurusan ilmu komunikasi apa",
+            "Apakah akreditasi jurusan ilmu komunikasi?",
+            "Apa akreditasi ilkom",
+            "Akreditasi ilkom",
+            "Akreditasi ilmu komunikasi"
+          ],
+          "responses": [
+            "Akreditasi jurusan Ilmu Komunikasi di Fakultas Dakwah dan Komunikasi sekarang adalah A (Akreditasi Amat Baik)."
+          ]
+     },
+     {
+          "tag": "Konsentrasi di jurusan ilmu komunikasi",
+          "patterns": [
+            "Apa saja konsentrasi di jurusan jurusan ilmu komunikasi?",
+            "Konsentrasi di Jurusan ilmu komunikasi apa saja",
+            "Konsentrasi di Jurusan ilmu komunikasi apa saja?",
+            "Sebutkan konsentrasi di Jurusan ilmu komunikasi?",
+            "Konsentrasi di ilkom",
+            "Konsentrasi yang ada di jurusan ilmu komunikasi",
+            "Ada berapa konsentrasi di jurusan ilmu komunikasi"
+          ],
+          "responses": [
+            "Pembagian konsentrasi yang ada di Program Studi Ilmu Komunikasi di UIN SUSKA Riau dibagi menjadi 3 konsentrasi yaitu Konsentrasi Jurnalistik,  Konsentrasi Public Relations, dan Konsentrasi Broadcasting."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan manajemen dakwah",
+          "patterns": [
+            "Apa akreditasi jurusan manajemen dakwah",
+            "Akreditasi jurusan manajemen dakwah",
+            "Akreditasi jurusan manajemen dakwah apa",
+            "Apakah akreditasi jurusan manajemen dakwah?",
+            "Apa akreditasi MD",
+            "Akreditasi MD",
+            "Akreditasi manajemen dakwah"
+          ],
+          "responses": [
+            "Akreditasi jurusan Ilmu Komunikasi di Fakultas Dakwah dan Komunikasi sekarang adalah A (Akreditasi Amat Baik)."
+          ]
+     },
+     {
+          "tag": "Laboratorium fakultas dakwah dan komunikasi",
+          "patterns": [
+            "Laboratorium yang ada di fakultas dakwah dan komunikasi",
+            "Apa saja laboratorium yang ada di fakultas dakwah dan komunikasi",
+            "Laboratorium di fakultas dakwah dan komunikasi",
+            "Lab apa saja yang ada di fakultas dakwah dan komunikasi?",
+            "Laboratorium fakultas dakwah dan komunikasi ",
+            "Lab fakultas dakwah dan komunikasi ",
+            "Lab FDK",
+            "Laboratorium FDK",
+            "Lab yang tersedia di fakultas dakwah dan komunikasi",
+            "Laboratorium yang ada di FDK",
+            "Apa saja laboratorium yang ada di FDK"
+          ],
+          "responses": [
+            "Terdapat beberapa laboratorium yang ada di Fakultas Dakwah dan Komunikasi yaitu Lab TV, Lab Radio, Lab Fotografi, Lab Dakwah dan Konseling, Lab Komputer, Lab Dakwah."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan aqidah dan filsafat islam",
+          "patterns": [
+            "Kapan berdirinya jurusan aqidah dan filsafat islam?",
+            "Jurusan aqidah dan filsafat islam berdiri tahun",
+            "Kapan jurusan AFI di uin berdiri?",
+            "Tahun berdirinya jurusan aqidah dan filsafat islam?",
+            "Tahun berdirinya jurusan AFI ",
+            "AFI berdiri tahun",
+            "Kapan jurusan aqidah dan filsafat islam dibuat",
+            "Berdirinya jurusan aqidah dan filsafat islam",
+            "Kapan dibentuknya jurusan aqidah dan filsafat islam"
+          ],
+          "responses": [
+            "Program Studi Aqidah dan Filsafat Islam Fakultas Ushuludin di UIN SUSKA Riau telah berdiri sejak 1 Juli 1996."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan ilmu Al-Qur’an dan Tafsir",
+          "patterns": [
+            "Kapan berdirinya jurusan ilmu Al-Qur’an dan Tafsir?",
+            "Jurusan ilmu Al-Qur’an dan Tafsir berdiri tahun",
+            "Kapan jurusan IAT di uin berdiri?",
+            "Tahun berdirinya jurusan ilmu Al-Qur’an dan Tafsir?",
+            "Tahun berdirinya jurusan IAT",
+            "IAT berdiri tahun",
+            "Kapan jurusan ilmu Al-Qur’an dan Tafsir dibuat",
+            "Berdirinya jurusan ilmu Al-Qur’an dan Tafsir",
+            "Kapan dibentuknya jurusan ilmu Al-Qur’an dan Tafsir"
+          ],
+          "responses": [
+            "Program Studi ilmu Al-Qur’an dan Tafsir Fakultas Ushuludin di UIN SUSKA Riau telah berdiri sejak 29 Februari 2012."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan studi agama-agama",
+          "patterns": [
+            "Kapan berdirinya jurusan studi agama-agama?",
+            "Jurusan studi agama-agama berdiri tahun",
+            "Kapan jurusan SAA di uin berdiri?",
+            "Tahun berdirinya jurusan studi agama-agama?",
+            "Tahun berdirinya jurusan SAA",
+            "SAA berdiri tahun",
+            "Kapan jurusan studi agama-agama dibuat",
+            "Berdirinya jurusan studi agama-agama",
+            "Kapan dibentuknya jurusan studi agama-agama"
+          ],
+          "responses": [
+            "Program Studi Agama-agama di UIN SUSKA Fakultas Ushuludin Riau telah berdiri sejak 1 Juli 1996."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan ilmu hadis",
+          "patterns": [
+            "Kapan berdirinya jurusan ilmu hadis?",
+            "Jurusan ilmu hadis berdiri tahun",
+            "Kapan jurusan ILHA di uin berdiri?",
+            "Tahun berdirinya jurusan ilmu hadis?",
+            "Tahun berdirinya jurusan ILHA",
+            "ILHA berdiri tahun",
+            "Kapan jurusan ilmu hadis dibuat",
+            "Berdirinya jurusan ilmu hadis",
+            "Kapan dibentuknya jurusan ilmu hadis"
+          ],
+          "responses": [
+            "Program Studi Ilmu Hadis di UIN SUSKA Fakultas Ushuludin Riau telah berdiri sejak 29 Februari 2012."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan aqidah dan filsafat islam",
+          "patterns": [
+            "Apa akreditasi jurusan aqidah dan filsafat islam",
+            "Akreditasi jurusan aqidah dan filsafat islam",
+            "Akreditasi jurusan aqidah dan filsafat islam apa",
+            "Apakah akreditasi jurusan aqidah dan filsafat islam?",
+            "Apa akreditasi AFI",
+            "Akreditasi AFI",
+            "Akreditasi aqidah dan filsafat islam"
+          ],
+          "responses": [
+            "Akreditasi jurusan Aqidah dan Filsafat Islam di Fakultas Ushuluddin sekarang adalah A (Akreditasi Amat Baik)."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan ilmu Al-Qur’an dan Tafsir",
+          "patterns": [
+            "Apa akreditasi jurusan ilmu Al-Qur’an dan Tafsir",
+            "Akreditasi jurusan ilmu Al-Qur’an dan Tafsir",
+            "Akreditasi jurusan ilmu Al-Qur’an dan Tafsir apa",
+            "Apakah akreditasi jurusan ilmu Al-Qur’an dan Tafsir?",
+            "Apa akreditasi IAT",
+            "Akreditasi IAT",
+            "Akreditasi ilmu Al-Qur’an dan Tafsir"
+          ],
+          "responses": [
+            "Akreditasi jurusan ilmu Al-Qur’an dan Tafsir di Fakultas Ushuluddin sekarang adalah A (Akreditasi Amat Baik)."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan studi agama-agama",
+          "patterns": [
+            "Apa akreditasi jurusan studi agama-agama",
+            "Akreditasi jurusan studi agama-agama",
+            "Akreditasi jurusan studi agama-agama apa",
+            "Apakah akreditasi jurusan studi agama-agama?",
+            "Apa akreditasi SAA",
+            "Akreditasi SAA",
+            "Akreditasi studi agama-agama"
+          ],
+          "responses": [
+            "Akreditasi jurusan Studi Agama-agama di Fakultas Ushuluddin sekarang adalah A (Akreditasi Amat Baik)."
+          ]
+     },
+     {
+          "tag": "Akreditasi jurusan ilmu hadis",
+          "patterns": [
+            "Apa akreditasi jurusan ilmu hadis",
+            "Akreditasi jurusan ilmu hadis",
+            "Akreditasi jurusan ilmu hadis apa",
+            "Apakah akreditasi jurusan ilmu hadis?",
+            "Apa akreditasi ILHA",
+            "Akreditasi ILHA",
+            "Akreditasi ilmu hadis"
+          ],
+          "responses": [
+            "Akreditasi jurusan Ilmu Hadis di Fakultas Ushuluddin sekarang adalah B (Akreditasi Baik)."
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan Peternakan",
+          "patterns": [
+            "Kapan berdirinya jurusan peternakan?",
+            "Kapan berdirinya prodi peternakan?",
+            "Kapan berdirinya program studi peternakan?",
+            "Jurusan peternakan berdiri tahun",
+            "Prodi peternakan berdiri tahun",
+            "Program Studi peternakan berdiri tahun",
+            "Berdirinya jurusan peternakan?",
+            "Berdirinya prodi peternakan?",
+            "Berdirinya program studi peternakan?",
+            "Tahun berdirinya jurusan peternakan",
+            "Tahun berdirinya prodi peternakan",
+            "Tahun berdirinya program studi peternakan",
+            "Jurusan Peternakan tahun berapa berdiri?",
+            "Prodi Peternakan tahun berapa berdiri?",
+            "Program Studi Peternakan tahun berapa berdiri?",
+            "Jurusan Peternakan berdiri kapan",
+            "Prodi Peternakan berdiri kapan",
+            "Program Studi Peternakan berdiri kapan",
+            "Peternakan berdiri",
+            "Kapan terbentuknya jurusan peternakan",
+            "Kapan terbentuknya prodi peternakan",
+            "Kapan terbentuknya program studi peternakan",
+            "Berdiri Peternakan"
+          ],
+          "responses": [
+            "Program Studi Peternakan Fakultas Pertanian dan Peternakan di UIN Suska Riau berdiri sejak Tahun 2002"
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan Agroteknologi",
+          "patterns": [
+            "Kapan berdirinya jurusan Agroteknologi?",
+            "Kapan berdirinya prodi Agroteknologi?",
+            "Kapan berdirinya program studi Agroteknologi?",
+            "Jurusan Agroteknologi berdiri tahun",
+            "Prodi Agroteknologi berdiri tahun",
+            "Program Studi Agroteknologi berdiri tahun",
+            "Berdirinya jurusan Agroteknologi?",
+            "Berdirinya prodi Agroteknologi?",
+            "Berdirinya program studi Agroteknologi?",
+            "Tahun berdirinya jurusan Agroteknologi",
+            "Tahun berdirinya prodi Agroteknologi",
+            "Tahun berdirinya program studi Agroteknologi",
+            "Jurusan Agroteknologi tahun berapa berdiri?",
+            "Prodi Agroteknologi tahun berapa berdiri?",
+            "Program Studi Agroteknologi tahun berapa berdiri?",
+            "Jurusan Agroteknologi berdiri kapan",
+            "Prodi Agroteknologi berdiri kapan",
+            "Program Studi Agroteknologi berdiri kapan",
+            "Agroteknologi berdiri",
+            "Kapan terbentuknya jurusan Agroteknologi",
+            "Kapan terbentuknya prodi Agroteknologi",
+            "Kapan terbentuknya program studi Agroteknologi",
+            "Berdiri Agroteknologi"
+          ]
+          "responses": [
+            "Program Studi Agroteknologi Fakultas Pertanian dan Peternakan di UIN Suska Riau berdiri sejak tahun 2007"
+          ]
+     },
+     {
+          "tag": "Tahun berdiri jurusan Gizi",
+          "patterns": [
+            "Kapan berdirinya jurusan Gizi?",
+            "Kapan berdirinya prodi Gizi?",
+            "Kapan berdirinya program studi Gizi?",
+            "Jurusan Gizi berdiri tahun",
+            "Prodi Gizi berdiri tahun",
+            "Program Studi Gizi berdiri tahun",
+            "Berdirinya jurusan Gizi?",
+            "Berdirinya prodi Gizi?",
+            "Berdirinya program studi Gizi?",
+            "Tahun berdirinya jurusan Gizi",
+            "Tahun berdirinya prodi Gizi",
+            "Tahun berdirinya program studi Gizi",
+            "Jurusan Gizi tahun berapa berdiri?",
+            "Prodi Gizi tahun berapa berdiri?",
+            "Program Studi Gizi tahun berapa berdiri?",
+            "Jurusan Gizi berdiri kapan",
+            "Prodi Agroteknologi berdiri kapan",
+            "Program Studi Gizi berdiri kapan",
+            "Gizi berdiri",
+            "Kapan terbentuknya jurusan Gizi",
+            "Kapan terbentuknya prodi Gizi",
+            "Kapan terbentuknya program studi Gizi",
+            "Berdiri Gizi"
+          ],
+          "responses": [
+            "Program Studi dan Peternakan Fakultas Pertanian dan Pertenakan di UIN Suska Riau Berdiri sejak tahun 2019"
+          ]
+     },
+     {
+          "tag": "Laboratorium Jurusan Peternakan",
+          "patterns": [
+            "Apa saja laboratorium yang ada pada jurusan peternakan?",
+            "laboratorium jurusan peternakan?",
+            "labor peternakan?",
+            "lab peternakan",
+            "laboratorium peternakan",
+            "lab yang ada pada jurusan peternakan",
+            "labor yang ada pada jurusan peternakan?",
+            "laboratorim yang ada pada jurusan peternakan?",
+          ]
+          "responses": [
+            "Laboratorium yang ada di jurusan peternakan adalah Laboratorium Patologi, Entomologi, Mikrobiologi dan Ilmu Tanah, Laboratorium Nutrisi dan Teknologi Pakan, Laboratorium Produksi Ternak dan Laboratorium Reproduksi Pemuliaan"
+          ]
+     },
+     {
+          "tag": "Laboratorium Jurusan Agroteknologi",
+          "patterns": [
+            "Apa saja laboratorium yang ada pada jurusan Agroteknologi?",
+            "laboratorium jurusan Agroteknologi?",
+            "labor Agroteknologi?",
+            "lab Agroteknologi",
+            "laboratorium Agroteknologi",
+            "lab yang ada pada jurusan Agroteknologi",
+            "labor yang ada pada jurusan Agroteknologi?",
+            "laboratorim yang ada pada jurusan Agroteknologi?"
+          ],
+          "responses": [
+            "Laboratorium yang ada di jurusan Agroteknologi adalah Laboratorium PascaPanen, Laboratorium Agronomi dan Laboratorium Agrostologi"
+          ]
+     },
+     {
+          "tag": "Kapan tahun berdiri Fakultas Pertanian dan Peternakan",
+          "patterns": [
+            "Kapan berdirinya Fakultas Pertanian dan Peternakan?",
+            "Fakultas Pertanian dan Peternakan berdiri tahun",
+            "Berdirinya Fakultas Pertanian dan Peternakan?",
+            "Tahun berdirinya Fakultas Pertanian dan Peternakan",
+            "Fakultas Pertanian dan Peternakan tahun berapa berdiri?",
+            "Fakultas Pertanian dan Peternakan berdiri kapan",
+            "Peternakan berdiri",
+            "Kapan terbentuknya Fakultas Pertanian dan Peternakan",
+            "Berdiri Fakultas Pertanian dan Peternakan"
+          ],
+          "responses": [
+            "Fakultas Pertanian dan Peternakan (FAPERTAPET) adalah fakultas ke delapan di lingkungan Universitas Islam Sultan Syarif Kasim Riau yang didirikan  pada Tahun 2002 dengan nama Fakultas Peternakan"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan Peternakan",
+          "patterns": [
+            "Apa akreditasi jurusan peternakan?",
+            "Apa akreditasi pada prodi peternakan",
+            "Apa akreditasi pada program studi peternakan",
+            "Akreditasi Jurusan Peternakan apa?",
+            "Akreditasi Peternakan",
+            "Apakah akreditasi jurusan peternakan"
+          ],
+          "responses": [
+            "Akreditasi Jurusan Peternakan di Fakultas Pertanian dan Peternakan sekarang adalah B (Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan Agroteknologi",
+          "patterns": [
+            "Apa akreditasi jurusan Agroteknologi?",
+            "Apa akreditasi pada prodi Agroteknologi",
+            "Apa akreditasi pada program studi Agroteknologi",
+            "Akreditasi Jurusan Agroteknologi apa?",
+            "Akreditasi Agroteknologi",
+            "Apakah akreditasi jurusan Agroteknologi"
+          ],
+          "responses": [
+            "Akreditasi Jurusan Agroteknologi di Fakultas Pertanian dan peternakan sekarang adalah B (Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan Gizi",
+          "patterns": [
+            "Apa akreditasi jurusan Gizi?",
+            "Apa akreditasi pada prodi Gizi",
+            "Apa akreditasi pada program studi Gizi",
+            "Akreditasi Jurusan Gizi apa?",
+            "Akreditasi Gizi",
+            "Apakah akreditasi jurusan Gizi"
+          ],
+          "responses": [
+            "Akreditasi Jurusan Gizi di Fakultas Pertanian dan peternakan sekarang adalah B (Baik)"
+          ]
+     },
+     {
+          "tag": "Tahun berdiri Jurusan Psikologi",
+          "patterns": [
+            "Kapan berdirinya jurusan Psikologi?",
+            "Kapan berdirinya prodi Psikologi?",
+            "Kapan berdirinya program studi Psikologi?",
+            "Jurusan Psikologi berdiri tahun",
+            "Prodi Psikologi berdiri tahun",
+            "Program Studi Psikologi berdiri tahun",
+            "Berdirinya jurusan Psikologi",
+            "Berdirinya prodi Psikologi",
+            "Berdirinya program studi Psikologi",
+            "Tahun berdirinya jurusan Psikologi",
+            "Tahun berdirinya prodi Psikologi",
+            "Tahun berdirinya program studi Psikologi",
+            "Jurusan Psikologi tahun berapa berdiri?",
+            "Prodi Psikologi tahun berapa berdiri?",
+            "Program Studi Psikologi tahun berapa berdiri?",
+            "Jurusan Psikologi berdiri kapan",
+            "Prodi Psikologi berdiri kapan",
+            "Program Studi Psikologi berdiri kapan",
+            "Psikologi berdiri",
+            "Kapan terbentuknya jurusan Psikologi",
+            "Kapan terbentuknya prodi Psikologi",
+            "Kapan terbentuknya program studi Psikologi",
+            "Berdiri Psikologi"
+          ],
+          "responses": [
+            " Jurusan Psikologi Fakultas Psikologi di UIN Suska Riau Berdiri sejak tahun 1998"
+          ]
+     },
+     {
+          "tag": "Laboratorium Psikologi",
+          "patterns": [
+            "Apa saja laboratorium yang ada pada Jurusan Psikologi?",
+            "laboratorium Jurusan Psikologi?",
+            "labor Psikologi?",
+            "lab Psikologi",
+            "laboratorium Psikologi",
+            "lab yang ada pada Jurusan Psikologi",
+            "labor yang ada pada Jurusan Psikologi?",
+            "laboratorim yang ada pada Jurusan Psikologi?"
+          ],
+          "responses": [
+            "Laboratorium yang ada di jurusan Psikologi adalah Laboratorium Psikodiagnostik, Laboratorium Psikologi Terapan, Laboratorium Pengukuran Psikologi dan Laboratorium Pengembangan Psikologi"
+          ]
+     },
+     {
+          "tag": "Kapan tahun berdiri Fakultas Psikologi",
+          "patterns": [
+            "Kapan berdirinya Fakultas Psikologi?",
+            "Fakultas Psikologi berdiri tahun",
+            "Berdirinya Fakultas Psikologi?",
+            "Tahun berdirinya Fakultas Psikologi",
+            "Fakultas Psikologi tahun berapa berdiri?",
+            "Fakultas Psikologi berdiri kapan",
+            " Psikologi berdiri",
+            "Kapan terbentuknya Fakultas Psikologi",
+            "Berdiri Fakultas Psikologi "
+          ],
+          "responses": [
+            "Jurusan Psikologi Fakultas Tarbiyah inilah sebagai embrio berdirinya Fakultas Psikologi pada IAIN Susqa, semenjak tahun 2002 menjadi Fakultas Psikologi UIN Suska Riau."
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan Psikologi",
+          "patterns": [
+            "Apa akreditasi jurusan psikologi?",
+            "Apa akreditasi pada prodi psikologi",
+            "Apa akreditasi pada program studi psikologi",
+            "Akreditasi Jurusan Psikologi apa?",
+            "Akreditasi Psikologi",
+            "Apakah akreditasi jurusan psikologi"
+          ],
+          "responses": [
+            "Akreditasi Jurusan Psikologi di Fakultas Psikologi sekarang adalah B (Baik)"
+          ]
+     },
+     {
+          "tag": "Akreditasi Jurusan Psikologi S2",
+          "patterns": [
+            "Apa akreditasi jurusan psikologi S2?",
+            "Apa akreditasi pada prodi psikologi S2",
+            "Apa akreditasi pada program studi psikologi S2",
+            "Akreditasi Jurusan Psikologi S2 apa?",
+            "Akreditasi Psikologi S2",
+            "Apakah akreditasi jurusan psikologi S2"
+          ],
+          "responses": [
+            "Akreditasi Jurusan Psikologi S2 di Fakultas Psikologi sekarang adalah B (Baik)"
+          ]
+     }
     ]
 }
