@@ -156,7 +156,7 @@
             
           ],
           "responses": [
-            "Nama-nama rektor UIN Suska Riau adalah sebagai berikut: 1. Prof. H. Ilyas Muh. Ali (1970-1975), 2. Drs. H. A. Moerad Oesman (1975=1979), 3. Drs. Soewarno Ahmady (1979-1987), 4. Drs. H. Yusuf Rahman, MA (1987-1996), 5. Prof. Dr. H. Amir Luthfi (1996-2005), 6. Prof. Dr. H. M. Nazir (2005-2014), 7. Prof. Dr. Munzir Hitami, MA (2014-2018), 8. Prof. Dr. KH. Ahmad Mujahidin, S.Ag., M.Ag (2018-2020), 9. Prof. Dr. Khairunas Rajab, M.Ag (2021-2025)"
+            "Rektor UIN Suska Riau Sekarang adalah Prof. Dr. Khairunas Rajab, M.Ag (2021-2025)"
           ]
       },
         {
@@ -3154,6 +3154,73 @@
           ],
           "responses": [
             "Akreditasi Jurusan Psikologi S2 di Fakultas Psikologi sekarang adalah B (Akreditasi Baik)"
+          ]
+     },
+     {
+          "tag": "Konsentrasi di jurusan Matematika",
+          "patterns": [
+            "Apa saja konsentrasi di jurusan Matematika?",
+            "Konsentrasi di Jurusan Matematika apa saja",
+            "Konsentrasi di Jurusan Matematika apa saja?",
+            "Sebutkan konsentrasi di Jurusan Matematika?",
+            "Konsentrasi di MTK",
+            "Konsentrasi yang ada di jurusan Matematika ",
+            "Ada berapa konsentrasi di jurusan Matematika "
+          ],
+          "responses": [
+            "Di jurusan Matematika UIN Suska Riau tidak Terdapat konsentrasi yang harus diambil."
+          ]
+     },
+     {
+          "tag": "Konsentrasi di jurusan Teknik Informatika",
+          "patterns": [
+            "Apa saja konsentrasi di jurusan Teknik Informatika?",
+            "Konsentrasi di Jurusan Teknik Informatika apa saja",
+            "Konsentrasi di Jurusan Teknik Informatika apa saja?",
+            "Sebutkan konsentrasi di Jurusan Teknik Informatika?",
+            "Konsentrasi di Teknik Informatika ",
+            "Konsentrasi yang ada di Teknik Informatika ",
+            "Ada berapa konsentrasi di jurusan Teknik Informatika "
+          ],
+          "responses": [
+            "Di jurusan Teknik Informatika UIN Suska Riau tidak Terdapat konsentrasi yang harus diambil."
+          ]
+     },
+     {
+          "tag": "Konsentrasi di jurusan Teknik Industri",
+          "patterns": [
+            "Apa saja konsentrasi di jurusan Teknik Industri?",
+            "Konsentrasi di Jurusan Teknik Industri apa saja",
+            "Konsentrasi di Jurusan Teknik Industri apa saja?",
+            "Sebutkan konsentrasi di Jurusan Teknik Industri?",
+            "Konsentrasi di Teknik Industri ",
+            "Konsentrasi yang ada di Teknik Industri ",
+            "Ada berapa konsentrasi di jurusan Teknik Industri "
+          ],
+          "responses": [
+            "Di jurusan Teknik Industri UIN Suska Riau tidak Terdapat konsentrasi yang harus diambil."
+          ]
+     },
+     {
+          "tag": "Konsentrasi di jurusan PAI",
+          "patterns": [
+            "Apa saja konsentrasi di jurusan Pendidikan Agama Islam?",
+            "Konsentrasi di Jurusan Pendidikan Agama Islam apa saja",
+            "Konsentrasi di Jurusan Pendidikan Agama Islam apa saja?",
+            "Sebutkan konsentrasi di Jurusan Pendidikan Agama Islam?",
+            "Konsentrasi di Pendidikan Agama Islam ",
+            "Konsentrasi yang ada di Pendidikan Agama Islam ",
+            "Ada berapa konsentrasi di jurusan PAI ",
+            "Apa saja konsentrasi di jurusan PAI?",
+            "Konsentrasi di Jurusan PAI ",
+            "Konsentrasi di Jurusan PAI apa saja?",
+            "Sebutkan konsentrasi di Jurusan PAI?",
+            "Konsentrasi di PAI ",
+            "Konsentrasi yang ada di PAI ",
+            "Ada berapa konsentrasi di jurusan PAI "
+          ],
+          "responses": [
+            "Di jurusan Pendidikan Agama Islam UIN Suska Riau Terdapat 6 konsentrasi yang bisa diambil, yaitu : Konsentrasi Pendidikan Agama Islam SLTP-SLTA, Konsentrasi Pendidikan Alqur’an Hadits, Konsentrasi Pendidikan Fiqih, Konsentrasi Pendidikan Aqidah Akhlak, Konsentrasi Pendidikan Sejarah Kebudayaan Islam, dan Konsentrasi Pendidikan Guru Agama Islam SD"
           ]
      }
     ]
