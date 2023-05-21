@@ -55,9 +55,7 @@
           "Siapa penciptamu, Suska?"
         ],
         "responses": [
-          "SuskaBot diciptakan oleh mahasiswa dan mahasiswi dari program Kampus Merdeka dari UIN Suska RIau yang memiliki ide kreatif dan semangat team yang luar biasa walaupun banyak rintangan dan drama tapi mereka berhasil menciptakan saya saat ini",
-          "Pembuat SuskaBot dari kalangan mahasiswa dan mahasiswi lho!",
-          "Penciptaku berasal dari seorang mahasiswa yang kreatif, sehingga saya bisa aktif saat ini!"
+          "SuskaBot diciptakan oleh mahasiswa dan mahasiswi dari program Kampus Merdeka dari UIN Suska RIau yang memiliki ide kreatif dan semangat team yang luar biasa sehingga mereka berhasil menciptakan saya saat ini"
         ]
       },
       {
@@ -138,26 +136,6 @@
         ]
       },
       {
-          "tag": "rektor",
-          "patterns": [
-            "Siapa saja nama-nama rektok UIN Suska Riau?",
-            "Nama-nama rektor UIN Suska Riau siapa saja?",
-            "Semua rektor UIN Suska Riau",
-            "Rektor UIN Suska terdahulu",
-            "Nama rektor UIN Suska Riau semua",
-            "siapa saja rektor di uin suska riau",
-            "siapa-siapa rektor di uin suska",
-            "rektor-rektor yang ada di uin",
-            "rektor di uin suska riau",
-            "rektor di uin suska",
-            "rektor di uin"
-            
-          ],
-          "responses": [
-            "Nama-nama rektor UIN Suska Riau adalah sebagai berikut: 1. Prof. H. Ilyas Muh. Ali (1970-1975),; 2. Drs. H. A. Moerad Oesman (1975-1979),; 3. Drs. Soewarno Ahmady (1979-1987),; 4. Drs. H. Yusuf Rahman, MA (1987-1996),; 5. Prof. Dr. H. Amir Luthfi (1996-2005),; 6. Prof. Dr. H. M. Nazir (2005-2014),; 7. Prof. Dr. Munzir Hitami, MA (2014-2018),; 8. Prof. Dr. KH. Ahmad Mujahidin, S.Ag., M.Ag (2018-2020),; 9. Prof. Dr. Khairunas Rajab, M.Ag (2021-2025)"
-          ]
-      },
-      {
           "tag": "rektor sekarang",
           "patterns": [
             "Siapa rektor UIN Suska Riau sekarang?",
@@ -200,6 +178,11 @@
         "tag": "UKM_UIN_Suska_Riau",
         "patterns": [
           "UKM di UIN Suska Riau?",
+          "UKM di UIN Suska?",
+          "UKM di UIN?",
+          "UKM yang ada di UIN Suska Riau?",
+          "UKM yang ada di UIN Suska?",
+          "UKM yang ada di UIN?",
           "Estrakulikuler di UIN Suska Riau?"
         ],
         "responses": [
@@ -214,7 +197,7 @@
     
         ],
         "responses": [
-          "UIN Suska Riau merupakan Satu-satunya Kampus Islam Negeri dengan Akreditas B di Riau, Lho!."
+          "UIN Suska Riau merupakan Satu-satunya Kampus Islam Negeri dengan Akreditas B di Riau."
         ]
       },
       {
@@ -249,15 +232,7 @@
           "Fakultas yang ada di UIN"
         ],
         "responses": [
-          "Tarbiyah dan Keguruan",
-          "Ushuludin",
-          "Psikologi",
-          "Ekonomi dan Ilmu Sosial",
-          "Pascasarjana",
-          "Syariah dan Ilmu Hukum",
-          "Dakwah dan Ilmu Komunikasi",
-          "Sains dan Teknologi",
-          "Pertanian dan Pertenakan"
+          "Tarbiyah dan Keguruan, Ushuludin, Psikologi, Ekonomi dan Ilmu Sosial, Pascasarjana, Syariah dan Ilmu Hukum, Dakwah dan Ilmu Komunikasi, Sains dan Teknologi, dan Pertanian dan Pertenakan"
         ]
       },
       
@@ -269,7 +244,7 @@
           "Jurusan di Tarbiyah?"
         ],
         "responses": [
-          "Jurusan di fakultas Taribiyah dan Keguruan ada 11, lho! yaitu : Pendidikan Agama Islam, Pendidikan Bahasa Arab, Pendidikan Islam, Pendidikan Bahasa Inggris, Pendidikan Matematika, Pendidikan Madrasah Ibtidaiyah, Pendidikan Kimia, Pendidikan Bahasa Indonesia, Tadris IPA, Pendidikan Geografi, dan Pendidikan IPS Ekonomi."
+          "Jurusan di fakultas Taribiyah dan Keguruan ada 11, yaitu : Pendidikan Agama Islam, Pendidikan Bahasa Arab, Pendidikan Islam, Pendidikan Bahasa Inggris, Pendidikan Matematika, Pendidikan Madrasah Ibtidaiyah, Pendidikan Kimia, Pendidikan Bahasa Indonesia, Tadris IPA, Pendidikan Geografi, dan Pendidikan IPS Ekonomi."
         ]
       },
       {
@@ -280,7 +255,7 @@
           "Jurusan di Ushuludin?"
         ],
         "responses": [
-          "Jurusan di fakultas Ushuludin ada 4, lho! yaitu : Aqidah dan Filsafat, Tafsir Hadits, Ilmu Hadis, dan Perbandingan Agama"
+          "Jurusan di fakultas Ushuludin ada 4, yaitu : Aqidah dan Filsafat, Tafsir Hadits, Ilmu Hadis, dan Perbandingan Agama"
         ]
       },
       {
@@ -302,7 +277,7 @@
           "Jurusan di fekonsos?"
         ],
         "responses": [
-          "Jurusan di fakultas Ekonomi dan Ilmu Sosial ada 6, lho! yaitu : Manajemen, Administrasi Negara, Akutansi, D3 Manajemen Perusahaan, D3 Akutansi, dan D3 Administrasi Perpajakan"
+          "Jurusan di fakultas Ekonomi dan Ilmu Sosial ada 6, yaitu : Manajemen, Administrasi Negara, Akutansi, D3 Manajemen Perusahaan, D3 Akutansi, dan D3 Administrasi Perpajakan"
         ]
       },
       {
@@ -312,7 +287,7 @@
           "Jurusan pascasarjana?"
         ],
         "responses": [
-          "Jurusan di fakultas pascasarjana ada 7 untuk jenjang magister dan 2 untuk jenjang dokter lho!. di jenjang magister yaitu : Pendidikan Agama Islam, Manajemen Pendidikan Islam, Pendidika Bahasa Arab, Pendidikan Bahasa Inggris, Hukum Islam, Tafsir Hadits, dan Ekonomi Islam. sedangkan di jenjang dokter, yaitu : Pendidikan Agama Islam dan Hukum Islam"
+          "Jurusan di fakultas pascasarjana ada 7 untuk jenjang magister dan 2 untuk jenjang dokter. di jenjang magister yaitu : Pendidikan Agama Islam, Manajemen Pendidikan Islam, Pendidika Bahasa Arab, Pendidikan Bahasa Inggris, Hukum Islam, Tafsir Hadits, dan Ekonomi Islam. sedangkan di jenjang dokter, yaitu : Pendidikan Agama Islam dan Hukum Islam"
         ]
       },
       {
@@ -322,7 +297,7 @@
           "Jurusan di fakultas Tarbiyah dan Keguruan?"
         ],
         "responses": [
-          "Jurusan di fakultas Syariah dan Ilmu Hukum ada 7, lho!. yaitu : Ahwal Al-Syakhshiyyah, Jinayah Siyasah, Perbandingan Mazhab dan Hukum, Muammalah, Ekonomi Islam, Ilmu hukum, dan D3 Perbankan Syariah"
+          "Jurusan di fakultas Syariah dan Ilmu Hukum ada 7, yaitu : Ahwal Al-Syakhshiyyah, Jinayah Siyasah, Perbandingan Mazhab dan Hukum, Muammalah, Ekonomi Islam, Ilmu hukum, dan D3 Perbankan Syariah"
         ]
       },
       {
@@ -333,7 +308,7 @@
           "Jurusan di FDK?"
         ],
         "responses": [
-          "Jurusan di fakultas Dakwah dan Komunikasi ada 4, lho! yaitu : Ilmu Komunikasi, Pengembangan Masyarakat Islam, Manajemen Dakwah, dan BImbingan Konseling Islam"
+          "Jurusan di fakultas Dakwah dan Komunikasi ada 4, yaitu : Ilmu Komunikasi, Pengembangan Masyarakat Islam, Manajemen Dakwah, dan BImbingan Konseling Islam"
         ]
       },
       {
@@ -344,7 +319,7 @@
           "Jurusan di Saintek?"
         ],
         "responses": [
-          "Jurusan di fakultas Sains dan Teknologi ada 5, lho! yaitu : Teknik Informatika, Sistem Informasi, Teknik Idustri, Teknik Elektro dan Matematika Terapan"
+          "Jurusan di fakultas Sains dan Teknologi ada 5, yaitu : Teknik Informatika, Sistem Informasi, Teknik Idustri, Teknik Elektro dan Matematika Terapan"
         ]
       },
       { 
