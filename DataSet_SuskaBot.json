@@ -52,10 +52,33 @@
         "patterns": [
           "Siapa pembuatmu?",
           "Suska, yang buat kamu siapa sih?",
-          "Siapa penciptamu, Suska?"
+          "Siapa penciptamu, Suska?",
+          "siapa pencipta suskabot",
+          "siapa yang buat suskabot",
+          "siapa yang menciptakan suskabot"
         ],
         "responses": [
           "SuskaBot diciptakan oleh mahasiswa dan mahasiswi dari program Kampus Merdeka dari UIN Suska RIau yang memiliki ide kreatif dan semangat team yang luar biasa sehingga mereka berhasil menciptakan saya saat ini"
+        ]
+      },
+      {
+        "tag": "nama pencipta_SuskaBot",
+        "patterns": [
+          "nama-nama pembuatmu?",
+          "Suska, nama-nama yang buat kamu siapa sih?",
+          "nama-nama penciptamu, Suska?",
+          "nama-nama pencipta suskabot",
+          "nama-nama yang buat suskabot",
+          "nama-nama yang menciptakan suskabot",
+          "nama pembuatmu?",
+          "Suska, nama yang buat kamu siapa sih?",
+          "nama penciptamu, Suska?",
+          "nama pencipta suskabot",
+          "nama yang buat suskabot",
+          "nama yang menciptakan suskabot"
+        ],
+        "responses": [
+          "Nama-nama Mahasiswa yang menciptakan saya adalah : Candralika Difa Sena, Syafridho, Auli Nurrahman, Febria Rahmanika dan Muhammad Ramadhan"
         ]
       },
       {
@@ -87,7 +110,8 @@
           "Thank you",
           "Terima kasih",
           "Makasih",
-          "Terima kasih banyak"
+          "Terima kasih banyak",
+          "terimakasih"
         ],
         "responses": [
           "Dengan senang hati :)",
@@ -267,7 +291,8 @@
           "ada berapa fakultas di uin",
           "ada berapa fakultas kampus di uin suska riau",
           "ada berapa fakultas kampus di uin suska",
-          "ada berapa fakultas kampus di uin"
+          "ada berapa fakultas kampus di uin",
+          "ada berapa fakultas"
         ],
         "responses": [
           "Fakultas yang ada di Universitas Islam Negeri Sultan Syarif Kasim Riau yaitu ada 9 Fakultas"
@@ -281,7 +306,7 @@
     
         ],
         "responses": [
-          "UIN Suska Riau merupakan Satu-satunya Kampus Islam Negeri dengan Akreditas B di Riau."
+          "UIN Suska Riau merupakan Satu-satunya Kampus Islam Negeri dengan Akreditas B (Akreditas Baik) di Riau."
         ]
       },
       {
@@ -316,7 +341,7 @@
           "Fakultas yang ada di UIN"
         ],
         "responses": [
-          "Tarbiyah dan Keguruan, Ushuludin, Psikologi, Ekonomi dan Ilmu Sosial, Pascasarjana, Syariah dan Ilmu Hukum, Dakwah dan Ilmu Komunikasi, Sains dan Teknologi, dan Pertanian dan Pertenakan"
+          "Fakultas di UIN Suska Riau yaitu : Tarbiyah dan Keguruan, Ushuludin, Psikologi, Ekonomi dan Ilmu Sosial, Pascasarjana, Syariah dan Ilmu Hukum, Dakwah dan Ilmu Komunikasi, Sains dan Teknologi, dan Pertanian dan Pertenakan"
         ]
       },
       
