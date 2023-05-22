@@ -3337,6 +3337,68 @@
             "Karakteristik : 1. Pengembangan paradigma ilmu yang memberi penekanan pada rasa iman dan tauhid (belief affection); 2. Pengembangan berbagai cabang ilmu pengetahuan dengan pendekatan religius sehingga nilai-nilai Islam menjadi roh bagi setiap cabang ilmu pengetahuan dengan penerapan prinsip Islam dalam Disiplin Ilmu (IDI) sebagai upaya riil mewujudkan integrasi ilmu dengan Islam; 3. Penyelenggaraan beberapa disiplin ilmu untuk mencapai standar kompetensi ilmu-ilmu keislaman yang memperkuat domain akidah, ibadah, muamalah dan akhlak,; 4. Pembinaan dan pengembangan lingkungan yang madani sesuai dengan nilai-nilai Islam melalui program Ma’had ‘Al-jami’ah.; 5. Perwujudan keunggulan akademik dan profesionalisme yang didasarkan pada moral keagamaan dalam kehidupan kampus.; 6. Pengembangan studi Regional Islam Asia Tenggara dan Tamaddun Melayu sebagai pusat keunggulan (center of excellence).; Tujuan : 1. Menghasilkan lulusan yang saleh, moderat, cerdas dan berkualitas secara akademik serta memiliki cara pandang dunia yang Islami (Islamic worldview); 2. Menghasilkan penelitian inovatif, integratif dan tepat guna dalam pengembangan ilmu pengetahuan dan teknologi; 3. Memberikan pengabdian dan layanan yang bermanfaat bagi masyarakat dan lingkungan, dan; 4. Menghasilkan tata kelola yang adaptif dengan sistem dan teknologi berdasarkan prinsip-prinsip transparansi, akuntabilitas, bertanggungjawab, independensi dan kewajaran."
           ]
      },
+     { 
+          "tag": "visi",
+          "patterns": [
+            "Apa Visi UIN Suska Riau? ",
+            "Apasih Visi UIN Suska Riau? ",
+            " Visi UIN Suska Riau adalah",
+            "Apa saja Visi UIN Suska Riau"
+          ],
+          "responses": [
+            "Visi UIN Suska Riau adalah sebagai berikut: Terwujudnya UIN Suska Riau sebagai perguruan tinggi Islam yang gemilang dan terbilang dalam mengembangkan ilmu keIslaman, sains, teknologi dan atau seni secara integratif di kawasan Asia pada Tahun 2025."
+          ]
+     },
+     { 
+          "tag": " misi",
+          "patterns": [
+            "Apa Misi UIN Suska Riau? ",
+            "Apasih Misi UIN Suska Riau? ",
+            " Misi UIN Suska Riau adalah",
+            "Apa saja Misi UIN Suska Riau"
+          ],
+          "responses": [
+            "Misi UIN Suska Riau adalah sebagai berikut: 1. Menyelenggarakan pendidikan dan pembelajaran berbasis integrasi ilmu, teknologi dan atau seni dengan Islam untuk menghasilkan sumber daya manusia yang saleh, moderat, cerdas dan berkualitas secara akademik; 2. Menyelenggarakan penelitian dan pengkajian yang inovatif dan tepat guna dalam mengembangkan ilmu pengetahuan, teknologi dan atau seni yang terintegrasi dengan Islam; 3. Menyelenggarakan pengabdian berbasis integrasi ilmu pengetahuan, teknologi dan atau seni dengan Islam yang bermanfaat bagi masyarakat dan lingkungan; dan 4. Menyelenggarakan tata kelola universitas yang baik (good university govermance) serta adaptif  dengan sistem dan teknologi."
+          ]
+     },
+     { 
+          "tag": "karakteristik ",
+          "patterns": [
+            "Apa karakteristik UIN Suska Riau?",
+            "Apakah karakteristik UIN Suska Riau?",
+            "Karakteristik UIN Suska Riau adalah?",
+            "Karakteristik UIN Suska Riau ialah?",
+            "Karakteristik UIN Suska Riau apa?",
+            "Bagaimana karakteristik UIN Suska Riau?",
+            "Seperti apa karakteristik UIN Suska Riau?",
+            "Karakteristik UIN Suska Riau seperti apa?",
+            "Karakteristik UIN Suska Riau bagaimana?",
+            "Bagaimanakah Karakteristik UIN Suska Riau?",
+            "Apasih karakteristik UIN Suska Riau?"
+          ],
+          "responses": [
+            "Karakteristik : 1. Pengembangan paradigma ilmu yang memberi penekanan pada rasa iman dan tauhid (belief affection); 2. Pengembangan berbagai cabang ilmu pengetahuan dengan pendekatan religius sehingga nilai-nilai Islam menjadi roh bagi setiap cabang ilmu pengetahuan dengan penerapan prinsip Islam dalam Disiplin Ilmu (IDI) sebagai upaya riil mewujudkan integrasi ilmu dengan Islam; 3. Penyelenggaraan beberapa disiplin ilmu untuk mencapai standar kompetensi ilmu-ilmu keislaman yang memperkuat domain akidah, ibadah, muamalah dan akhlak,; 4. Pembinaan dan pengembangan lingkungan yang madani sesuai dengan nilai-nilai Islam melalui program Ma’had ‘Al-jami’ah.; 5. Perwujudan keunggulan akademik dan profesionalisme yang didasarkan pada moral keagamaan dalam kehidupan kampus.; 6. Pengembangan studi Regional Islam Asia Tenggara dan Tamaddun Melayu sebagai pusat keunggulan (center of excellence)."
+          ]
+     },
+     { 
+          "tag": " tujuan",
+          "patterns": [
+            "Apa tujuan UIN Suska Riau?",
+            "Apakah tujuan UIN Suska Riau?",
+            " tujuan UIN Suska Riau adalah?",
+            " tujuan UIN Suska Riau ialah?",
+            " tujuan UIN Suska Riau apa?",
+            "Bagaimana tujuan UIN Suska Riau?",
+            "Seperti apa tujuan UIN Suska Riau?",
+            " tujuan UIN Suska Riau seperti apa?",
+            " tujuan UIN Suska Riau bagaimana?",
+            "Bagaimanakah tujuan UIN Suska Riau?",
+            "Apasih tujuan UIN Suska Riau?"
+          ],
+          "responses": [
+            "Tujuan : 1. Menghasilkan lulusan yang saleh, moderat, cerdas dan berkualitas secara akademik serta memiliki cara pandang dunia yang Islami (Islamic worldview); 2. Menghasilkan penelitian inovatif, integratif dan tepat guna dalam pengembangan ilmu pengetahuan dan teknologi; 3. Memberikan pengabdian dan layanan yang bermanfaat bagi masyarakat dan lingkungan, dan; 4. Menghasilkan tata kelola yang adaptif dengan sistem dan teknologi berdasarkan prinsip-prinsip transparansi, akuntabilitas, bertanggungjawab, independensi dan kewajaran."
+          ]
+     },
      {
           "tag": "Mengisi KRS",
           "patterns": [
