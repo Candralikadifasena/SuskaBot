@@ -3307,5 +3307,195 @@
             "Di jurusan Pendidikan Agama Islam UIN Suska Riau Terdapat 6 konsentrasi yang bisa diambil, yaitu : Konsentrasi Pendidikan Agama Islam SLTP-SLTA, Konsentrasi Pendidikan Alqur’an Hadits, Konsentrasi Pendidikan Fiqih, Konsentrasi Pendidikan Aqidah Akhlak, Konsentrasi Pendidikan Sejarah Kebudayaan Islam, dan Konsentrasi Pendidikan Guru Agama Islam SD"
           ]
      }
+     { 
+          "tag": "visi misi",
+          "patterns": [
+            "Apa Visi Misi UIN Suska Riau? ",
+            "Apasih Visi Misi UIN Suska Riau? ",
+            " Visi Misi UIN Suska Riau adalah",
+            "Apasaja Visi Misi UIN Suska Riau"
+          ],
+          "responses": [
+            "Visi misi UIN Suska Riau adalah sebagai berikut: Visi : Terwujudnya UIN Suska Riau sebagai perguruan tinggi Islam yang gemilang dan terbilang dalam mengembangkan ilmu keIslaman, sains, teknologi dan atau seni secara integratif di kawasan Asia pada Tahun 2025. Misi : 1. Menyelenggarakan pendidikan dan pembelajaran berbasis integrasi ilmu, teknologi dan atau seni dengan Islam untuk menghasilkan sumber daya manusia yang saleh, moderat, cerdas dan berkualitas secara akademik; 2. Menyelenggarakan penelitian dan pengkajian yang inovatif dan tepat guna dalam mengembangkan ilmu pengetahuan, teknologi dan atau seni yang terintegrasi dengan Islam; 3. Menyelenggarakan pengabdian berbasis integrasi ilmu pengetahuan, teknologi dan atau seni dengan Islam yang bermanfaat bagi masyarakat dan lingkungan; dan 4. Menyelenggarakan tata kelola universitas yang baik (good university govermance) serta adaptif  dengan sistem dan teknologi."
+          ]
+     },
+     { 
+          "tag": "karakteristik_dan_tujuan",
+          "patterns": [
+            "Apa karakteristik dan tujuan UIN Suska Riau?",
+            "Apakah karakteristik dan tujuan UIN Suska Riau?",
+            "Karakteristik dan tujuan UIN Suska Riau adalah?",
+            "Karakteristik dan tujuan UIN Suska Riau ialah?",
+            "Karakteristik dan tujuan UIN Suska Riau apa?",
+            "Bagaimana karakteristik dan tujuan UIN Suska Riau?",
+            "Seperti apa karakteristik dan tujuan UIN Suska Riau?",
+            "Karakteristik dan tujuan UIN Suska Riau seperti apa?",
+            "Karakteristik dan tujuan UIN Suska Riau bagaimana?",
+            "Bagaimanakah Karakteristik dan tujuan UIN Suska Riau?",
+            "Apasih karakteristik dan tujuan UIN Suska Riau?"
+          ],
+          "responses": [
+            "Karakteristik : 1. Pengembangan paradigma ilmu yang memberi penekanan pada rasa iman dan tauhid (belief affection); 2. Pengembangan berbagai cabang ilmu pengetahuan dengan pendekatan religius sehingga nilai-nilai Islam menjadi roh bagi setiap cabang ilmu pengetahuan dengan penerapan prinsip Islam dalam Disiplin Ilmu (IDI) sebagai upaya riil mewujudkan integrasi ilmu dengan Islam; 3. Penyelenggaraan beberapa disiplin ilmu untuk mencapai standar kompetensi ilmu-ilmu keislaman yang memperkuat domain akidah, ibadah, muamalah dan akhlak,; 4. Pembinaan dan pengembangan lingkungan yang madani sesuai dengan nilai-nilai Islam melalui program Ma’had ‘Al-jami’ah.; 5. Perwujudan keunggulan akademik dan profesionalisme yang didasarkan pada moral keagamaan dalam kehidupan kampus.; 6. Pengembangan studi Regional Islam Asia Tenggara dan Tamaddun Melayu sebagai pusat keunggulan (center of excellence).; Tujuan : 1. Menghasilkan lulusan yang saleh, moderat, cerdas dan berkualitas secara akademik serta memiliki cara pandang dunia yang Islami (Islamic worldview); 2. Menghasilkan penelitian inovatif, integratif dan tepat guna dalam pengembangan ilmu pengetahuan dan teknologi; 3. Memberikan pengabdian dan layanan yang bermanfaat bagi masyarakat dan lingkungan, dan; 4. Menghasilkan tata kelola yang adaptif dengan sistem dan teknologi berdasarkan prinsip-prinsip transparansi, akuntabilitas, bertanggungjawab, independensi dan kewajaran."
+          ]
+     },
+     {
+          "tag": "Mengisi KRS",
+          "patterns": [
+            "Bagaimana cara mengisi KRS?",
+            "Mengisi KRS",
+            "Tutorial mengisi KRS",
+            "Seperti apa cara mengisi KRS?",
+            "Isi KRS",
+            "Pengisian KRS"
+          ],
+          "responses": [
+            "Cara pengisian KRS adalah: 1. Lakukan login pada portal iraise UIN SUSKA Riau https://iraisenew.uin-suska.ac.id/ dengan menginput usermane dan password.; 2. Pilih menu perkuliahan.; 3. Pilih isi KRS.; 4. Pilih semester yang ingin di isi.; 5. Pilih kelas sesuai yang diinginkan.; 6. Pilih mata kuliah yang tersedia di kelas tersebut dengan menekan ceklis pada mata kuliah yang dipilih.; 7. Setelah selesai mengisi klik simpan untuk menyimpan mata kuliah yang telah dipilih."
+          ]
+     },
+     {
+          "tag": "Cetak KRS",
+          "patterns": [
+            "Bagaimana cara mencetak KRS?",
+            "Cetak KRS",
+            "Tutorial cetak KRS",
+            "Seperti apa cara mencetak KRS?",
+            "Mencetak KRS",
+            "Melihat KRS yang telah diambil",
+            "Bagaimana cara melihat KRS yang telah diambil"
+          ],
+          "responses": [
+            "Cara mencetak KRS adalah : 1. Lakukan login pada portal iraise UIN SUSKA Riau https://iraisenew.uin-suska.ac.id/ dengan menginput usermane dan password.; 2. Pilih menu perkuliahan.; 3. Pilih riwayat KRS.; 4. Pilih semester yang ingin dilihat.; 5. Klik cetak untuk mencetak KRS."
+          ]
+     },
+     {
+          "tag": "Melihat transkip nilai ",
+          "patterns": [
+            "Bagaimana cara melihat transkip nilai?",
+            "Tutorial melihat transkip nilai",
+            "Seperti apa cara melihat transkip nilai?",
+            "Melihat transkip nilai",
+            "Transkip nilai",
+            "Lihat transkip nilai"
+          ],
+          "responses": [
+            "Cara melihat trankip nilai adalah : 1. Lakukan login pada portal iraise UIN SUSKA Riau https://iraisenew.uin-suska.ac.id/ dengan menginput usermane dan password.; 2. Pilih menu perkuliahan.; 3. Pilih transkip nilai.; 4. Maka akan muncul trankip nilai perkuliahan."
+          ]
+     },
+     {
+          "tag": "Jadwal mata kuliah",
+          "patterns": [
+            "Bagaimana cara melihat jadwal mata kuliah?",
+            "Melihat jadwal mata kuliah",
+            "Tutorial melihat jadwal mata kuliah",
+            "Seperti apa cara melihat jadwal mata kuliah?",
+            "Lihat jadwal kuliah",
+            "Jadwal matkul",
+            "Matkul",
+            "Mata kuliah"
+          ],
+          "responses": [
+            "Cara melihat jadwal mata kuliah adalah : 1. Lakukan login pada portal iraise UIN SUSKA Riau https://iraisenew.uin-suska.ac.id/ dengan menginput usermane dan password.; 2. Pilih menu perkuliahan.; 3. Pilih jadwal mata kuliah.; 4. Maka akan muncul jadwal mata kuliah. 5. Pilih mata kuliah yang tersedia di kelas tersebut dengan menekan ceklis pada mata kuliah yang dipilih.; 6. Setelah selesai mengisi klik simpan untuk menyimpan mata kuliah yang telah dipilih."
+          ]
+     },
+     {
+          "tag": "Cetak KTM",
+          "patterns": [
+            "Bagaimana cara mencetak KTM?",
+            "Melihat cetak KTM",
+            "Tutorial mencetak KTM?",
+            "Seperti apa cara mencetak KTM?",
+            "Cetak KTM",
+            "Mencetak KTM"
+          ],
+          "responses": [
+            "Cara mencetak KTM adalah : 1. Lakukan login pada portal iraise UIN SUSKA Riau https://iraisenew.uin-suska.ac.id/ dengan menginput usermane dan password.; 2. Pilih menu perkuliahan. 3. Pilih cetak KTM.; 4. Maka akan muncul KTM yang dapat di unduh."
+          ]
+     },
+     {
+            "tag": "Grafik nilai",
+            "patterns": [
+            "Bagaimana cara melihat grafik nilai?",
+            "Melihat grafik nilai",
+            "Tutorial melihat grafik nilai?",
+            "Seperti apa melihat grafik nilai?",
+            "Lihat grafik nilai",
+            "Grafik nilai"
+          ],
+          "responses": [
+            "Cara melihat grafik nilai adalah : 1. Lakukan login pada portal iraise UIN SUSKA Riau https://iraisenew.uin-suska.ac.id/ dengan menginput usermane dan password.; 2. Pilih menu perkuliahan.; 3. Pilih grafik.; 4. Maka akan muncul grafik nilai yang meliputi IP, IPK dan SKS disemua semester yang telah diambil."
+          ]
+     },
+     {
+            "tag": "Riwayat pembayaran",
+            "patterns": [
+            "Bagaimana cara melihat riwayat pembayaran?",
+            "Melihat riwayat pembayaran",
+            "Tutorial melihat riwayat pembayaran?",
+            "Seperti apa melihat riwayat pembayaran?",
+            "Lihat riwayat pembayaran",
+            "Riwayat pembayaran"
+          ],
+          "responses": [
+            "Cara melihat grafik nilai adalah : 1. Lakukan login pada portal iraise UIN SUSKA Riau https://iraisenew.uin-suska.ac.id/ dengan menginput usermane dan password.; 2. Pilih menu riwayat pembayaran.; 3. Maka akan muncul seluruh riwayat pembayaran selama perkuliahan yang dapat di cetak."
+          ]
+     },
+     {
+          "tag": "Layanan aduan",
+          "patterns": [
+            "Bagaimana cara membuat layanan aduan?",
+            "Layanan aduan",
+            "Buat layanan aduan?",
+            "Membuat layanan aduan?"
+          ],
+            "responses": [
+            "Cara membuat layanan aduan UIN SUSKA Riau adalah : 1. Lakukan login pada portal iraise UIN SUSKA Riau https://iraisenew.uin-suska.ac.id/ dengan menginput usermane dan password.; 2. Pilih menu layanan aduan.; 3. Pilih buat aduan.; 4. Isi level, bagian yang dituju, kategori, subjek aduan dan aduan yang akan dilaporkan sesuai dengan kebutuhan anda.; 5. Apabila ingin mengirim link dapat di isi di bagian link tautan.; 6. klik kirim aduan apabila telah selesai setelah itu aduan anda akan di proses."
+          ]
+     },
+     {
+          "tag": "Kalender Akademik",
+          "patterns": [
+            "Kalender akademik",
+            "Kalender akademik UIN SUSKA Riau",
+            "Bagaimana melihat kalender akademin UIN SUSKA Riau",
+            "Cek kalender akademik",
+            "Melihat kalender akademik",
+            "Bagian kalender akademik",
+            "Jadwal di kalender akademik",
+            "Buka kalender akademik",
+            "Kalender"
+          ],
+          "responses": [
+            "Cara membuka kalender akademik UIN SUSKA Riau adalah : 1. Lakukan login pada portal iraise UIN SUSKA Riau https://iraisenew.uin-suska.ac.id/ dengan menginput usermane dan password.; 2. Pilih menu kalender akademik.; 3. Maka akan muncul kalender akademik di setiap tahun ajaran."
+          ]
+     },
+     {
+          "tag": "Mars UIN SUSKA Riau",
+          "patterns": [
+            "Apa Mars UIN SUSKA Riau?",
+            "Apakah Mars UIN SUSKA Riau",
+            "Sebutkan Mars UIN SUSKA Riau",
+            "Lirik Mars UIN SUSKA Riau",
+            "Mars UIN SUSKA Riau adalah",
+            "Bagaimana Mars UIN SUSKA Riau",
+            "Lirik Mars UIN SUSKA Riau adalah"
+          ],
+          "responses": [
+            "Lirik Mars UIN SUSKA RIAU : UIN SUSKA RIAU SEBAGAI LEMBAGA  PENDIDIKAN TINGGI UTAMA  TERKEMUKA DI TINGKAT DUNIA  KEMBANGKAN AJARAN ISLAM  ILMU PENGETAHUAN DAN TEKNOLOGI OLAH RAGA DAN SENI  PENGKAJIAN SECARA INTEGRAL STUDI REGIONAL ISLAM ASIA TENGGARA SOSIAL BUDAYA TAMADUN MELAYU ILMIAH POKOK TRIDHARMA PERGURUAN TINGGI TERPRADIKMA ISLAMI  BANGKITLAH CIVITAS AKADEMIKA BERSAMA UIN SUSKA RIAU  MAJULAH AGAMA NEGARA DAN BANGSA BERSAMA UIN SUSKA RIAU"
+          ]
+     },
+     {
+          "tag": "semua rektor",
+          "patterns": [
+            "Siapa saja nama-nama rektok UIN Suska Riau?",
+            "Nama-nama rektor UIN Suska Riau siapa saja?",
+            "Semua rektor UIN Suska Riau",
+            "Rektor UIN Suska terdahulu",
+            "Nama rektor UIN Suska Riau semua",
+            "Semua rektor UIN Suska Riau"
+          ],
+          "responses": [
+            "Nama-nama rektor UIN Suska Riau adalah sebagai berikut: 1. Prof. H. Ilyas Muh. Ali (1970-1975); 2.Drs. H. A. Moerad Oesman (1975-1979); 3. Drs. Soewarno Ahmady (1979-1987); 4. Drs. H. Yusuf Rahman, MA (1987-1996); 5. Prof. Dr. H. Amir Luthfi (1996-2005); 6. Prof. Dr. H. M. Nazir (2005-2014); 7. Prof. Dr. Munzir Hitami, MA (2014-2018); 8. Prof. Dr. KH. Ahmad Mujahidin, S.Ag., M.Ag (2018-2020); 9. Prof. Dr. Khairunas Rajab, M.Ag (2021-2025)”
+          ]
+     }
     ]
 }
