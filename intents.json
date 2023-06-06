@@ -19,13 +19,17 @@
           "sore",
           "malam",
           "bro",
+          "woi bot",
+          "hi bot",
+          "hai bot",
+          "hy bot",
+          "bot",
           "sis",
           "kawan"
         ],
         "responses": [
           "Hai! SuskaBot di sini. Mau tau informasi tentang apa nih?",
-          "Halo! Saya SuskaBot, salam kenal ya! Mau tau tentang UIN Suska Riau, kan?",
-          "Helo! Ini SuskaBot. Lagi kepo tentang UIN Suska Riau ya?"
+          "Helo! saya SuskaBot. Lagi kepo tentang UIN Suska Riau ya?"
         ]
       },
       {
@@ -34,6 +38,8 @@
           "Apa itu SuskaBot?",
           "Siapa SuskaBot?",
           "SuskaBot",
+          "SuskaBot itu",
+          "SuskaBot itu apa",
           "Suskabot itu apa sih",
           "Suskabot adalah",
           "Apa yang dimaksud Suskabot",
@@ -43,7 +49,7 @@
           "Jelaskan apa itu Suskbot"
         ],
         "responses": [
-          "SuskaBot adalah aplikasi chatbot informasi tentang Kampus UIN Suska Riau yang dimulai dari pelaksanaan, persyaratan dan program yang berada di kampus UIN Suska Riau!",
+          "SuskaBot adalah aplikasi chatbot informasi tentang Kampus UIN Suska Riau!",
           "SuskaBot itu adalah teman informasi kamu tentang Kampus UIN Suska Riau!"
         ]
       },
@@ -51,6 +57,10 @@
         "tag": "pencipta_SuskaBot",
         "patterns": [
           "Siapa pembuatmu?",
+          "Siapa yang buat kamu?",
+          "Siapa pencipta bot?",
+          "Siapa penciptamu?",
+          "Siapa pembuat suskabot?",
           "Suska, yang buat kamu siapa sih?",
           "Siapa penciptamu, Suska?",
           "siapa pencipta suskabot",
@@ -71,6 +81,7 @@
           "nama-nama yang buat suskabot",
           "nama-nama yang menciptakan suskabot",
           "nama pembuatmu?",
+          "nama pembuatmu suskabot?",
           "Suska, nama yang buat kamu siapa sih?",
           "nama penciptamu, Suska?",
           "nama pencipta suskabot",
@@ -123,6 +134,9 @@
         "patterns": [
           "Alamat UIN Suska Riau?",
           "Alamat UIN Suska?",
+          "dimana letak UIN",
+          "dimana lokasi uin",
+          "dimana alamat uin",
           "Alamat UIN?",
           "dimana alamat UIN Suska Riau?",
           "dimana alamat UIN Suska?",
@@ -153,6 +167,12 @@
           "Sejarah UIN Suska ",
           "kisah uin suska riau",
           "kisah uin suska ",
+          "tahun didirikan uin",
+          "tahun berdiri uin",
+          "kapan uin berdiri",
+          "kapan uin suska riau berdiri",
+          "kapan uin suska berdiri",
+          "kapan tahun berdiri uin",
           "kisah uin "
         ],
         "responses": [
@@ -176,6 +196,10 @@
             "Rektor UIN saat ini",
             "Rektor UIN Suska riau yang menjabat",
             "Rektor UIN Suska yang menjabat",
+            "rektor sekarang",
+            "siapa rektor sekarang",
+            "rektor yang sekarang",
+            "rektor uin yang sekarang",
             "Rektor UIN yang menjabat"
             
           ],
@@ -192,6 +216,11 @@
           "UIN",
           "Apa itu UIN Suska?",
           "UIN Suska Riau itu apa?",
+          "apa itu uin",
+          "apa itu uin suska",
+          "apa itu kampus uin",
+          "kampus uin",
+          "kampus uin suska riau",
           "UIN Suska itu apa?"
         ],
         "responses": [
@@ -207,10 +236,16 @@
           "UKM yang ada di UIN Suska Riau?",
           "UKM yang ada di UIN Suska?",
           "UKM yang ada di UIN?",
-          "Estrakulikuler di UIN Suska Riau?"
+          "Estrakulikuler di UIN Suska Riau?",
+          "Estrakulikuler di UIN?",
+          "Estrakulikuler di UIN Suska?",
+          "Eskul di UIN Suska Riau?",
+          "eskul di UIN?",
+          "Eskul di UIN Suska?",
+          "eskul di kampus IN Suska Riau?"
         ],
         "responses": [
-          "UKM yang ada di UIN Suska Riau ada banyak loh, seperti : Sanggar latah Tuah, Lembaga Pers Mahasiswa (LPM) Gagasan, Pramuka, Sanggar Kasimiah, Korps Sukarela Palang Merah Indonesia, Mahasiswa Pencinta Alam, Lembaga Dakwah Kampus (LDK) Al-Karamah, Forum Kajian Islam Intensif Asy-Syams, Himpunan Seni Silat, Koperasi Mahasiswa, Resimen Mahasiswa, IN Suska Menagajar dan Marcing Band. Nah, ada banyak kan. jadi Mana Yang Paling Kalian Minati nihh! "
+          "UKM atau Ekstrakulikuler yang ada di UIN Suska Riau ada banyak loh, seperti : Sanggar latah Tuah, Lembaga Pers Mahasiswa (LPM) Gagasan, Pramuka, Sanggar Kasimiah, Korps Sukarela Palang Merah Indonesia, Mahasiswa Pencinta Alam, Lembaga Dakwah Kampus (LDK) Al-Karamah, Forum Kajian Islam Intensif Asy-Syams, Himpunan Seni Silat, Koperasi Mahasiswa, Resimen Mahasiswa, IN Suska Menagajar dan Marcing Band. Nah, ada banyak kan. jadi Mana Yang Paling Kalian Minati nihh! "
         ]
       },
       {
@@ -221,7 +256,13 @@
           "Luas uin",
           "Luas kampus uin suska riau",
           "Luas kampus uin suska",
-          "Luas kampus uin" 
+          "Luas kampus uin",
+          "berapa Luas uin suska riau",
+          "berapa Luas uin suska",
+          "berapa Luas uin",
+          "berapa Luas kampus uin suska riau",
+          "berapa Luas kampus uin suska",
+          "berapa Luas kampus uin"
         ],
         "responses": [
           "UIN Suska RIAU telah mempunyai lahan kampus seluas 84,15 Ha yang terdiri atas 3,65 Ha di Jl. K.H. Ahmad Dahlan dan 80,50 Ha di Km. 15 Jl. Soebrantas Simpangbaru Panam Pekanbaru"
@@ -275,6 +316,7 @@
           "Peringkat uin suska riau di PTKIN seluruh indonesia",
           "Peringkat uin suska di PTKIN seluruh indonesia",
           "Peringkat uin di PTKIN seluruh indonesia",
+          "Peringkat uin di PTKIN",
           "Peringkat kampus uin suska riau di PTKIN seluruh indonesia",
           "Peringkat kampus uin suska di PTKIN seluruh indonesia",
           "Peringkat kampus uin di PTKIN seluruh indonesia" 
@@ -291,7 +333,8 @@
           "ada berapa fakultas di uin",
           "ada berapa fakultas kampus di uin suska riau",
           "ada berapa fakultas kampus di uin suska",
-          "ada berapa fakultas kampus di uin",
+          "fakultas di uin",
+          "fakultas di uin suska",
           "ada berapa fakultas"
         ],
         "responses": [
@@ -302,6 +345,11 @@
         "tag": "Akreditas_UIN_Suska_Riau",
         "patterns": [
           "Akreditas UIN Suska Riau Apa Sih sekarang?",
+          "akreditasi uin suska",
+          "akreditasi uin",
+          "akre uin suska",
+          "akre uin ",
+          "akre uin suska riau",
           "Akreditas UIN Suska Riau?"
     
         ],
@@ -313,6 +361,12 @@
         "tag": "persyaratan_daftar_UIN_Suska_Riau",
         "patterns": [
           "Apa persyaratan daftar ke UIN Suska Riau?",
+          "syarat daftar uin suska",
+          "syarat daftar uin",
+          "apa syarat daftar uin",
+          "apa syarat daftar uin suska",
+          "syarat daftar di uin",
+          "apa syarat daftar di uin",
           "Syarat Mendaftar di UIN Suska Riau"
         ],
         "responses": [
@@ -322,7 +376,14 @@
       {
         "tag": "Jalur_Pendaftaran",
         "patterns": [
-          "Apa saja jalur pendaftaran yang ada di UIN Suska Riau?",
+          "Apa saja jalur pendaftaran yang ada di UIN Suska Riau?","",
+          "jalur pendaftaran uin suska",
+          "jalur masuk uin",
+          "jalur pendaftaran uin",
+          "jalur masuk uin suska",
+          "jalur masuk ke uin",
+          "jalur pendaftaran ke uin",
+          "jalur daftar ke uin",
           "Jalur pendaftaran di UIN Suska Riau?"
         
         ],
@@ -338,6 +399,12 @@
           "Fakultas di UIN",
           "Fakultas yang ada di UIN Suska Riau",
           "Fakultas yang ada di UIN Suska",
+          "fakultas yang ada di uin",
+          "fakultas di kampus uin",
+          "fakultas uin",
+          "fakultas uin suska",
+          "fakultas apa saja di uin suska",
+          "fakultas apa saja di uin",
           "Fakultas yang ada di UIN"
         ],
         "responses": [
@@ -350,6 +417,12 @@
         "patterns": [
           "di fakultas Tarbiyah dan Keguruan ada jurusan apa aja?",
           "Jurusan di fakultas Tarbiyah dan Keguruan?",
+          "jurusan di tarbiyah",
+          "jurusan di FTK",
+          "jurusan di tarbiyah dan keguruan",
+          "jurusan yang ada di ftk",
+          "jurusan yang ada di tarbiyah",
+          "jurusan yang ada di tarbiyah dan keguruan",
           "Jurusan di Tarbiyah?"
         ],
         "responses": [
@@ -361,6 +434,9 @@
         "patterns": [
           "di fakultas Ushuludin ada jurusan apa aja?",
           "Jurusan di fakultas Ushuludin?",
+          "jurusan di ushuludin",
+          "jurusan yang ada di ushuludin",
+          "jurusan ushuludin",
           "Jurusan di Ushuludin?"
         ],
         "responses": [
@@ -372,10 +448,15 @@
         "patterns": [
           "di fakultas Psikologi ada jurusan apa aja?",
           "Jurusan di fakultas psikologi}?",
-          "Jurusan di psikologi?"
+          "jurusan di psikologi",
+          "jurusan di psikologi uin",
+          "jurusan yang ada di psikologi",
+          "jurusan yang ada di psikologi uin",
+          "jurusan di psikologi uin suska",
+          "Jurusan di psikologi uin suska riau?"
         ],
         "responses": [
-          "Jurusan di fakultas Psikologi ada 2, lho! yaitu : S1 Psikologi dan S2 psikologi"
+          "Jurusan di fakultas Psikologi ada 2, yaitu : S1 Psikologi dan S2 psikologi"
         ]
       },
       {
@@ -383,6 +464,12 @@
         "patterns": [
           "di fakultas Ekonomi dan Ilmu Sosial ada jurusan apa aja?",
           "Jurusan di fakultas Ekonomi dan ilmu Sosial?",
+          "jurusan di fekon",
+          "jurusan di fekonsos",
+          "jurusan yang ada di fekon",
+          "jurusan yang ada di fekonsos",
+          "jurusan di fekonsos uin ",
+          "jurusan di fekon uin",
           "Jurusan di fekonsos?"
         ],
         "responses": [
@@ -393,6 +480,12 @@
         "tag": "jurusan_fakultas_pascasarjana",
         "patterns": [
           "di fakultas pascasarjana ada fakultas apa aja?",
+          "jurusan di pascasarjana",
+          "jurusan pascasarjana",
+          "jurusan yang ada di fakultas pascasarjana",
+          "jurusan pascasarjana uin",
+          "jurusan pascasarjana uin suska",
+          "jurusan apa saja yang pascasarjana",
           "Jurusan pascasarjana?"
         ],
         "responses": [
@@ -403,6 +496,12 @@
         "tag": "jurusan_fakultas_Syariah_dan_Ilmu_Hukum",
         "patterns": [
           "di fakultas Syariah dan Ilmu Hukum ada Jurusan Apa aja?",
+          "jurusan di fasih",
+          "jurusan di fasih uin",
+          "jurusan di fasih uin suska",
+          "jurusan fasih",
+          "jurusan fasih uin",
+          "jurusan di fasih uin suska",
           "Jurusan di fakultas Tarbiyah dan Keguruan?"
         ],
         "responses": [
@@ -414,6 +513,13 @@
         "patterns": [
           "di fakultas Dakwah dan Komunikasi ada jurusan apa aja?",
           "Jurusan di fakultas Dakwah dan Komunikasi?",
+          "jurusan di fdk",
+          "jurusan di fakultas fdk",
+          "jurusan di fdk uin",
+          "jurusan yanga ada di uin",
+          "jurusan yang ada di uin suska",
+          "jurusan yang ada di fakultas fdk",
+          "jurusan yang ada di fdk",
           "Jurusan di FDK?"
         ],
         "responses": [
@@ -425,6 +531,13 @@
         "patterns": [
           "di fakultas Sains dan Teknologi ada jurusan apa aja?",
           "Jurusan di fakultas Sains dan Teknologi?",
+          "jurusan yang di saintek",
+          "jurusan di faste",
+          "jurusan di faste uin",
+          "jurusan yang ada di faste",
+          "jurusan yang ada di faste uin",
+          "jurusan yang ada di faste uin suska",
+          "jurusan di faste uin suska",
           "Jurusan di Saintek?"
         ],
         "responses": [
@@ -512,6 +625,7 @@
           "tag": "IPK",
           "patterns": [
             "Apa itu IPK?",
+            "ipk",
             "IPK adalah",
             "Pengertian IPK",
             "Arti IPK"
@@ -525,6 +639,9 @@
           "patterns": [
             "Apa itu IP?",
             "IP adalah",
+            "ip",
+            "ip itu ",
+            "ip ialah",
             "Pengertian IP",
             "Arti IP"
           ],
@@ -556,6 +673,7 @@
             "Pengertian dari KKN",
             "Apa yang dimaksud dengan KKN",
             "KKN artinya apa",
+            "kkn",
             "KKN artinya adalah"
           ],
           "responses": [
@@ -568,6 +686,7 @@
             "Apa itu UKT?",
             "Apa UKT ",
             "UKT adalah",
+            "ukt",
             "Pengertian UKT ",
             "Arti UKT",
             "Pengertian dari UKT",
@@ -587,6 +706,7 @@
             "Rektor adalah",
             "Pengertian rektor",
             "Arti rektor",
+            "rektor",
             "Pengertian dari rektor",
             "Apa yang dimaksud dengan rektor",
             "Rektor artinya apa",
@@ -605,6 +725,7 @@
             "Dekan adalah",
             "Pengertian dekan",
             "Arti dekan",
+            "dekan",
             "Pengertian dari dekan",
             "Apa yang dimaksud dengan dekan",
             "Dekan artinya apa",
@@ -621,6 +742,10 @@
             "Apa itu Kepala jurusan?",
             "Apa Kepala jurusan",
             "Kepala jurusan adalah",
+            "kajur adalah",
+            "kajur",
+            "kaprodi adalah",
+            "kaprodi",
             "Pengertian Kepala jurusan",
             "Arti Kepala jurusan",
             "Pengertian dari Kepala jurusan",
@@ -648,6 +773,7 @@
           "patterns": [
             "Apa itu dosen?",
             "Apa dosen",
+            "dosen",
             "Dosen adalah",
             "Pengertian dosen",
             "Arti dosen",
@@ -665,6 +791,8 @@
           "tag": "Dosen pembimbing",
           "patterns": [
             "Apa itu dosen pembimbing?",
+            "dosen pembimbing",
+            "dospem",
             "Apa dosen pembimbing",
             "Dosen pembimbing adalah",
             "Pengertian dosen pembimbing",
@@ -683,6 +811,8 @@
           "tag": "Asisten dosen",
           "patterns": [
             "Apa itu asisten dosen?",
+            "asdos adalah",
+            "asdos",
             "Apa asisten dosen",
             "Asisten dosen adalah",
             "Pengertian asisten dosen",
@@ -702,6 +832,7 @@
           "patterns": [
             "Apa itu DPM?",
             "Apa DPM",
+            "dpm",
             "DPM adalah",
             "Pengertian DPM",
             "Arti DPM",
@@ -719,6 +850,7 @@
           "tag": "MPM",
           "patterns": [
             "Apa itu MPM?",
+            "mpm",
             "Apa MPM",
             "MPM adalah",
             "Pengertian MPM",
@@ -738,6 +870,7 @@
           "patterns": [
             "Apa itu DEMA?",
             "Apa DEMA",
+            "dema",
             "DEMA adalah",
             "Pengertian DEMA",
             "Arti DEMA",
@@ -758,6 +891,7 @@
             "Apa HIMA",
             "HIMA adalah",
             "Pengertian HIMA",
+            "hima",
             "Arti HIMA",
             "Pengertian dari HIMA",
             "Apa yang dimaksud dengan HIMA",
@@ -773,6 +907,7 @@
           "tag": "BEM",
           "patterns": [
             "Apa itu BEM?",
+            "bem",
             "Apa BEM",
             "BEM adalah",
             "Pengertian BEM",
@@ -792,6 +927,7 @@
           "patterns": [
             "Apa itu UKM?",
             "Apa UKM",
+            "ukm",
             "UKM adalah",
             "Pengertian UKM",
             "Arti UKM",
@@ -809,6 +945,7 @@
           "tag": "Magang",
           "patterns": [
             "Apa itu Magang?",
+            "magang",
             "Apa Magang",
             "Magang adalah",
             "Arti Magang",
@@ -826,6 +963,7 @@
           "tag": "Skripsi",
           "patterns": [
             "Apa itu Skripsi?",
+            "skripsi",
             "Apa Skripsi",
             "Skripsi adalah",
             "Pengertian Skripsi",
@@ -845,6 +983,7 @@
           "patterns": [
             "Apa itu Wisuda?",
             "Apa Wisuda",
+            "wisuda",
             "Wisuda adalah",
             "Pengertian Wisuda",
             "Arti Wisuda",
@@ -897,6 +1036,7 @@
           "patterns": [
             "Dimana dapat melihat informasi penerimaan mahasiswa baru?",
             "Informasi penerimaan mahasiswa baru",
+            "pmb",
             "Penerimaan mahasiswa baru",
             "Melihat cara pendaftaran",
             "Cara pendaftaran mahasiswa baru"
@@ -945,7 +1085,14 @@
             "elearning",
             "elearning UIN SUSKA Riau",
             "Buka elearning UIN SUSKA Riau",
-            "Buka elearning"
+            "Buka elearning",
+            "Dimana dapat mengakses e-learning UIN SUSKA Riau?",
+            "Akses e-learning UIN SUSKA Riau",
+            "Apakah UIN SUSKA Riau memiliki e-learning?",
+            "e-learning",
+            "e-learning UIN SUSKA Riau",
+            "Buka e-learning UIN SUSKA Riau",
+            "Buka e-learning"
           ],
           "responses": [
             "Untuk dapat melihat elearning UIN SUSKA Riau dapat mengunjungi situs ini https://elearning.uin-suska.ac.id/my/courses.php"
@@ -974,6 +1121,7 @@
           "patterns": [
             "Dimana dapat mengakses Jalur undangan mandiri UIN SUSKA Riau?",
             "Jalur undangan mandiri",
+            "um",
             "Akses jalur undangan mandiri UIN SUSKA Riau",
             "Apakah UIN SUSKA Riau memiliki jalur undangan mandiri?",
             "Apakah ada jalur undangan mandiri di UIN SUSKA Riau?",
@@ -1060,6 +1208,7 @@
           "tag": "Pengertian KTM",
           "patterns": [
             "Apa itu KTM?",
+            "ktm",
             "Apa KTM",
             "KTM adalah",
             "Pengertian KTM",
@@ -1077,6 +1226,7 @@
           "tag": "KIP",
           "patterns": [
             "Apa itu KIP?",
+            "kip",
             "Apa KIP",
             "KIP adalah",
             "Pengertian KIP",
@@ -1129,6 +1279,7 @@
           "patterns": [
             "Apa itu jurnal?",
             "Jurnal adalah",
+            "jurnal",
             "Pengertian jurnal",
             "Jurnal itu apa",
             "Apakah jurnal itu?",
@@ -1146,6 +1297,7 @@
             "Apa itu makalah?",
             "Makalah adalah",
             "Pengertian makalah",
+            "makalah",
             "Makalah itu apa",
             "Apakah makalah itu?",
             "Pengertian makalah",
@@ -1160,6 +1312,7 @@
           "tag": "PKM",
           "patterns": [
             "Apa itu PKM?",
+            "pkm",
             "PKM adalah",
             "Pengertian PKM",
             "PKM itu apa",
@@ -1192,6 +1345,7 @@
             "Letak Perpustakaan di UIN SUSKA Riau",
             "Perpustakaan ada di?",
             "Mana Perpustakaan",
+            "perpustakaan",
             "Disebelah mana Perpustakaan?",
             "Perpustakaan ada dimana?"
           ],
@@ -1251,6 +1405,8 @@
             "Apakah website Fakultas Sains dan Teknologi?",
             "Web Fakultas Sains dan Teknologi apa",
             "Web FASTE apa",
+            "web faste",
+            "website saintek",
             "Apakah web FASTE",
             "Web FASTE adalah",
             "Apa web FASTE?"
@@ -1267,6 +1423,7 @@
             "Apakah website Fakultas Tarbiyah dan Keguruan?",
             "Web Fakultas Tarbiyah dan Keguruan apa",
             "Web FTK apa",
+            "web ftk",
             "Apakah web FTK",
             "Web FTK adalah",
             "Apa web FTK?"
@@ -1282,6 +1439,7 @@
             "Website Fakultas Ushuluddin apa",
             "Apakah website Fakultas Ushuluddin?",
             "Web Fakultas Ushuluddin apa",
+            "web ushuludin",
             "Web Fakultas Ushuluddin apa",
             "Apakah web Fakultas Ushuluddin ",
             "Web Fakultas Ushuluddin adalah",
@@ -1296,6 +1454,7 @@
           "patterns": [
             "Apa website Fakultas Psikologi?",
             "Website Psikologi apa",
+            "website psikologi",
             "Apakah website Fakultas Psikologi?",
             "Web Fakultas Psikologi apa",
             "Web Fakultas Psikologi apa",
@@ -1318,6 +1477,7 @@
             "Apakah web Fakultas Ekonomi dan Ilmu Sosial",
             "Web Fakultas Ekonomi dan Ilmu Sosial adalah",
             "Apa website FEKON?",
+            "website fekon",
             "Website FEKON apa",
             "Apakah website FEKON?",
             "Web FEKON apa",
@@ -1341,6 +1501,7 @@
             "Apakah website Fakultas Syariah dan Ilmu Hukum?",
             "Web Fakultas Syariah dan Ilmu Hukum apa",
             "Web fasih apa",
+            "web fasih",
             "Apakah web fasih",
             "Web fasih adalah",
             "Apa web fasih?"
@@ -1358,6 +1519,7 @@
             "Web Fakultas Dakwah dan Ilmu Komunikasi apa",
             "Apa website FDK?",
             "Website FDK apa",
+            "website fdk",
             "Apakah website FDK?",
             "Web FDK apa",
             "Apakah web FDK",
@@ -1378,6 +1540,8 @@
             "Apa website FAPERTA?",
             "Website FAPERTA apa",
             "Apakah website FAPERTA?",
+            "website fapertapet",
+            "website faperta",
             "Web FAPERTA apa",
             "Web FPP apa",
             "Apakah web FPP",
@@ -1397,7 +1561,14 @@
             "Web Pasca Sarjana apa",
             "Apakah web Pasca Sarjana ",
             "Web Pasca Sarjana adalah",
-            "Apa web Pasca Sarjana?"
+            "Apa web PascaSarjana?",
+            "Apa website PascaSarjana?",
+            "Website Pasca Sarjanaapa",
+            "Apakah website PascaSarjana?",
+            "Web PascaSarjana apa",
+            "Apakah web PascaSarjana ",
+            "Web PascaSarjana adalah",
+            "Apa web PascaSarjana?"
           ],
           "responses": [
             "Website dari Pasca Sarjana UIN SUSKA Riau adalah https://pasca.uin-suska.ac.id/"
@@ -1413,6 +1584,8 @@
             "Apakah web UIN SUSKA Riau",
             "Web UIN SUSKA Riau adalah",
             "Apa web UIN?",
+            "website uin suska",
+            "website uin",
             " Apa website UIN?",
             " Website UIN?",
             " Apakah website UIN?",
@@ -1428,6 +1601,7 @@
           "patterns": [
             "Apa itu MBKM?",
             "MBKM apa",
+            "mbkm",
             "MBKM adalah",
             "Apakah MBKM?",
             "Apa itu program MBKM",
@@ -1446,6 +1620,12 @@
         "patterns": [
           "di fakultas pertanian dan pertenakan ada jurusan apa aja?",
           "Jurusan di fakultas pertanian dan peternakan?",
+          "jurusan di fapertapet",
+          "jurusan di faperta",
+          "jurusan yang ada di fapertapet",
+          "jurusan yang ada di faperta",
+          "jurusan di fapertapet uin",
+          "jurusan fapertapet uin",
           "Jurusan di Fapertapet?"
           ],
         "responses": [
