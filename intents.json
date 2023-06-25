@@ -376,7 +376,7 @@
       {
         "tag": "Jalur_Pendaftaran",
         "patterns": [
-          "Apa saja jalur pendaftaran yang ada di UIN Suska Riau?","",
+          "Apa saja jalur pendaftaran yang ada di UIN Suska Riau?",
           "jalur pendaftaran uin suska",
           "jalur masuk uin",
           "jalur pendaftaran uin",
@@ -388,7 +388,7 @@
         
         ],
         "responses": [
-          "Terdapat beberapa jalur pendaftaran, seperti jalur SNBP, SNBT, SPAN-PTKIN, UM-PTKIN, SMM-PTN barat, Undangan Mandiri, Ujian Tulis Mandiri, dan lain-lain"
+          "Mohon Ulangi Pertanyaan Anda!"
         ]
       },
       {
